@@ -1,0 +1,2369 @@
+SmartHome Event Report:
+===========================================================================
+ || Older sister met Younger sister in ChildrenBedroom ||:  00 : 00  --  00 : 00 
+ || Grandmother 1 played with Fish in LivingRoom ||:  00 : 00  --  00 : 00 
+ || Grandmother 1 played with Cat 1 in LivingRoom ||:  00 : 00  --  00 : 00 
+ || Grandmother 2 played with Cat 2 in Bedroom ||:  00 : 00  --  00 : 00 
+ || Older sister met Dog 2 in ChildrenBedroom ||:  00 : 00  --  00 : 00 
+ || Mother switched on BlindWindow in Kitchen ||:  00 : 00  --  00 : 30 
+ || Mother used BlindWindow in Kitchen ||:  00 : 00  --  00 : 30 
+ || Mother switched off BlindWindow in Kitchen ||:  00 : 00  --  00 : 30 
+ || Grandmother 1 switched on TV in LivingRoom ||:  00 : 00  --  00 : 30 
+ || Grandmother 1 crashed TV in LivingRoom ||:  00 : 00  --  00 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  00 : 00  --  00 : 30 
+ || Grandmother 1 switched on TV in LivingRoom ||:  00 : 00  --  00 : 30 
+ || Father met Dog 1 in Bedroom ||:  00 : 00  --  00 : 30 
+ || Father switched on BlindWindow in Bedroom ||:  00 : 00  --  00 : 30 
+ || Smoke Sensor alarmed in Garage ||:  00 : 00  --  00 : 30 
+ || Smoke Sensor alarmed in Kitchen ||:  00 : 00  --  00 : 30 
+ || Mother met Father in Kitchen ||:  00 : 00  --  00 : 30 
+ || Temperature Sensor alarmed in Kitchen ||:  00 : 00  --  00 : 30 
+ || Smoke Sensor alarmed in LivingRoom ||:  00 : 00  --  00 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  00 : 00  --  00 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  00 : 00  --  00 : 30 
+ || Father met Dog 1 in Bedroom ||:  00 : 00  --  00 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  00 : 00  --  00 : 30 
+ || Younger sister met Father in Bathroom ||:  00 : 00  --  00 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  00 : 00  --  00 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  00 : 00  --  00 : 30 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  00 : 00  --  00 : 30 
+ || Older sister met Father in ChildrenBedroom ||:  00 : 00  --  00 : 30 
+ || Older sister switched on Conditioner in ChildrenBedroom ||:  00 : 30  --  01 : 00 
+ || Older sister used Conditioner in ChildrenBedroom ||:  00 : 30  --  01 : 00 
+ || Older sister switched off Conditioner in ChildrenBedroom ||:  00 : 30  --  01 : 00 
+ || Grandmother 1 used TV in LivingRoom ||:  00 : 30  --  01 : 00 
+ || Grandmother 1 switched off TV in LivingRoom ||:  00 : 30  --  01 : 00 
+ || Younger sister switched on WashingMachine in Bathroom ||:  00 : 30  --  01 : 00 
+ || Younger sister used WashingMachine in Bathroom ||:  00 : 30  --  01 : 00 
+ || Younger sister switched off WashingMachine in Bathroom ||:  00 : 30  --  01 : 00 
+ || Grandmother 1 switched on BlindWindow in LivingRoom ||:  00 : 30  --  01 : 00 
+ || Grandmother 1 used BlindWindow in LivingRoom ||:  00 : 30  --  01 : 00 
+ || Grandmother 1 switched off BlindWindow in LivingRoom ||:  00 : 30  --  01 : 00 
+ || Grandmother 2 switched on TV in Bedroom ||:  00 : 30  --  01 : 00 
+ || Grandmother 2 used TV in Bedroom ||:  00 : 30  --  01 : 00 
+ || Grandmother 2 switched off TV in Bedroom ||:  00 : 30  --  01 : 00 
+ || Smoke Sensor alarmed in Garage ||:  00 : 30  --  01 : 00 
+ || Smoke Sensor alarmed in Kitchen ||:  00 : 30  --  01 : 00 
+ || Mother met Father in Kitchen ||:  00 : 30  --  01 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  00 : 30  --  01 : 00 
+ || Father met Dog 1 in Bedroom ||:  00 : 30  --  01 : 00 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  00 : 30  --  01 : 00 
+ || Older sister met Father in ChildrenBedroom ||:  00 : 30  --  01 : 00 
+ || Father met Mother in Garage ||:  01 : 00  --  01 : 30 
+ || Father switched on GarageDoors in Garage ||:  01 : 00  --  01 : 30 
+ || Father crashed GarageDoors in Garage ||:  01 : 00  --  01 : 30 
+ || Father switched on GarageDoors in Garage ||:  01 : 00  --  01 : 30 
+ || Father used GarageDoors in Garage ||:  01 : 00  --  01 : 30 
+ || Father switched off GarageDoors in Garage ||:  01 : 00  --  01 : 30 
+ || Grandmother 2 switched on BlindWindow in Bedroom ||:  01 : 00  --  01 : 30 
+ || Grandmother 2 used BlindWindow in Bedroom ||:  01 : 00  --  01 : 30 
+ || Grandmother 2 switched off BlindWindow in Bedroom ||:  01 : 00  --  01 : 30 
+ || Grandmother 1 switched on RoboVacuumCleaner in LivingRoom ||:  01 : 00  --  01 : 30 
+ || Grandmother 1 crashed RoboVacuumCleaner in LivingRoom ||:  01 : 00  --  01 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  01 : 00  --  01 : 30 
+ || Grandmother 1 switched on RoboVacuumCleaner in LivingRoom ||:  01 : 00  --  01 : 30 
+ || Older sister switched on Conditioner in ChildrenBedroom ||:  01 : 00  --  01 : 30 
+ || Older sister crashed Conditioner in ChildrenBedroom ||:  01 : 00  --  01 : 30 
+ || Older sister met Father in ChildrenBedroom ||:  01 : 00  --  01 : 30 
+ || Older sister switched on Conditioner in ChildrenBedroom ||:  01 : 00  --  01 : 30 
+ || Smoke Sensor alarmed in Garage ||:  01 : 00  --  01 : 30 
+ || Temperature Sensor alarmed in Kitchen ||:  01 : 00  --  01 : 30 
+ || Mother met Father in Kitchen ||:  01 : 00  --  01 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  01 : 00  --  01 : 30 
+ || Younger sister met Father in Bathroom ||:  01 : 00  --  01 : 30 
+ || Mother switched on Hairdryer in Bathroom ||:  01 : 30  --  02 : 00 
+ || Mother crashed Hairdryer in Bathroom ||:  01 : 30  --  02 : 00 
+ || Mother met Father in Bathroom ||:  01 : 30  --  02 : 00 
+ || Mother switched on Hairdryer in Bathroom ||:  01 : 30  --  02 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  01 : 30  --  02 : 00 
+ || Grandmother 2 switched on BlindWindow in Bedroom ||:  01 : 30  --  02 : 00 
+ || Grandmother 2 used BlindWindow in Bedroom ||:  01 : 30  --  02 : 00 
+ || Grandmother 2 switched off BlindWindow in Bedroom ||:  01 : 30  --  02 : 00 
+ || Younger sister met Grandmother 1 in Bathroom ||:  01 : 30  --  02 : 00 
+ || Older sister switched on BlindWindow in ChildrenBedroom ||:  01 : 30  --  02 : 00 
+ || Older sister crashed BlindWindow in ChildrenBedroom ||:  01 : 30  --  02 : 00 
+ || Older sister met Father in ChildrenBedroom ||:  01 : 30  --  02 : 00 
+ || Older sister switched on BlindWindow in ChildrenBedroom ||:  01 : 30  --  02 : 00 
+ || Younger sister played with Dog 1 in Bedroom ||:  01 : 30  --  02 : 00 
+ || Grandmother 1 switched on PlayStation in LivingRoom ||:  01 : 30  --  02 : 00 
+ || Grandmother 1 crashed PlayStation in LivingRoom ||:  01 : 30  --  02 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  01 : 30  --  02 : 00 
+ || Grandmother 1 switched on PlayStation in LivingRoom ||:  01 : 30  --  02 : 00 
+ || Grandmother 1 played with Dog 1 in LivingRoom ||:  01 : 30  --  02 : 00 
+ || Older sister met Cat 2 in ChildrenBedroom ||:  01 : 30  --  02 : 00 
+ || Older sister used Conditioner in ChildrenBedroom ||:  01 : 30  --  02 : 00 
+ || Older sister switched off Conditioner in ChildrenBedroom ||:  01 : 30  --  02 : 00 
+ || Smoke Sensor alarmed in Kitchen ||:  01 : 30  --  02 : 00 
+ || Mother met Father in Kitchen ||:  01 : 30  --  02 : 00 
+ || Smoke Sensor alarmed in LivingRoom ||:  01 : 30  --  02 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  01 : 30  --  02 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  01 : 30  --  02 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  01 : 30  --  02 : 00 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  01 : 30  --  02 : 00 
+ || Older sister met Father in ChildrenBedroom ||:  01 : 30  --  02 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  01 : 30  --  02 : 00 
+ || Mother met Father in Bathroom ||:  01 : 30  --  02 : 00 
+ || Younger sister switched on Dryer in Bathroom ||:  02 : 00  --  02 : 30 
+ || Younger sister crashed Dryer in Bathroom ||:  02 : 00  --  02 : 30 
+ || Younger sister met Father in Bathroom ||:  02 : 00  --  02 : 30 
+ || Younger sister switched on Dryer in Bathroom ||:  02 : 00  --  02 : 30 
+ || Grandmother 2 switched on Conditioner in Bedroom ||:  02 : 00  --  02 : 30 
+ || Grandmother 2 crashed Conditioner in Bedroom ||:  02 : 00  --  02 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  02 : 00  --  02 : 30 
+ || Grandmother 2 switched on Conditioner in Bedroom ||:  02 : 00  --  02 : 30 
+ || Older sister switched on PC in ChildrenBedroom ||:  02 : 00  --  02 : 30 
+ || Older sister crashed PC in ChildrenBedroom ||:  02 : 00  --  02 : 30 
+ || Older sister met Father in ChildrenBedroom ||:  02 : 00  --  02 : 30 
+ || Older sister switched on PC in ChildrenBedroom ||:  02 : 00  --  02 : 30 
+ || Father switched on Laptop in Bedroom ||:  02 : 00  --  02 : 30 
+ || Father used Laptop in Bedroom ||:  02 : 00  --  02 : 30 
+ || Father switched off Laptop in Bedroom ||:  02 : 00  --  02 : 30 
+ || Grandmother 1 switched on BlindWindow in LivingRoom ||:  02 : 00  --  02 : 30 
+ || Grandmother 1 used BlindWindow in LivingRoom ||:  02 : 00  --  02 : 30 
+ || Grandmother 1 switched off BlindWindow in LivingRoom ||:  02 : 00  --  02 : 30 
+ || Older sister switched on Conditioner in ChildrenBedroom ||:  02 : 00  --  02 : 30 
+ || Older sister crashed Conditioner in ChildrenBedroom ||:  02 : 00  --  02 : 30 
+ || Older sister switched on Conditioner in ChildrenBedroom ||:  02 : 00  --  02 : 30 
+ || Smoke Sensor alarmed in Kitchen ||:  02 : 00  --  02 : 30 
+ || Mother met Father in Kitchen ||:  02 : 00  --  02 : 30 
+ || Smoke Sensor alarmed in LivingRoom ||:  02 : 00  --  02 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  02 : 00  --  02 : 30 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  02 : 00  --  02 : 30 
+ || Older sister met Father in ChildrenBedroom ||:  02 : 00  --  02 : 30 
+ || Mother switched on WashingMachine in Bathroom ||:  02 : 30  --  03 : 00 
+ || Mother used WashingMachine in Bathroom ||:  02 : 30  --  03 : 00 
+ || Mother switched off WashingMachine in Bathroom ||:  02 : 30  --  03 : 00 
+ || Older sister crashed PC in ChildrenBedroom ||:  02 : 30  --  03 : 00 
+ || Older sister switched on PC in ChildrenBedroom ||:  02 : 30  --  03 : 00 
+ || Grandmother 2 switched on BlindWindow in Bedroom ||:  02 : 30  --  03 : 00 
+ || Grandmother 2 crashed BlindWindow in Bedroom ||:  02 : 30  --  03 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  02 : 30  --  03 : 00 
+ || Grandmother 2 switched on BlindWindow in Bedroom ||:  02 : 30  --  03 : 00 
+ || Grandmother 1 met Younger sister in LivingRoom ||:  02 : 30  --  03 : 00 
+ || Grandmother 1 used RoboVacuumCleaner in LivingRoom ||:  02 : 30  --  03 : 00 
+ || Grandmother 1 switched off RoboVacuumCleaner in LivingRoom ||:  02 : 30  --  03 : 00 
+ || Father met Dog 1 in Garage ||:  02 : 30  --  03 : 00 
+ || Father did something with Moto in Garage ||:  02 : 30  --  03 : 00 
+ || Father crashed Moto in Garage ||:  02 : 30  --  03 : 00 
+ || Father did something with Moto in Garage ||:  02 : 30  --  03 : 00 
+ || Older sister used Conditioner in ChildrenBedroom ||:  02 : 30  --  03 : 00 
+ || Older sister switched off Conditioner in ChildrenBedroom ||:  02 : 30  --  03 : 00 
+ || Older sister used BlindWindow in ChildrenBedroom ||:  02 : 30  --  03 : 00 
+ || Older sister switched off BlindWindow in ChildrenBedroom ||:  02 : 30  --  03 : 00 
+ || Smoke Sensor alarmed in Kitchen ||:  02 : 30  --  03 : 00 
+ || Mother met Father in Kitchen ||:  02 : 30  --  03 : 00 
+ || Smoke Sensor alarmed in LivingRoom ||:  02 : 30  --  03 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  02 : 30  --  03 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  02 : 30  --  03 : 00 
+ || Father met Dog 1 in Bedroom ||:  02 : 30  --  03 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  02 : 30  --  03 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  02 : 30  --  03 : 00 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  02 : 30  --  03 : 00 
+ || Older sister met Father in ChildrenBedroom ||:  02 : 30  --  03 : 00 
+ || Older sister switched on Conditioner in ChildrenBedroom ||:  03 : 00  --  03 : 30 
+ || Older sister used Conditioner in ChildrenBedroom ||:  03 : 00  --  03 : 30 
+ || Older sister switched off Conditioner in ChildrenBedroom ||:  03 : 00  --  03 : 30 
+ || Grandmother 2 switched on Laptop in Bedroom ||:  03 : 00  --  03 : 30 
+ || Grandmother 2 crashed Laptop in Bedroom ||:  03 : 00  --  03 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  03 : 00  --  03 : 30 
+ || Grandmother 2 switched on Laptop in Bedroom ||:  03 : 00  --  03 : 30 
+ || Grandmother 1 switched on Router in LivingRoom ||:  03 : 00  --  03 : 30 
+ || Grandmother 1 crashed Router in LivingRoom ||:  03 : 00  --  03 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  03 : 00  --  03 : 30 
+ || Grandmother 1 switched on Router in LivingRoom ||:  03 : 00  --  03 : 30 
+ || Father did something with Bike in Garage ||:  03 : 00  --  03 : 30 
+ || Father used Bike in Garage ||:  03 : 00  --  03 : 30 
+ || Father leave Bike in Garage ||:  03 : 00  --  03 : 30 
+ || Mother met Cat 2 in Bathroom ||:  03 : 00  --  03 : 30 
+ || Mother switched on Dryer in Bathroom ||:  03 : 00  --  03 : 30 
+ || Mother used Dryer in Bathroom ||:  03 : 00  --  03 : 30 
+ || Mother switched off Dryer in Bathroom ||:  03 : 00  --  03 : 30 
+ || Older sister switched on Conditioner in ChildrenBedroom ||:  03 : 00  --  03 : 30 
+ || Older sister used Conditioner in ChildrenBedroom ||:  03 : 00  --  03 : 30 
+ || Older sister switched off Conditioner in ChildrenBedroom ||:  03 : 00  --  03 : 30 
+ || Smoke Sensor alarmed in LivingRoom ||:  03 : 00  --  03 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  03 : 00  --  03 : 30 
+ || Younger sister met Father in Bathroom ||:  03 : 00  --  03 : 30 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  03 : 00  --  03 : 30 
+ || Older sister met Father in ChildrenBedroom ||:  03 : 00  --  03 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  03 : 00  --  03 : 30 
+ || Mother met Father in Bathroom ||:  03 : 00  --  03 : 30 
+ || Mother crashed Hairdryer in Bathroom ||:  03 : 30  --  04 : 00 
+ || Mother switched on Hairdryer in Bathroom ||:  03 : 30  --  04 : 00 
+ || Younger sister switched on WashingMachine in Bathroom ||:  03 : 30  --  04 : 00 
+ || Younger sister crashed WashingMachine in Bathroom ||:  03 : 30  --  04 : 00 
+ || Younger sister met Father in Bathroom ||:  03 : 30  --  04 : 00 
+ || Younger sister switched on WashingMachine in Bathroom ||:  03 : 30  --  04 : 00 
+ || Grandmother 2 used Conditioner in Bedroom ||:  03 : 30  --  04 : 00 
+ || Grandmother 2 switched off Conditioner in Bedroom ||:  03 : 30  --  04 : 00 
+ || Grandmother 1 crashed PlayStation in LivingRoom ||:  03 : 30  --  04 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  03 : 30  --  04 : 00 
+ || Grandmother 1 switched on PlayStation in LivingRoom ||:  03 : 30  --  04 : 00 
+ || Grandmother 1 played with Dog 1 in LivingRoom ||:  03 : 30  --  04 : 00 
+ || Grandmother 1 crashed PlayStation in LivingRoom ||:  03 : 30  --  04 : 00 
+ || Grandmother 1 switched on PlayStation in LivingRoom ||:  03 : 30  --  04 : 00 
+ || Older sister used PC in ChildrenBedroom ||:  03 : 30  --  04 : 00 
+ || Older sister switched off PC in ChildrenBedroom ||:  03 : 30  --  04 : 00 
+ || Smoke Sensor alarmed in Kitchen ||:  03 : 30  --  04 : 00 
+ || Mother met Father in Kitchen ||:  03 : 30  --  04 : 00 
+ || Smoke Sensor alarmed in LivingRoom ||:  03 : 30  --  04 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  03 : 30  --  04 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  03 : 30  --  04 : 00 
+ || Father met Dog 1 in Bedroom ||:  03 : 30  --  04 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  03 : 30  --  04 : 00 
+ || Younger sister met Father in Bathroom ||:  03 : 30  --  04 : 00 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  03 : 30  --  04 : 00 
+ || Older sister met Father in ChildrenBedroom ||:  03 : 30  --  04 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  03 : 30  --  04 : 00 
+ || Mother met Father in Bathroom ||:  03 : 30  --  04 : 00 
+ || Mother switched on WashingMachine in Bathroom ||:  04 : 00  --  04 : 30 
+ || Mother crashed WashingMachine in Bathroom ||:  04 : 00  --  04 : 30 
+ || Mother switched on WashingMachine in Bathroom ||:  04 : 00  --  04 : 30 
+ || Mother used WashingMachine in Bathroom ||:  04 : 00  --  04 : 30 
+ || Mother switched off WashingMachine in Bathroom ||:  04 : 00  --  04 : 30 
+ || Older sister met Grandmother 1 in ChildrenBedroom ||:  04 : 00  --  04 : 30 
+ || Grandmother 2 crashed BlindWindow in Bedroom ||:  04 : 00  --  04 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  04 : 00  --  04 : 30 
+ || Grandmother 2 switched on BlindWindow in Bedroom ||:  04 : 00  --  04 : 30 
+ || Grandmother 1 crashed Router in LivingRoom ||:  04 : 00  --  04 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  04 : 00  --  04 : 30 
+ || Grandmother 1 switched on Router in LivingRoom ||:  04 : 00  --  04 : 30 
+ || Grandmother 1 switched on Aquarium in LivingRoom ||:  04 : 00  --  04 : 30 
+ || Grandmother 1 crashed Aquarium in LivingRoom ||:  04 : 00  --  04 : 30 
+ || Grandmother 1 switched on Aquarium in LivingRoom ||:  04 : 00  --  04 : 30 
+ || Grandmother 2 played with Dog 2 in Bedroom ||:  04 : 00  --  04 : 30 
+ || Grandmother 2 crashed BlindWindow in Bedroom ||:  04 : 00  --  04 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  04 : 00  --  04 : 30 
+ || Grandmother 2 switched on BlindWindow in Bedroom ||:  04 : 00  --  04 : 30 
+ || Smoke Sensor alarmed in LivingRoom ||:  04 : 00  --  04 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  04 : 00  --  04 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  04 : 00  --  04 : 30 
+ || Father met Dog 1 in Bedroom ||:  04 : 00  --  04 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  04 : 00  --  04 : 30 
+ || Younger sister met Father in Bathroom ||:  04 : 00  --  04 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  04 : 00  --  04 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  04 : 00  --  04 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  04 : 00  --  04 : 30 
+ || Mother met Father in Bathroom ||:  04 : 00  --  04 : 30 
+ || Mother switched on Dryer in Bathroom ||:  04 : 30  --  05 : 00 
+ || Mother used Dryer in Bathroom ||:  04 : 30  --  05 : 00 
+ || Mother switched off Dryer in Bathroom ||:  04 : 30  --  05 : 00 
+ || Older sister switched on BlindWindow in ChildrenBedroom ||:  04 : 30  --  05 : 00 
+ || Older sister crashed BlindWindow in ChildrenBedroom ||:  04 : 30  --  05 : 00 
+ || Older sister met Father in ChildrenBedroom ||:  04 : 30  --  05 : 00 
+ || Older sister switched on BlindWindow in ChildrenBedroom ||:  04 : 30  --  05 : 00 
+ || Grandmother 2 used Laptop in Bedroom ||:  04 : 30  --  05 : 00 
+ || Grandmother 2 switched off Laptop in Bedroom ||:  04 : 30  --  05 : 00 
+ || Grandmother 1 crashed Router in LivingRoom ||:  04 : 30  --  05 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  04 : 30  --  05 : 00 
+ || Grandmother 1 switched on Router in LivingRoom ||:  04 : 30  --  05 : 00 
+ || Grandmother 1 switched on Conditioner in LivingRoom ||:  04 : 30  --  05 : 00 
+ || Grandmother 1 used Conditioner in LivingRoom ||:  04 : 30  --  05 : 00 
+ || Grandmother 1 switched off Conditioner in LivingRoom ||:  04 : 30  --  05 : 00 
+ || Mother met Dog 2 in Bathroom ||:  04 : 30  --  05 : 00 
+ || Smoke Sensor alarmed in Kitchen ||:  04 : 30  --  05 : 00 
+ || Mother met Father in Kitchen ||:  04 : 30  --  05 : 00 
+ || Temperature Sensor alarmed in Kitchen ||:  04 : 30  --  05 : 00 
+ || Smoke Sensor alarmed in LivingRoom ||:  04 : 30  --  05 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  04 : 30  --  05 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  04 : 30  --  05 : 00 
+ || Father met Dog 1 in Bedroom ||:  04 : 30  --  05 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  04 : 30  --  05 : 00 
+ || Younger sister met Father in Bathroom ||:  04 : 30  --  05 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  04 : 30  --  05 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  04 : 30  --  05 : 00 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  04 : 30  --  05 : 00 
+ || Older sister met Father in ChildrenBedroom ||:  04 : 30  --  05 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  04 : 30  --  05 : 00 
+ || Mother met Father in Bathroom ||:  04 : 30  --  05 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  05 : 00  --  05 : 30 
+ || Grandmother 2 switched on Conditioner in Bedroom ||:  05 : 00  --  05 : 30 
+ || Grandmother 2 crashed Conditioner in Bedroom ||:  05 : 00  --  05 : 30 
+ || Grandmother 2 switched on Conditioner in Bedroom ||:  05 : 00  --  05 : 30 
+ || Father met Grandmother 2 in Garage ||:  05 : 00  --  05 : 30 
+ || Father did something with Auto in Garage ||:  05 : 00  --  05 : 30 
+ || Father crashed Auto in Garage ||:  05 : 00  --  05 : 30 
+ || Father did something with Auto in Garage ||:  05 : 00  --  05 : 30 
+ || Mother met Older sister in Bathroom ||:  05 : 00  --  05 : 30 
+ || Grandmother 1 crashed Router in LivingRoom ||:  05 : 00  --  05 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  05 : 00  --  05 : 30 
+ || Grandmother 1 switched on Router in LivingRoom ||:  05 : 00  --  05 : 30 
+ || Grandmother 1 used Router in LivingRoom ||:  05 : 00  --  05 : 30 
+ || Grandmother 1 switched off Router in LivingRoom ||:  05 : 00  --  05 : 30 
+ || Father switched on Conditioner in Bedroom ||:  05 : 00  --  05 : 30 
+ || Father used Conditioner in Bedroom ||:  05 : 00  --  05 : 30 
+ || Father switched off Conditioner in Bedroom ||:  05 : 00  --  05 : 30 
+ || Smoke Sensor alarmed in Garage ||:  05 : 00  --  05 : 30 
+ || Smoke Sensor alarmed in Kitchen ||:  05 : 00  --  05 : 30 
+ || Mother met Father in Kitchen ||:  05 : 00  --  05 : 30 
+ || Temperature Sensor alarmed in Kitchen ||:  05 : 00  --  05 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  05 : 00  --  05 : 30 
+ || Younger sister met Father in Bathroom ||:  05 : 00  --  05 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  05 : 00  --  05 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  05 : 00  --  05 : 30 
+ || Younger sister met Mother in Bathroom ||:  05 : 30  --  06 : 00 
+ || Younger sister switched on Hairdryer in Bathroom ||:  05 : 30  --  06 : 00 
+ || Younger sister crashed Hairdryer in Bathroom ||:  05 : 30  --  06 : 00 
+ || Younger sister met Father in Bathroom ||:  05 : 30  --  06 : 00 
+ || Younger sister switched on Hairdryer in Bathroom ||:  05 : 30  --  06 : 00 
+ || Younger sister used Hairdryer in Bathroom ||:  05 : 30  --  06 : 00 
+ || Younger sister switched off Hairdryer in Bathroom ||:  05 : 30  --  06 : 00 
+ || Older sister used BlindWindow in ChildrenBedroom ||:  05 : 30  --  06 : 00 
+ || Older sister switched off BlindWindow in ChildrenBedroom ||:  05 : 30  --  06 : 00 
+ || Grandmother 2 met Older sister in Bedroom ||:  05 : 30  --  06 : 00 
+ || Grandmother 2 switched on Laptop in Bedroom ||:  05 : 30  --  06 : 00 
+ || Grandmother 2 used Laptop in Bedroom ||:  05 : 30  --  06 : 00 
+ || Grandmother 2 switched off Laptop in Bedroom ||:  05 : 30  --  06 : 00 
+ || Older sister met Younger sister in ChildrenBedroom ||:  05 : 30  --  06 : 00 
+ || Older sister switched on Conditioner in ChildrenBedroom ||:  05 : 30  --  06 : 00 
+ || Older sister crashed Conditioner in ChildrenBedroom ||:  05 : 30  --  06 : 00 
+ || Older sister met Father in ChildrenBedroom ||:  05 : 30  --  06 : 00 
+ || Older sister switched on Conditioner in ChildrenBedroom ||:  05 : 30  --  06 : 00 
+ || Grandmother 1 switched on RoboVacuumCleaner in LivingRoom ||:  05 : 30  --  06 : 00 
+ || Grandmother 1 crashed RoboVacuumCleaner in LivingRoom ||:  05 : 30  --  06 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  05 : 30  --  06 : 00 
+ || Grandmother 1 switched on RoboVacuumCleaner in LivingRoom ||:  05 : 30  --  06 : 00 
+ || Grandmother 1 switched on TV in LivingRoom ||:  05 : 30  --  06 : 00 
+ || Grandmother 1 used TV in LivingRoom ||:  05 : 30  --  06 : 00 
+ || Grandmother 1 switched off TV in LivingRoom ||:  05 : 30  --  06 : 00 
+ || Father switched on Laptop in Bedroom ||:  05 : 30  --  06 : 00 
+ || Father used Laptop in Bedroom ||:  05 : 30  --  06 : 00 
+ || Father switched off Laptop in Bedroom ||:  05 : 30  --  06 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  05 : 30  --  06 : 00 
+ || Younger sister met Father in Bathroom ||:  05 : 30  --  06 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  05 : 30  --  06 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  05 : 30  --  06 : 00 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  05 : 30  --  06 : 00 
+ || Older sister met Father in ChildrenBedroom ||:  05 : 30  --  06 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  05 : 30  --  06 : 00 
+ || Mother met Father in Bathroom ||:  05 : 30  --  06 : 00 
+ || Grandmother 2 switched on Laptop in Bedroom ||:  06 : 00  --  06 : 30 
+ || Grandmother 2 used Laptop in Bedroom ||:  06 : 00  --  06 : 30 
+ || Grandmother 2 switched off Laptop in Bedroom ||:  06 : 00  --  06 : 30 
+ || Older sister crashed Conditioner in ChildrenBedroom ||:  06 : 00  --  06 : 30 
+ || Older sister met Father in ChildrenBedroom ||:  06 : 00  --  06 : 30 
+ || Older sister switched on Conditioner in ChildrenBedroom ||:  06 : 00  --  06 : 30 
+ || Grandmother 1 switched on BlindWindow in LivingRoom ||:  06 : 00  --  06 : 30 
+ || Grandmother 1 used BlindWindow in LivingRoom ||:  06 : 00  --  06 : 30 
+ || Grandmother 1 switched off BlindWindow in LivingRoom ||:  06 : 00  --  06 : 30 
+ || Mother switched on Dryer in Bathroom ||:  06 : 00  --  06 : 30 
+ || Mother crashed Dryer in Bathroom ||:  06 : 00  --  06 : 30 
+ || Mother met Father in Bathroom ||:  06 : 00  --  06 : 30 
+ || Mother switched on Dryer in Bathroom ||:  06 : 00  --  06 : 30 
+ || Father met Dog 2 in Garage ||:  06 : 00  --  06 : 30 
+ || Smoke Sensor alarmed in Kitchen ||:  06 : 00  --  06 : 30 
+ || Mother met Father in Kitchen ||:  06 : 00  --  06 : 30 
+ || Smoke Sensor alarmed in LivingRoom ||:  06 : 00  --  06 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  06 : 00  --  06 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  06 : 00  --  06 : 30 
+ || Mother met Father in Bathroom ||:  06 : 00  --  06 : 30 
+ || Younger sister crashed Dryer in Bathroom ||:  06 : 30  --  07 : 00 
+ || Younger sister met Father in Bathroom ||:  06 : 30  --  07 : 00 
+ || Younger sister switched on Dryer in Bathroom ||:  06 : 30  --  07 : 00 
+ || Older sister used Conditioner in ChildrenBedroom ||:  06 : 30  --  07 : 00 
+ || Older sister switched off Conditioner in ChildrenBedroom ||:  06 : 30  --  07 : 00 
+ || Younger sister met Grandmother 2 in Bathroom ||:  06 : 30  --  07 : 00 
+ || Younger sister crashed WashingMachine in Bathroom ||:  06 : 30  --  07 : 00 
+ || Younger sister switched on WashingMachine in Bathroom ||:  06 : 30  --  07 : 00 
+ || Older sister met Dog 1 in Bedroom ||:  06 : 30  --  07 : 00 
+ || Father switched on Laptop in Bedroom ||:  06 : 30  --  07 : 00 
+ || Father used Laptop in Bedroom ||:  06 : 30  --  07 : 00 
+ || Father switched off Laptop in Bedroom ||:  06 : 30  --  07 : 00 
+ || Grandmother 1 used RoboVacuumCleaner in LivingRoom ||:  06 : 30  --  07 : 00 
+ || Grandmother 1 switched off RoboVacuumCleaner in LivingRoom ||:  06 : 30  --  07 : 00 
+ || Grandmother 2 played with Dog 1 in Bedroom ||:  06 : 30  --  07 : 00 
+ || Mother crashed Hairdryer in Bathroom ||:  06 : 30  --  07 : 00 
+ || Mother met Father in Bathroom ||:  06 : 30  --  07 : 00 
+ || Mother switched on Hairdryer in Bathroom ||:  06 : 30  --  07 : 00 
+ || Smoke Sensor alarmed in Garage ||:  06 : 30  --  07 : 00 
+ || Temperature Sensor alarmed in Kitchen ||:  06 : 30  --  07 : 00 
+ || Mother met Father in Kitchen ||:  06 : 30  --  07 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  06 : 30  --  07 : 00 
+ || Mother met Father in Bathroom ||:  06 : 30  --  07 : 00 
+ || Younger sister switched on Hairdryer in Bathroom ||:  07 : 00  --  07 : 30 
+ || Younger sister crashed Hairdryer in Bathroom ||:  07 : 00  --  07 : 30 
+ || Younger sister met Father in Bathroom ||:  07 : 00  --  07 : 30 
+ || Younger sister switched on Hairdryer in Bathroom ||:  07 : 00  --  07 : 30 
+ || Younger sister used Hairdryer in Bathroom ||:  07 : 00  --  07 : 30 
+ || Younger sister switched off Hairdryer in Bathroom ||:  07 : 00  --  07 : 30 
+ || Grandmother 2 met Grandmother 1 in Bedroom ||:  07 : 00  --  07 : 30 
+ || Grandmother 2 crashed Conditioner in Bedroom ||:  07 : 00  --  07 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  07 : 00  --  07 : 30 
+ || Grandmother 2 switched on Conditioner in Bedroom ||:  07 : 00  --  07 : 30 
+ || Grandmother 1 met Grandmother 2 in LivingRoom ||:  07 : 00  --  07 : 30 
+ || Grandmother 1 switched on Conditioner in LivingRoom ||:  07 : 00  --  07 : 30 
+ || Grandmother 1 crashed Conditioner in LivingRoom ||:  07 : 00  --  07 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  07 : 00  --  07 : 30 
+ || Grandmother 1 switched on Conditioner in LivingRoom ||:  07 : 00  --  07 : 30 
+ || Grandmother 1 used Conditioner in LivingRoom ||:  07 : 00  --  07 : 30 
+ || Grandmother 1 switched off Conditioner in LivingRoom ||:  07 : 00  --  07 : 30 
+ || Grandmother 2 switched on Laptop in Bedroom ||:  07 : 00  --  07 : 30 
+ || Grandmother 2 crashed Laptop in Bedroom ||:  07 : 00  --  07 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  07 : 00  --  07 : 30 
+ || Grandmother 2 switched on Laptop in Bedroom ||:  07 : 00  --  07 : 30 
+ || Mother switched on WashingMachine in Bathroom ||:  07 : 00  --  07 : 30 
+ || Mother used WashingMachine in Bathroom ||:  07 : 00  --  07 : 30 
+ || Mother switched off WashingMachine in Bathroom ||:  07 : 00  --  07 : 30 
+ || Father used Auto in Garage ||:  07 : 00  --  07 : 30 
+ || Father leave Auto in Garage ||:  07 : 00  --  07 : 30 
+ || Temperature Sensor alarmed in Kitchen ||:  07 : 00  --  07 : 30 
+ || Mother met Father in Kitchen ||:  07 : 00  --  07 : 30 
+ || Smoke Sensor alarmed in LivingRoom ||:  07 : 00  --  07 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  07 : 00  --  07 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  07 : 00  --  07 : 30 
+ || Father met Dog 1 in Bedroom ||:  07 : 00  --  07 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  07 : 00  --  07 : 30 
+ || Younger sister met Father in Bathroom ||:  07 : 00  --  07 : 30 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  07 : 00  --  07 : 30 
+ || Older sister met Father in ChildrenBedroom ||:  07 : 00  --  07 : 30 
+ || Mother met Father in Kitchen ||:  07 : 30  --  08 : 00 
+ || Grandmother 2 used Conditioner in Bedroom ||:  07 : 30  --  08 : 00 
+ || Grandmother 2 switched off Conditioner in Bedroom ||:  07 : 30  --  08 : 00 
+ || Grandmother 2 met Younger sister in Bedroom ||:  07 : 30  --  08 : 00 
+ || Older sister met Cat 1 in ChildrenBedroom ||:  07 : 30  --  08 : 00 
+ || Older sister switched on BlindWindow in ChildrenBedroom ||:  07 : 30  --  08 : 00 
+ || Older sister used BlindWindow in ChildrenBedroom ||:  07 : 30  --  08 : 00 
+ || Older sister switched off BlindWindow in ChildrenBedroom ||:  07 : 30  --  08 : 00 
+ || Grandmother 2 switched on Conditioner in Bedroom ||:  07 : 30  --  08 : 00 
+ || Grandmother 2 crashed Conditioner in Bedroom ||:  07 : 30  --  08 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  07 : 30  --  08 : 00 
+ || Grandmother 2 switched on Conditioner in Bedroom ||:  07 : 30  --  08 : 00 
+ || Mother switched on WashingMachine in Bathroom ||:  07 : 30  --  08 : 00 
+ || Mother crashed WashingMachine in Bathroom ||:  07 : 30  --  08 : 00 
+ || Mother met Father in Bathroom ||:  07 : 30  --  08 : 00 
+ || Mother switched on WashingMachine in Bathroom ||:  07 : 30  --  08 : 00 
+ || Father switched on Laptop in Bedroom ||:  07 : 30  --  08 : 00 
+ || Father crashed Laptop in Bedroom ||:  07 : 30  --  08 : 00 
+ || Father met Dog 1 in Bedroom ||:  07 : 30  --  08 : 00 
+ || Father switched on Laptop in Bedroom ||:  07 : 30  --  08 : 00 
+ || Smoke Sensor alarmed in Kitchen ||:  07 : 30  --  08 : 00 
+ || Mother met Father in Kitchen ||:  07 : 30  --  08 : 00 
+ || Temperature Sensor alarmed in Kitchen ||:  07 : 30  --  08 : 00 
+ || Smoke Sensor alarmed in LivingRoom ||:  07 : 30  --  08 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  07 : 30  --  08 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  07 : 30  --  08 : 00 
+ || Father met Dog 1 in Bedroom ||:  07 : 30  --  08 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  07 : 30  --  08 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  07 : 30  --  08 : 00 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  07 : 30  --  08 : 00 
+ || Older sister met Father in ChildrenBedroom ||:  07 : 30  --  08 : 00 
+ || Older sister switched on PC in ChildrenBedroom ||:  08 : 00  --  08 : 30 
+ || Older sister crashed PC in ChildrenBedroom ||:  08 : 00  --  08 : 30 
+ || Older sister switched on PC in ChildrenBedroom ||:  08 : 00  --  08 : 30 
+ || Grandmother 1 played with Dog 1 in Bedroom ||:  08 : 00  --  08 : 30 
+ || Father used BlindWindow in Bedroom ||:  08 : 00  --  08 : 30 
+ || Father switched off BlindWindow in Bedroom ||:  08 : 00  --  08 : 30 
+ || Grandmother 1 switched on Router in LivingRoom ||:  08 : 00  --  08 : 30 
+ || Grandmother 1 crashed Router in LivingRoom ||:  08 : 00  --  08 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  08 : 00  --  08 : 30 
+ || Grandmother 1 switched on Router in LivingRoom ||:  08 : 00  --  08 : 30 
+ || Grandmother 2 switched on TV in Bedroom ||:  08 : 00  --  08 : 30 
+ || Grandmother 2 used TV in Bedroom ||:  08 : 00  --  08 : 30 
+ || Grandmother 2 switched off TV in Bedroom ||:  08 : 00  --  08 : 30 
+ || Older sister switched on Conditioner in ChildrenBedroom ||:  08 : 00  --  08 : 30 
+ || Older sister crashed Conditioner in ChildrenBedroom ||:  08 : 00  --  08 : 30 
+ || Older sister met Father in ChildrenBedroom ||:  08 : 00  --  08 : 30 
+ || Older sister switched on Conditioner in ChildrenBedroom ||:  08 : 00  --  08 : 30 
+ || Mother crashed WashingMachine in Bathroom ||:  08 : 00  --  08 : 30 
+ || Mother met Father in Bathroom ||:  08 : 00  --  08 : 30 
+ || Mother switched on WashingMachine in Bathroom ||:  08 : 00  --  08 : 30 
+ || Smoke Sensor alarmed in Garage ||:  08 : 00  --  08 : 30 
+ || Smoke Sensor alarmed in Kitchen ||:  08 : 00  --  08 : 30 
+ || Mother met Father in Kitchen ||:  08 : 00  --  08 : 30 
+ || Smoke Sensor alarmed in LivingRoom ||:  08 : 00  --  08 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  08 : 00  --  08 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  08 : 00  --  08 : 30 
+ || Mother met Father in Bathroom ||:  08 : 00  --  08 : 30 
+ || Father met Mother in Garage ||:  08 : 30  --  09 : 00 
+ || Mother used WashingMachine in Bathroom ||:  08 : 30  --  09 : 00 
+ || Mother switched off WashingMachine in Bathroom ||:  08 : 30  --  09 : 00 
+ || Grandmother 2 used Laptop in Bedroom ||:  08 : 30  --  09 : 00 
+ || Grandmother 2 switched off Laptop in Bedroom ||:  08 : 30  --  09 : 00 
+ || Older sister crashed Conditioner in ChildrenBedroom ||:  08 : 30  --  09 : 00 
+ || Older sister met Father in ChildrenBedroom ||:  08 : 30  --  09 : 00 
+ || Older sister switched on Conditioner in ChildrenBedroom ||:  08 : 30  --  09 : 00 
+ || Grandmother 2 used Conditioner in Bedroom ||:  08 : 30  --  09 : 00 
+ || Grandmother 2 switched off Conditioner in Bedroom ||:  08 : 30  --  09 : 00 
+ || Father switched on TV in Bedroom ||:  08 : 30  --  09 : 00 
+ || Father used TV in Bedroom ||:  08 : 30  --  09 : 00 
+ || Father switched off TV in Bedroom ||:  08 : 30  --  09 : 00 
+ || Smoke Sensor alarmed in Kitchen ||:  08 : 30  --  09 : 00 
+ || Mother met Father in Kitchen ||:  08 : 30  --  09 : 00 
+ || Temperature Sensor alarmed in Kitchen ||:  08 : 30  --  09 : 00 
+ || Smoke Sensor alarmed in LivingRoom ||:  08 : 30  --  09 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  08 : 30  --  09 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  08 : 30  --  09 : 00 
+ || Father met Dog 1 in Bedroom ||:  08 : 30  --  09 : 00 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  08 : 30  --  09 : 00 
+ || Older sister met Father in ChildrenBedroom ||:  08 : 30  --  09 : 00 
+ || Mother crashed Dryer in Bathroom ||:  09 : 00  --  09 : 30 
+ || Mother met Father in Bathroom ||:  09 : 00  --  09 : 30 
+ || Mother switched on Dryer in Bathroom ||:  09 : 00  --  09 : 30 
+ || Mother switched on WashingMachine in Bathroom ||:  09 : 00  --  09 : 30 
+ || Mother crashed WashingMachine in Bathroom ||:  09 : 00  --  09 : 30 
+ || Mother switched on WashingMachine in Bathroom ||:  09 : 00  --  09 : 30 
+ || Grandmother 1 crashed Aquarium in LivingRoom ||:  09 : 00  --  09 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  09 : 00  --  09 : 30 
+ || Grandmother 1 switched on Aquarium in LivingRoom ||:  09 : 00  --  09 : 30 
+ || Younger sister met Older sister in Bathroom ||:  09 : 00  --  09 : 30 
+ || Younger sister switched on Hairdryer in Bathroom ||:  09 : 00  --  09 : 30 
+ || Younger sister crashed Hairdryer in Bathroom ||:  09 : 00  --  09 : 30 
+ || Younger sister met Father in Bathroom ||:  09 : 00  --  09 : 30 
+ || Younger sister switched on Hairdryer in Bathroom ||:  09 : 00  --  09 : 30 
+ || Grandmother 2 switched on Laptop in Bedroom ||:  09 : 00  --  09 : 30 
+ || Grandmother 2 used Laptop in Bedroom ||:  09 : 00  --  09 : 30 
+ || Grandmother 2 switched off Laptop in Bedroom ||:  09 : 00  --  09 : 30 
+ || Older sister used PC in ChildrenBedroom ||:  09 : 00  --  09 : 30 
+ || Older sister switched off PC in ChildrenBedroom ||:  09 : 00  --  09 : 30 
+ || Father switched on Conditioner in Bedroom ||:  09 : 00  --  09 : 30 
+ || Father crashed Conditioner in Bedroom ||:  09 : 00  --  09 : 30 
+ || Father met Dog 1 in Bedroom ||:  09 : 00  --  09 : 30 
+ || Father switched on Conditioner in Bedroom ||:  09 : 00  --  09 : 30 
+ || Smoke Sensor alarmed in Garage ||:  09 : 00  --  09 : 30 
+ || Smoke Sensor alarmed in Kitchen ||:  09 : 00  --  09 : 30 
+ || Mother met Father in Kitchen ||:  09 : 00  --  09 : 30 
+ || Temperature Sensor alarmed in Kitchen ||:  09 : 00  --  09 : 30 
+ || Smoke Sensor alarmed in LivingRoom ||:  09 : 00  --  09 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  09 : 00  --  09 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  09 : 00  --  09 : 30 
+ || Father met Dog 1 in Bedroom ||:  09 : 00  --  09 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  09 : 00  --  09 : 30 
+ || Younger sister met Father in Bathroom ||:  09 : 00  --  09 : 30 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  09 : 00  --  09 : 30 
+ || Older sister met Father in ChildrenBedroom ||:  09 : 00  --  09 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  09 : 00  --  09 : 30 
+ || Mother met Father in Bathroom ||:  09 : 00  --  09 : 30 
+ || Mother used Hairdryer in Bathroom ||:  09 : 30  --  10 : 00 
+ || Mother switched off Hairdryer in Bathroom ||:  09 : 30  --  10 : 00 
+ || Younger sister met Father in Bathroom ||:  09 : 30  --  10 : 00 
+ || Father switched on TV in Bedroom ||:  09 : 30  --  10 : 00 
+ || Father used TV in Bedroom ||:  09 : 30  --  10 : 00 
+ || Father switched off TV in Bedroom ||:  09 : 30  --  10 : 00 
+ || Mother met Older sister in Kitchen ||:  09 : 30  --  10 : 00 
+ || Younger sister played with Dog 1 in Bedroom ||:  09 : 30  --  10 : 00 
+ || Father used Conditioner in Bedroom ||:  09 : 30  --  10 : 00 
+ || Father switched off Conditioner in Bedroom ||:  09 : 30  --  10 : 00 
+ || Older sister used Conditioner in ChildrenBedroom ||:  09 : 30  --  10 : 00 
+ || Older sister switched off Conditioner in ChildrenBedroom ||:  09 : 30  --  10 : 00 
+ || Mother used Dryer in Bathroom ||:  09 : 30  --  10 : 00 
+ || Mother switched off Dryer in Bathroom ||:  09 : 30  --  10 : 00 
+ || Father switched on Conditioner in Bedroom ||:  09 : 30  --  10 : 00 
+ || Father crashed Conditioner in Bedroom ||:  09 : 30  --  10 : 00 
+ || Father met Dog 1 in Bedroom ||:  09 : 30  --  10 : 00 
+ || Father switched on Conditioner in Bedroom ||:  09 : 30  --  10 : 00 
+ || Smoke Sensor alarmed in Garage ||:  09 : 30  --  10 : 00 
+ || Temperature Sensor alarmed in Kitchen ||:  09 : 30  --  10 : 00 
+ || Mother met Father in Kitchen ||:  09 : 30  --  10 : 00 
+ || Smoke Sensor alarmed in LivingRoom ||:  09 : 30  --  10 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  09 : 30  --  10 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  09 : 30  --  10 : 00 
+ || Father met Dog 1 in Bedroom ||:  09 : 30  --  10 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  09 : 30  --  10 : 00 
+ || Younger sister met Father in Bathroom ||:  09 : 30  --  10 : 00 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  09 : 30  --  10 : 00 
+ || Older sister met Father in ChildrenBedroom ||:  09 : 30  --  10 : 00 
+ || Younger sister met Father in Bathroom ||:  10 : 00  --  10 : 30 
+ || Younger sister used Dryer in Bathroom ||:  10 : 00  --  10 : 30 
+ || Younger sister switched off Dryer in Bathroom ||:  10 : 00  --  10 : 30 
+ || Mother switched on CoffeeMachine in Kitchen ||:  10 : 00  --  10 : 30 
+ || Mother crashed CoffeeMachine in Kitchen ||:  10 : 00  --  10 : 30 
+ || Mother met Father in Kitchen ||:  10 : 00  --  10 : 30 
+ || Mother switched on CoffeeMachine in Kitchen ||:  10 : 00  --  10 : 30 
+ || Father crashed Laptop in Bedroom ||:  10 : 00  --  10 : 30 
+ || Father met Dog 1 in Bedroom ||:  10 : 00  --  10 : 30 
+ || Father switched on Laptop in Bedroom ||:  10 : 00  --  10 : 30 
+ || Mother switched on Dryer in Bathroom ||:  10 : 00  --  10 : 30 
+ || Mother used Dryer in Bathroom ||:  10 : 00  --  10 : 30 
+ || Mother switched off Dryer in Bathroom ||:  10 : 00  --  10 : 30 
+ || Smoke Sensor alarmed in LivingRoom ||:  10 : 00  --  10 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  10 : 00  --  10 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  10 : 00  --  10 : 30 
+ || Younger sister met Father in Bathroom ||:  10 : 00  --  10 : 30 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  10 : 00  --  10 : 30 
+ || Older sister met Father in ChildrenBedroom ||:  10 : 00  --  10 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  10 : 00  --  10 : 30 
+ || Mother met Father in Bathroom ||:  10 : 00  --  10 : 30 
+ || Mother switched on Hairdryer in Bathroom ||:  10 : 30  --  11 : 00 
+ || Mother used Hairdryer in Bathroom ||:  10 : 30  --  11 : 00 
+ || Mother switched off Hairdryer in Bathroom ||:  10 : 30  --  11 : 00 
+ || Mother switched on Hairdryer in Bathroom ||:  10 : 30  --  11 : 00 
+ || Mother crashed Hairdryer in Bathroom ||:  10 : 30  --  11 : 00 
+ || Mother switched on Hairdryer in Bathroom ||:  10 : 30  --  11 : 00 
+ || Grandmother 1 used Aquarium in LivingRoom ||:  10 : 30  --  11 : 00 
+ || Grandmother 1 switched off Aquarium in LivingRoom ||:  10 : 30  --  11 : 00 
+ || Father crashed Conditioner in Bedroom ||:  10 : 30  --  11 : 00 
+ || Father met Dog 1 in Bedroom ||:  10 : 30  --  11 : 00 
+ || Father switched on Conditioner in Bedroom ||:  10 : 30  --  11 : 00 
+ || Grandmother 2 played with Cat 1 in Bedroom ||:  10 : 30  --  11 : 00 
+ || Grandmother 2 switched on Laptop in Bedroom ||:  10 : 30  --  11 : 00 
+ || Grandmother 2 used Laptop in Bedroom ||:  10 : 30  --  11 : 00 
+ || Grandmother 2 switched off Laptop in Bedroom ||:  10 : 30  --  11 : 00 
+ || Smoke Sensor alarmed in Garage ||:  10 : 30  --  11 : 00 
+ || Smoke Sensor alarmed in LivingRoom ||:  10 : 30  --  11 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  10 : 30  --  11 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  10 : 30  --  11 : 00 
+ || Father met Dog 1 in Bedroom ||:  10 : 30  --  11 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  10 : 30  --  11 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  10 : 30  --  11 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  10 : 30  --  11 : 00 
+ || Mother met Father in Bathroom ||:  10 : 30  --  11 : 00 
+ || Grandmother 2 met Mother in Bedroom ||:  11 : 00  --  11 : 30 
+ || Grandmother 2 switched on Laptop in Bedroom ||:  11 : 00  --  11 : 30 
+ || Grandmother 2 used Laptop in Bedroom ||:  11 : 00  --  11 : 30 
+ || Grandmother 2 switched off Laptop in Bedroom ||:  11 : 00  --  11 : 30 
+ || Grandmother 1 crashed PlayStation in LivingRoom ||:  11 : 00  --  11 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  11 : 00  --  11 : 30 
+ || Grandmother 1 switched on PlayStation in LivingRoom ||:  11 : 00  --  11 : 30 
+ || Father switched on TV in Bedroom ||:  11 : 00  --  11 : 30 
+ || Father crashed TV in Bedroom ||:  11 : 00  --  11 : 30 
+ || Father met Dog 1 in Bedroom ||:  11 : 00  --  11 : 30 
+ || Father switched on TV in Bedroom ||:  11 : 00  --  11 : 30 
+ || Grandmother 2 used BlindWindow in Bedroom ||:  11 : 00  --  11 : 30 
+ || Grandmother 2 switched off BlindWindow in Bedroom ||:  11 : 00  --  11 : 30 
+ || Mother used WashingMachine in Bathroom ||:  11 : 00  --  11 : 30 
+ || Mother switched off WashingMachine in Bathroom ||:  11 : 00  --  11 : 30 
+ || Father crashed TV in Bedroom ||:  11 : 00  --  11 : 30 
+ || Father switched on TV in Bedroom ||:  11 : 00  --  11 : 30 
+ || Smoke Sensor alarmed in Garage ||:  11 : 00  --  11 : 30 
+ || Smoke Sensor alarmed in Kitchen ||:  11 : 00  --  11 : 30 
+ || Mother met Father in Kitchen ||:  11 : 00  --  11 : 30 
+ || Temperature Sensor alarmed in Kitchen ||:  11 : 00  --  11 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  11 : 00  --  11 : 30 
+ || Younger sister met Father in Bathroom ||:  11 : 00  --  11 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  11 : 00  --  11 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  11 : 00  --  11 : 30 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  11 : 00  --  11 : 30 
+ || Older sister met Father in ChildrenBedroom ||:  11 : 00  --  11 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  11 : 00  --  11 : 30 
+ || Mother met Father in Bathroom ||:  11 : 00  --  11 : 30 
+ || Grandmother 1 switched on Conditioner in LivingRoom ||:  11 : 30  --  12 : 00 
+ || Grandmother 1 crashed Conditioner in LivingRoom ||:  11 : 30  --  12 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  11 : 30  --  12 : 00 
+ || Grandmother 1 switched on Conditioner in LivingRoom ||:  11 : 30  --  12 : 00 
+ || Younger sister met Older sister in Bathroom ||:  11 : 30  --  12 : 00 
+ || Younger sister switched on Dryer in Bathroom ||:  11 : 30  --  12 : 00 
+ || Younger sister used Dryer in Bathroom ||:  11 : 30  --  12 : 00 
+ || Younger sister switched off Dryer in Bathroom ||:  11 : 30  --  12 : 00 
+ || Father switched on BlindWindow in Bedroom ||:  11 : 30  --  12 : 00 
+ || Father crashed BlindWindow in Bedroom ||:  11 : 30  --  12 : 00 
+ || Father met Dog 1 in Bedroom ||:  11 : 30  --  12 : 00 
+ || Father switched on BlindWindow in Bedroom ||:  11 : 30  --  12 : 00 
+ || Grandmother 2 switched on BlindWindow in Bedroom ||:  11 : 30  --  12 : 00 
+ || Grandmother 2 used BlindWindow in Bedroom ||:  11 : 30  --  12 : 00 
+ || Grandmother 2 switched off BlindWindow in Bedroom ||:  11 : 30  --  12 : 00 
+ || Grandmother 2 played with Dog 2 in Bedroom ||:  11 : 30  --  12 : 00 
+ || Smoke Sensor alarmed in Garage ||:  11 : 30  --  12 : 00 
+ || Smoke Sensor alarmed in Kitchen ||:  11 : 30  --  12 : 00 
+ || Mother met Father in Kitchen ||:  11 : 30  --  12 : 00 
+ || Smoke Sensor alarmed in LivingRoom ||:  11 : 30  --  12 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  11 : 30  --  12 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  11 : 30  --  12 : 00 
+ || Father met Dog 1 in Bedroom ||:  11 : 30  --  12 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  11 : 30  --  12 : 00 
+ || Younger sister met Father in Bathroom ||:  11 : 30  --  12 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  11 : 30  --  12 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  11 : 30  --  12 : 00 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  11 : 30  --  12 : 00 
+ || Older sister met Father in ChildrenBedroom ||:  11 : 30  --  12 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  11 : 30  --  12 : 00 
+ || Mother met Father in Bathroom ||:  11 : 30  --  12 : 00 
+ || Mother switched on WashingMachine in Bathroom ||:  12 : 00  --  12 : 30 
+ || Mother used WashingMachine in Bathroom ||:  12 : 00  --  12 : 30 
+ || Mother switched off WashingMachine in Bathroom ||:  12 : 00  --  12 : 30 
+ || Older sister met Grandmother 1 in ChildrenBedroom ||:  12 : 00  --  12 : 30 
+ || Grandmother 1 switched on BlindWindow in LivingRoom ||:  12 : 00  --  12 : 30 
+ || Grandmother 1 crashed BlindWindow in LivingRoom ||:  12 : 00  --  12 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  12 : 00  --  12 : 30 
+ || Grandmother 1 switched on BlindWindow in LivingRoom ||:  12 : 00  --  12 : 30 
+ || Mother switched on WashingMachine in Bathroom ||:  12 : 00  --  12 : 30 
+ || Mother crashed WashingMachine in Bathroom ||:  12 : 00  --  12 : 30 
+ || Mother met Father in Bathroom ||:  12 : 00  --  12 : 30 
+ || Mother switched on WashingMachine in Bathroom ||:  12 : 00  --  12 : 30 
+ || Grandmother 2 switched on TV in Bedroom ||:  12 : 00  --  12 : 30 
+ || Grandmother 2 crashed TV in Bedroom ||:  12 : 00  --  12 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  12 : 00  --  12 : 30 
+ || Grandmother 2 switched on TV in Bedroom ||:  12 : 00  --  12 : 30 
+ || Smoke Sensor alarmed in Garage ||:  12 : 00  --  12 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  12 : 00  --  12 : 30 
+ || Father met Dog 1 in Bedroom ||:  12 : 00  --  12 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  12 : 00  --  12 : 30 
+ || Younger sister met Father in Bathroom ||:  12 : 00  --  12 : 30 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  12 : 00  --  12 : 30 
+ || Older sister met Father in ChildrenBedroom ||:  12 : 00  --  12 : 30 
+ || Grandmother 2 switched on BlindWindow in Bedroom ||:  12 : 30  --  13 : 00 
+ || Grandmother 2 crashed BlindWindow in Bedroom ||:  12 : 30  --  13 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  12 : 30  --  13 : 00 
+ || Grandmother 2 switched on BlindWindow in Bedroom ||:  12 : 30  --  13 : 00 
+ || Grandmother 2 switched on Conditioner in Bedroom ||:  12 : 30  --  13 : 00 
+ || Grandmother 2 used Conditioner in Bedroom ||:  12 : 30  --  13 : 00 
+ || Grandmother 2 switched off Conditioner in Bedroom ||:  12 : 30  --  13 : 00 
+ || Smoke Sensor alarmed in Garage ||:  12 : 30  --  13 : 00 
+ || Smoke Sensor alarmed in Kitchen ||:  12 : 30  --  13 : 00 
+ || Mother met Father in Kitchen ||:  12 : 30  --  13 : 00 
+ || Temperature Sensor alarmed in Kitchen ||:  12 : 30  --  13 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  12 : 30  --  13 : 00 
+ || Father met Dog 1 in Bedroom ||:  12 : 30  --  13 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  12 : 30  --  13 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  12 : 30  --  13 : 00 
+ || Grandmother 2 switched on Conditioner in Bedroom ||:  13 : 00  --  13 : 30 
+ || Grandmother 2 used Conditioner in Bedroom ||:  13 : 00  --  13 : 30 
+ || Grandmother 2 switched off Conditioner in Bedroom ||:  13 : 00  --  13 : 30 
+ || Grandmother 1 crashed Conditioner in LivingRoom ||:  13 : 00  --  13 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  13 : 00  --  13 : 30 
+ || Grandmother 1 switched on Conditioner in LivingRoom ||:  13 : 00  --  13 : 30 
+ || Younger sister used Hairdryer in Bathroom ||:  13 : 00  --  13 : 30 
+ || Younger sister switched off Hairdryer in Bathroom ||:  13 : 00  --  13 : 30 
+ || Father used Conditioner in Bedroom ||:  13 : 00  --  13 : 30 
+ || Father switched off Conditioner in Bedroom ||:  13 : 00  --  13 : 30 
+ || Grandmother 2 crashed BlindWindow in Bedroom ||:  13 : 00  --  13 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  13 : 00  --  13 : 30 
+ || Grandmother 2 switched on BlindWindow in Bedroom ||:  13 : 00  --  13 : 30 
+ || Father met Dog 1 in Garage ||:  13 : 00  --  13 : 30 
+ || Smoke Sensor alarmed in Garage ||:  13 : 00  --  13 : 30 
+ || Smoke Sensor alarmed in Kitchen ||:  13 : 00  --  13 : 30 
+ || Mother met Father in Kitchen ||:  13 : 00  --  13 : 30 
+ || Temperature Sensor alarmed in Kitchen ||:  13 : 00  --  13 : 30 
+ || Smoke Sensor alarmed in LivingRoom ||:  13 : 00  --  13 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  13 : 00  --  13 : 30 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  13 : 00  --  13 : 30 
+ || Older sister met Father in ChildrenBedroom ||:  13 : 00  --  13 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  13 : 00  --  13 : 30 
+ || Mother met Father in Bathroom ||:  13 : 00  --  13 : 30 
+ || Father met Mother in Garage ||:  13 : 30  --  14 : 00 
+ || Father did something with Bike in Garage ||:  13 : 30  --  14 : 00 
+ || Father used Bike in Garage ||:  13 : 30  --  14 : 00 
+ || Father leave Bike in Garage ||:  13 : 30  --  14 : 00 
+ || Younger sister met Father in Bathroom ||:  13 : 30  --  14 : 00 
+ || Younger sister switched on Hairdryer in Bathroom ||:  13 : 30  --  14 : 00 
+ || Younger sister used Hairdryer in Bathroom ||:  13 : 30  --  14 : 00 
+ || Younger sister switched off Hairdryer in Bathroom ||:  13 : 30  --  14 : 00 
+ || Father met Grandmother 2 in Garage ||:  13 : 30  --  14 : 00 
+ || Father switched on Conditioner in Bedroom ||:  13 : 30  --  14 : 00 
+ || Father crashed Conditioner in Bedroom ||:  13 : 30  --  14 : 00 
+ || Father met Dog 1 in Bedroom ||:  13 : 30  --  14 : 00 
+ || Father switched on Conditioner in Bedroom ||:  13 : 30  --  14 : 00 
+ || Father met Cat 1 in Garage ||:  13 : 30  --  14 : 00 
+ || Mother switched on Dryer in Bathroom ||:  13 : 30  --  14 : 00 
+ || Mother used Dryer in Bathroom ||:  13 : 30  --  14 : 00 
+ || Mother switched off Dryer in Bathroom ||:  13 : 30  --  14 : 00 
+ || Grandmother 2 switched on Conditioner in Bedroom ||:  13 : 30  --  14 : 00 
+ || Grandmother 2 crashed Conditioner in Bedroom ||:  13 : 30  --  14 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  13 : 30  --  14 : 00 
+ || Grandmother 2 switched on Conditioner in Bedroom ||:  13 : 30  --  14 : 00 
+ || Smoke Sensor alarmed in Garage ||:  13 : 30  --  14 : 00 
+ || Smoke Sensor alarmed in Kitchen ||:  13 : 30  --  14 : 00 
+ || Mother met Father in Kitchen ||:  13 : 30  --  14 : 00 
+ || Temperature Sensor alarmed in Kitchen ||:  13 : 30  --  14 : 00 
+ || Smoke Sensor alarmed in LivingRoom ||:  13 : 30  --  14 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  13 : 30  --  14 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  13 : 30  --  14 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  13 : 30  --  14 : 00 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  13 : 30  --  14 : 00 
+ || Older sister met Father in ChildrenBedroom ||:  13 : 30  --  14 : 00 
+ || Father switched on GarageDoors in Garage ||:  14 : 00  --  14 : 30 
+ || Father used GarageDoors in Garage ||:  14 : 00  --  14 : 30 
+ || Father switched off GarageDoors in Garage ||:  14 : 00  --  14 : 30 
+ || Father crashed Moto in Garage ||:  14 : 00  --  14 : 30 
+ || Father did something with Moto in Garage ||:  14 : 00  --  14 : 30 
+ || Father crashed Conditioner in Bedroom ||:  14 : 00  --  14 : 30 
+ || Father met Dog 1 in Bedroom ||:  14 : 00  --  14 : 30 
+ || Father switched on Conditioner in Bedroom ||:  14 : 00  --  14 : 30 
+ || Father did something with Bike in Garage ||:  14 : 00  --  14 : 30 
+ || Father used Bike in Garage ||:  14 : 00  --  14 : 30 
+ || Father leave Bike in Garage ||:  14 : 00  --  14 : 30 
+ || Grandmother 2 crashed BlindWindow in Bedroom ||:  14 : 00  --  14 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  14 : 00  --  14 : 30 
+ || Grandmother 2 switched on BlindWindow in Bedroom ||:  14 : 00  --  14 : 30 
+ || Smoke Sensor alarmed in Garage ||:  14 : 00  --  14 : 30 
+ || Smoke Sensor alarmed in Kitchen ||:  14 : 00  --  14 : 30 
+ || Mother met Father in Kitchen ||:  14 : 00  --  14 : 30 
+ || Temperature Sensor alarmed in Kitchen ||:  14 : 00  --  14 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  14 : 00  --  14 : 30 
+ || Father met Dog 1 in Bedroom ||:  14 : 00  --  14 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  14 : 00  --  14 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  14 : 00  --  14 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  14 : 00  --  14 : 30 
+ || Mother met Father in Bathroom ||:  14 : 00  --  14 : 30 
+ || Younger sister met Mother in Bathroom ||:  14 : 30  --  15 : 00 
+ || Younger sister switched on Hairdryer in Bathroom ||:  14 : 30  --  15 : 00 
+ || Younger sister crashed Hairdryer in Bathroom ||:  14 : 30  --  15 : 00 
+ || Younger sister met Father in Bathroom ||:  14 : 30  --  15 : 00 
+ || Younger sister switched on Hairdryer in Bathroom ||:  14 : 30  --  15 : 00 
+ || Older sister switched on BlindWindow in ChildrenBedroom ||:  14 : 30  --  15 : 00 
+ || Older sister crashed BlindWindow in ChildrenBedroom ||:  14 : 30  --  15 : 00 
+ || Older sister met Father in ChildrenBedroom ||:  14 : 30  --  15 : 00 
+ || Older sister switched on BlindWindow in ChildrenBedroom ||:  14 : 30  --  15 : 00 
+ || Younger sister switched on Dryer in Bathroom ||:  14 : 30  --  15 : 00 
+ || Younger sister used Dryer in Bathroom ||:  14 : 30  --  15 : 00 
+ || Younger sister switched off Dryer in Bathroom ||:  14 : 30  --  15 : 00 
+ || Father crashed BlindWindow in Bedroom ||:  14 : 30  --  15 : 00 
+ || Father met Dog 1 in Bedroom ||:  14 : 30  --  15 : 00 
+ || Father switched on BlindWindow in Bedroom ||:  14 : 30  --  15 : 00 
+ || Father did something with Auto in Garage ||:  14 : 30  --  15 : 00 
+ || Father crashed Auto in Garage ||:  14 : 30  --  15 : 00 
+ || Father did something with Auto in Garage ||:  14 : 30  --  15 : 00 
+ || Younger sister played with Cat 2 in Bathroom ||:  14 : 30  --  15 : 00 
+ || Smoke Sensor alarmed in Garage ||:  14 : 30  --  15 : 00 
+ || Smoke Sensor alarmed in LivingRoom ||:  14 : 30  --  15 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  14 : 30  --  15 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  14 : 30  --  15 : 00 
+ || Younger sister met Father in Bathroom ||:  14 : 30  --  15 : 00 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  14 : 30  --  15 : 00 
+ || Older sister met Father in ChildrenBedroom ||:  14 : 30  --  15 : 00 
+ || Grandmother 2 met Mother in Bedroom ||:  15 : 00  --  15 : 30 
+ || Grandmother 2 used TV in Bedroom ||:  15 : 00  --  15 : 30 
+ || Grandmother 2 switched off TV in Bedroom ||:  15 : 00  --  15 : 30 
+ || Older sister used BlindWindow in ChildrenBedroom ||:  15 : 00  --  15 : 30 
+ || Older sister switched off BlindWindow in ChildrenBedroom ||:  15 : 00  --  15 : 30 
+ || Father switched on GarageDoors in Garage ||:  15 : 00  --  15 : 30 
+ || Father used GarageDoors in Garage ||:  15 : 00  --  15 : 30 
+ || Father switched off GarageDoors in Garage ||:  15 : 00  --  15 : 30 
+ || Younger sister crashed WashingMachine in Bathroom ||:  15 : 00  --  15 : 30 
+ || Younger sister met Father in Bathroom ||:  15 : 00  --  15 : 30 
+ || Younger sister switched on WashingMachine in Bathroom ||:  15 : 00  --  15 : 30 
+ || Father crashed TV in Bedroom ||:  15 : 00  --  15 : 30 
+ || Father met Dog 1 in Bedroom ||:  15 : 00  --  15 : 30 
+ || Father switched on TV in Bedroom ||:  15 : 00  --  15 : 30 
+ || Grandmother 2 played with Cat 1 in Bedroom ||:  15 : 00  --  15 : 30 
+ || Father used Conditioner in Bedroom ||:  15 : 00  --  15 : 30 
+ || Father switched off Conditioner in Bedroom ||:  15 : 00  --  15 : 30 
+ || Smoke Sensor alarmed in Garage ||:  15 : 00  --  15 : 30 
+ || Smoke Sensor alarmed in Kitchen ||:  15 : 00  --  15 : 30 
+ || Mother met Father in Kitchen ||:  15 : 00  --  15 : 30 
+ || Temperature Sensor alarmed in Kitchen ||:  15 : 00  --  15 : 30 
+ || Smoke Sensor alarmed in LivingRoom ||:  15 : 00  --  15 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  15 : 00  --  15 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  15 : 00  --  15 : 30 
+ || Younger sister met Father in Bathroom ||:  15 : 00  --  15 : 30 
+ || Mother switched on Oven in Kitchen ||:  15 : 30  --  16 : 00 
+ || Mother crashed Oven in Kitchen ||:  15 : 30  --  16 : 00 
+ || Mother met Father in Kitchen ||:  15 : 30  --  16 : 00 
+ || Mother switched on Oven in Kitchen ||:  15 : 30  --  16 : 00 
+ || Mother switched on BlindWindow in Kitchen ||:  15 : 30  --  16 : 00 
+ || Mother used BlindWindow in Kitchen ||:  15 : 30  --  16 : 00 
+ || Mother switched off BlindWindow in Kitchen ||:  15 : 30  --  16 : 00 
+ || Older sister switched on BlindWindow in ChildrenBedroom ||:  15 : 30  --  16 : 00 
+ || Older sister crashed BlindWindow in ChildrenBedroom ||:  15 : 30  --  16 : 00 
+ || Older sister met Father in ChildrenBedroom ||:  15 : 30  --  16 : 00 
+ || Older sister switched on BlindWindow in ChildrenBedroom ||:  15 : 30  --  16 : 00 
+ || Younger sister met Grandmother 2 in Bathroom ||:  15 : 30  --  16 : 00 
+ || Father switched on Conditioner in Bedroom ||:  15 : 30  --  16 : 00 
+ || Father used Conditioner in Bedroom ||:  15 : 30  --  16 : 00 
+ || Father switched off Conditioner in Bedroom ||:  15 : 30  --  16 : 00 
+ || Grandmother 1 played with Dog 1 in LivingRoom ||:  15 : 30  --  16 : 00 
+ || Grandmother 1 used Conditioner in LivingRoom ||:  15 : 30  --  16 : 00 
+ || Grandmother 1 switched off Conditioner in LivingRoom ||:  15 : 30  --  16 : 00 
+ || Smoke Sensor alarmed in Garage ||:  15 : 30  --  16 : 00 
+ || Smoke Sensor alarmed in Kitchen ||:  15 : 30  --  16 : 00 
+ || Mother met Father in Kitchen ||:  15 : 30  --  16 : 00 
+ || Temperature Sensor alarmed in Kitchen ||:  15 : 30  --  16 : 00 
+ || Mother switched on Feeder in Kitchen ||:  16 : 00  --  16 : 30 
+ || Mother crashed Feeder in Kitchen ||:  16 : 00  --  16 : 30 
+ || Mother switched on Feeder in Kitchen ||:  16 : 00  --  16 : 30 
+ || Younger sister used Hairdryer in Bathroom ||:  16 : 00  --  16 : 30 
+ || Younger sister switched off Hairdryer in Bathroom ||:  16 : 00  --  16 : 30 
+ || Father crashed BlindWindow in Bedroom ||:  16 : 00  --  16 : 30 
+ || Father met Dog 1 in Bedroom ||:  16 : 00  --  16 : 30 
+ || Father switched on BlindWindow in Bedroom ||:  16 : 00  --  16 : 30 
+ || Grandmother 2 crashed Conditioner in Bedroom ||:  16 : 00  --  16 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  16 : 00  --  16 : 30 
+ || Grandmother 2 switched on Conditioner in Bedroom ||:  16 : 00  --  16 : 30 
+ || Younger sister played with Dog 1 in Bathroom ||:  16 : 00  --  16 : 30 
+ || Younger sister crashed WashingMachine in Bathroom ||:  16 : 00  --  16 : 30 
+ || Younger sister met Father in Bathroom ||:  16 : 00  --  16 : 30 
+ || Younger sister switched on WashingMachine in Bathroom ||:  16 : 00  --  16 : 30 
+ || Mother met Cat 2 in Bathroom ||:  16 : 00  --  16 : 30 
+ || Smoke Sensor alarmed in LivingRoom ||:  16 : 00  --  16 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  16 : 00  --  16 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  16 : 00  --  16 : 30 
+ || Father met Dog 1 in Bedroom ||:  16 : 00  --  16 : 30 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  16 : 00  --  16 : 30 
+ || Older sister met Father in ChildrenBedroom ||:  16 : 00  --  16 : 30 
+ || Older sister crashed BlindWindow in ChildrenBedroom ||:  16 : 30  --  17 : 00 
+ || Older sister switched on BlindWindow in ChildrenBedroom ||:  16 : 30  --  17 : 00 
+ || Mother met Grandmother 1 in Kitchen ||:  16 : 30  --  17 : 00 
+ || Grandmother 2 switched on TV in Bedroom ||:  16 : 30  --  17 : 00 
+ || Grandmother 2 crashed TV in Bedroom ||:  16 : 30  --  17 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  16 : 30  --  17 : 00 
+ || Grandmother 2 switched on TV in Bedroom ||:  16 : 30  --  17 : 00 
+ || Smoke Sensor alarmed in Kitchen ||:  16 : 30  --  17 : 00 
+ || Mother met Father in Kitchen ||:  16 : 30  --  17 : 00 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  16 : 30  --  17 : 00 
+ || Older sister met Father in ChildrenBedroom ||:  16 : 30  --  17 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  16 : 30  --  17 : 00 
+ || Mother met Father in Bathroom ||:  16 : 30  --  17 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  17 : 00  --  17 : 30 
+ || Grandmother 1 switched on TV in LivingRoom ||:  17 : 00  --  17 : 30 
+ || Grandmother 1 crashed TV in LivingRoom ||:  17 : 00  --  17 : 30 
+ || Grandmother 1 switched on TV in LivingRoom ||:  17 : 00  --  17 : 30 
+ || Mother switched on Fridge in Kitchen ||:  17 : 00  --  17 : 30 
+ || Mother used Fridge in Kitchen ||:  17 : 00  --  17 : 30 
+ || Mother switched off Fridge in Kitchen ||:  17 : 00  --  17 : 30 
+ || Younger sister switched on Dryer in Bathroom ||:  17 : 00  --  17 : 30 
+ || Younger sister crashed Dryer in Bathroom ||:  17 : 00  --  17 : 30 
+ || Younger sister met Father in Bathroom ||:  17 : 00  --  17 : 30 
+ || Younger sister switched on Dryer in Bathroom ||:  17 : 00  --  17 : 30 
+ || Mother met Older sister in Kitchen ||:  17 : 00  --  17 : 30 
+ || Mother switched on Dishwasher in Kitchen ||:  17 : 00  --  17 : 30 
+ || Mother used Dishwasher in Kitchen ||:  17 : 00  --  17 : 30 
+ || Mother switched off Dishwasher in Kitchen ||:  17 : 00  --  17 : 30 
+ || Younger sister played with Cat 1 in Bathroom ||:  17 : 00  --  17 : 30 
+ || Father met Dog 1 in Garage ||:  17 : 00  --  17 : 30 
+ || Father used Laptop in Bedroom ||:  17 : 00  --  17 : 30 
+ || Father switched off Laptop in Bedroom ||:  17 : 00  --  17 : 30 
+ || Smoke Sensor alarmed in Garage ||:  17 : 00  --  17 : 30 
+ || Smoke Sensor alarmed in Kitchen ||:  17 : 00  --  17 : 30 
+ || Mother met Father in Kitchen ||:  17 : 00  --  17 : 30 
+ || Smoke Sensor alarmed in LivingRoom ||:  17 : 00  --  17 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  17 : 00  --  17 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  17 : 00  --  17 : 30 
+ || Younger sister met Father in Bathroom ||:  17 : 00  --  17 : 30 
+ || Older sister met Mother in ChildrenBedroom ||:  17 : 30  --  18 : 00 
+ || Older sister switched on PC in ChildrenBedroom ||:  17 : 30  --  18 : 00 
+ || Older sister used PC in ChildrenBedroom ||:  17 : 30  --  18 : 00 
+ || Older sister switched off PC in ChildrenBedroom ||:  17 : 30  --  18 : 00 
+ || Older sister met Grandmother 1 in ChildrenBedroom ||:  17 : 30  --  18 : 00 
+ || Mother switched on BlindWindow in Kitchen ||:  17 : 30  --  18 : 00 
+ || Mother crashed BlindWindow in Kitchen ||:  17 : 30  --  18 : 00 
+ || Mother met Father in Kitchen ||:  17 : 30  --  18 : 00 
+ || Mother switched on BlindWindow in Kitchen ||:  17 : 30  --  18 : 00 
+ || Father did something with Bike in Garage ||:  17 : 30  --  18 : 00 
+ || Father crashed Bike in Garage ||:  17 : 30  --  18 : 00 
+ || Father did something with Bike in Garage ||:  17 : 30  --  18 : 00 
+ || Mother crashed WashingMachine in Bathroom ||:  17 : 30  --  18 : 00 
+ || Mother met Father in Bathroom ||:  17 : 30  --  18 : 00 
+ || Mother switched on WashingMachine in Bathroom ||:  17 : 30  --  18 : 00 
+ || Smoke Sensor alarmed in Garage ||:  17 : 30  --  18 : 00 
+ || Temperature Sensor alarmed in Kitchen ||:  17 : 30  --  18 : 00 
+ || Mother met Father in Kitchen ||:  17 : 30  --  18 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  17 : 30  --  18 : 00 
+ || Father met Dog 1 in Bedroom ||:  17 : 30  --  18 : 00 
+ || Older sister switched on PC in ChildrenBedroom ||:  18 : 00  --  18 : 30 
+ || Older sister crashed PC in ChildrenBedroom ||:  18 : 00  --  18 : 30 
+ || Older sister met Father in ChildrenBedroom ||:  18 : 00  --  18 : 30 
+ || Older sister switched on PC in ChildrenBedroom ||:  18 : 00  --  18 : 30 
+ || Older sister crashed PC in ChildrenBedroom ||:  18 : 00  --  18 : 30 
+ || Older sister switched on PC in ChildrenBedroom ||:  18 : 00  --  18 : 30 
+ || Grandmother 1 played with Cat 1 in LivingRoom ||:  18 : 00  --  18 : 30 
+ || Grandmother 1 played with Dog 1 in LivingRoom ||:  18 : 00  --  18 : 30 
+ || Father used TV in Bedroom ||:  18 : 00  --  18 : 30 
+ || Father switched off TV in Bedroom ||:  18 : 00  --  18 : 30 
+ || Smoke Sensor alarmed in LivingRoom ||:  18 : 00  --  18 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  18 : 00  --  18 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  18 : 00  --  18 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  18 : 00  --  18 : 30 
+ || Older sister switched on Conditioner in ChildrenBedroom ||:  18 : 30  --  19 : 00 
+ || Older sister crashed Conditioner in ChildrenBedroom ||:  18 : 30  --  19 : 00 
+ || Older sister met Father in ChildrenBedroom ||:  18 : 30  --  19 : 00 
+ || Older sister switched on Conditioner in ChildrenBedroom ||:  18 : 30  --  19 : 00 
+ || Grandmother 1 used PlayStation in LivingRoom ||:  18 : 30  --  19 : 00 
+ || Grandmother 1 switched off PlayStation in LivingRoom ||:  18 : 30  --  19 : 00 
+ || Mother switched on Dishwasher in Kitchen ||:  18 : 30  --  19 : 00 
+ || Mother used Dishwasher in Kitchen ||:  18 : 30  --  19 : 00 
+ || Mother switched off Dishwasher in Kitchen ||:  18 : 30  --  19 : 00 
+ || Father switched on Conditioner in Bedroom ||:  18 : 30  --  19 : 00 
+ || Father used Conditioner in Bedroom ||:  18 : 30  --  19 : 00 
+ || Father switched off Conditioner in Bedroom ||:  18 : 30  --  19 : 00 
+ || Grandmother 1 crashed BlindWindow in LivingRoom ||:  18 : 30  --  19 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  18 : 30  --  19 : 00 
+ || Grandmother 1 switched on BlindWindow in LivingRoom ||:  18 : 30  --  19 : 00 
+ || Grandmother 1 switched on PlayStation in LivingRoom ||:  18 : 30  --  19 : 00 
+ || Grandmother 1 used PlayStation in LivingRoom ||:  18 : 30  --  19 : 00 
+ || Grandmother 1 switched off PlayStation in LivingRoom ||:  18 : 30  --  19 : 00 
+ || Mother crashed Hairdryer in Bathroom ||:  18 : 30  --  19 : 00 
+ || Mother met Father in Bathroom ||:  18 : 30  --  19 : 00 
+ || Mother switched on Hairdryer in Bathroom ||:  18 : 30  --  19 : 00 
+ || Father switched on Conditioner in Bedroom ||:  18 : 30  --  19 : 00 
+ || Father crashed Conditioner in Bedroom ||:  18 : 30  --  19 : 00 
+ || Father met Dog 1 in Bedroom ||:  18 : 30  --  19 : 00 
+ || Father switched on Conditioner in Bedroom ||:  18 : 30  --  19 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  18 : 30  --  19 : 00 
+ || Younger sister met Father in Bathroom ||:  18 : 30  --  19 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  18 : 30  --  19 : 00 
+ || Mother met Father in Bathroom ||:  18 : 30  --  19 : 00 
+ || Older sister used Conditioner in ChildrenBedroom ||:  19 : 00  --  19 : 30 
+ || Older sister switched off Conditioner in ChildrenBedroom ||:  19 : 00  --  19 : 30 
+ || Mother switched on Dryer in Bathroom ||:  19 : 00  --  19 : 30 
+ || Mother used Dryer in Bathroom ||:  19 : 00  --  19 : 30 
+ || Mother switched off Dryer in Bathroom ||:  19 : 00  --  19 : 30 
+ || Grandmother 1 used BlindWindow in LivingRoom ||:  19 : 00  --  19 : 30 
+ || Grandmother 1 switched off BlindWindow in LivingRoom ||:  19 : 00  --  19 : 30 
+ || Mother met Grandmother 2 in Kitchen ||:  19 : 00  --  19 : 30 
+ || Mother switched on Toaster in Kitchen ||:  19 : 00  --  19 : 30 
+ || Mother crashed Toaster in Kitchen ||:  19 : 00  --  19 : 30 
+ || Mother met Father in Kitchen ||:  19 : 00  --  19 : 30 
+ || Mother switched on Toaster in Kitchen ||:  19 : 00  --  19 : 30 
+ || Smoke Sensor alarmed in Kitchen ||:  19 : 00  --  19 : 30 
+ || Temperature Sensor alarmed in Kitchen ||:  19 : 00  --  19 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  19 : 00  --  19 : 30 
+ || Father met Dog 1 in Bedroom ||:  19 : 00  --  19 : 30 
+ || Grandmother 1 switched on RoboVacuumCleaner in LivingRoom ||:  19 : 30  --  20 : 00 
+ || Grandmother 1 crashed RoboVacuumCleaner in LivingRoom ||:  19 : 30  --  20 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  19 : 30  --  20 : 00 
+ || Grandmother 1 switched on RoboVacuumCleaner in LivingRoom ||:  19 : 30  --  20 : 00 
+ || Mother crashed Oven in Kitchen ||:  19 : 30  --  20 : 00 
+ || Mother met Father in Kitchen ||:  19 : 30  --  20 : 00 
+ || Mother switched on Oven in Kitchen ||:  19 : 30  --  20 : 00 
+ || Older sister crashed PC in ChildrenBedroom ||:  19 : 30  --  20 : 00 
+ || Older sister met Father in ChildrenBedroom ||:  19 : 30  --  20 : 00 
+ || Older sister switched on PC in ChildrenBedroom ||:  19 : 30  --  20 : 00 
+ || Mother met Younger sister in Kitchen ||:  19 : 30  --  20 : 00 
+ || Grandmother 1 switched on Aquarium in LivingRoom ||:  19 : 30  --  20 : 00 
+ || Grandmother 1 used Aquarium in LivingRoom ||:  19 : 30  --  20 : 00 
+ || Grandmother 1 switched off Aquarium in LivingRoom ||:  19 : 30  --  20 : 00 
+ || Father switched on Laptop in Bedroom ||:  19 : 30  --  20 : 00 
+ || Father crashed Laptop in Bedroom ||:  19 : 30  --  20 : 00 
+ || Father met Dog 1 in Bedroom ||:  19 : 30  --  20 : 00 
+ || Father switched on Laptop in Bedroom ||:  19 : 30  --  20 : 00 
+ || Smoke Sensor alarmed in LivingRoom ||:  19 : 30  --  20 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  19 : 30  --  20 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  19 : 30  --  20 : 00 
+ || Father met Dog 1 in Bedroom ||:  19 : 30  --  20 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  19 : 30  --  20 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  19 : 30  --  20 : 00 
+ || Father used Auto in Garage ||:  20 : 00  --  20 : 30 
+ || Father leave Auto in Garage ||:  20 : 00  --  20 : 30 
+ || Mother used Toaster in Kitchen ||:  20 : 00  --  20 : 30 
+ || Mother switched off Toaster in Kitchen ||:  20 : 00  --  20 : 30 
+ || Mother met Older sister in Kitchen ||:  20 : 00  --  20 : 30 
+ || Mother used Feeder in Kitchen ||:  20 : 00  --  20 : 30 
+ || Mother switched off Feeder in Kitchen ||:  20 : 00  --  20 : 30 
+ || Younger sister played with Dog 1 in Bedroom ||:  20 : 00  --  20 : 30 
+ || Father used Laptop in Bedroom ||:  20 : 00  --  20 : 30 
+ || Father switched off Laptop in Bedroom ||:  20 : 00  --  20 : 30 
+ || Grandmother 1 switched on PlayStation in LivingRoom ||:  20 : 00  --  20 : 30 
+ || Grandmother 1 used PlayStation in LivingRoom ||:  20 : 00  --  20 : 30 
+ || Grandmother 1 switched off PlayStation in LivingRoom ||:  20 : 00  --  20 : 30 
+ || Mother used WashingMachine in Bathroom ||:  20 : 00  --  20 : 30 
+ || Mother switched off WashingMachine in Bathroom ||:  20 : 00  --  20 : 30 
+ || Younger sister played with Dog 2 in Bathroom ||:  20 : 00  --  20 : 30 
+ || Younger sister used WashingMachine in Bathroom ||:  20 : 00  --  20 : 30 
+ || Younger sister switched off WashingMachine in Bathroom ||:  20 : 00  --  20 : 30 
+ || Smoke Sensor alarmed in Kitchen ||:  20 : 00  --  20 : 30 
+ || Mother met Father in Kitchen ||:  20 : 00  --  20 : 30 
+ || Smoke Sensor alarmed in LivingRoom ||:  20 : 00  --  20 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  20 : 00  --  20 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  20 : 00  --  20 : 30 
+ || Father met Dog 1 in Bedroom ||:  20 : 00  --  20 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  20 : 00  --  20 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  20 : 00  --  20 : 30 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  20 : 00  --  20 : 30 
+ || Older sister met Father in ChildrenBedroom ||:  20 : 00  --  20 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  20 : 00  --  20 : 30 
+ || Mother met Father in Bathroom ||:  20 : 00  --  20 : 30 
+ || Mother switched on Feeder in Kitchen ||:  20 : 30  --  21 : 00 
+ || Mother crashed Feeder in Kitchen ||:  20 : 30  --  21 : 00 
+ || Mother met Father in Kitchen ||:  20 : 30  --  21 : 00 
+ || Mother switched on Feeder in Kitchen ||:  20 : 30  --  21 : 00 
+ || Mother used Feeder in Kitchen ||:  20 : 30  --  21 : 00 
+ || Mother switched off Feeder in Kitchen ||:  20 : 30  --  21 : 00 
+ || Grandmother 2 met Grandmother 1 in Bedroom ||:  20 : 30  --  21 : 00 
+ || Mother switched on Toaster in Kitchen ||:  20 : 30  --  21 : 00 
+ || Mother crashed Toaster in Kitchen ||:  20 : 30  --  21 : 00 
+ || Mother switched on Toaster in Kitchen ||:  20 : 30  --  21 : 00 
+ || Mother used Hairdryer in Bathroom ||:  20 : 30  --  21 : 00 
+ || Mother switched off Hairdryer in Bathroom ||:  20 : 30  --  21 : 00 
+ || Younger sister switched on Hairdryer in Bathroom ||:  20 : 30  --  21 : 00 
+ || Younger sister crashed Hairdryer in Bathroom ||:  20 : 30  --  21 : 00 
+ || Younger sister met Father in Bathroom ||:  20 : 30  --  21 : 00 
+ || Younger sister switched on Hairdryer in Bathroom ||:  20 : 30  --  21 : 00 
+ || Temperature Sensor alarmed in Kitchen ||:  20 : 30  --  21 : 00 
+ || Mother met Father in Kitchen ||:  20 : 30  --  21 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  20 : 30  --  21 : 00 
+ || Father met Dog 1 in Bedroom ||:  20 : 30  --  21 : 00 
+ || Mother used Oven in Kitchen ||:  21 : 00  --  21 : 30 
+ || Mother switched off Oven in Kitchen ||:  21 : 00  --  21 : 30 
+ || Grandmother 2 crashed TV in Bedroom ||:  21 : 00  --  21 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  21 : 00  --  21 : 30 
+ || Grandmother 2 switched on TV in Bedroom ||:  21 : 00  --  21 : 30 
+ || Mother crashed BlindWindow in Kitchen ||:  21 : 00  --  21 : 30 
+ || Mother met Father in Kitchen ||:  21 : 00  --  21 : 30 
+ || Mother switched on BlindWindow in Kitchen ||:  21 : 00  --  21 : 30 
+ || Grandmother 2 met Older sister in Bedroom ||:  21 : 00  --  21 : 30 
+ || Grandmother 2 crashed TV in Bedroom ||:  21 : 00  --  21 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  21 : 00  --  21 : 30 
+ || Grandmother 2 switched on TV in Bedroom ||:  21 : 00  --  21 : 30 
+ || Younger sister played with Dog 1 in Bedroom ||:  21 : 00  --  21 : 30 
+ || Father switched on Laptop in Bedroom ||:  21 : 00  --  21 : 30 
+ || Father crashed Laptop in Bedroom ||:  21 : 00  --  21 : 30 
+ || Father met Dog 1 in Bedroom ||:  21 : 00  --  21 : 30 
+ || Father switched on Laptop in Bedroom ||:  21 : 00  --  21 : 30 
+ || Grandmother 1 used RoboVacuumCleaner in LivingRoom ||:  21 : 00  --  21 : 30 
+ || Grandmother 1 switched off RoboVacuumCleaner in LivingRoom ||:  21 : 00  --  21 : 30 
+ || Grandmother 1 crashed TV in LivingRoom ||:  21 : 00  --  21 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  21 : 00  --  21 : 30 
+ || Grandmother 1 switched on TV in LivingRoom ||:  21 : 00  --  21 : 30 
+ || Grandmother 2 played with Cat 2 in Bedroom ||:  21 : 00  --  21 : 30 
+ || Younger sister switched on WashingMachine in Bathroom ||:  21 : 00  --  21 : 30 
+ || Younger sister crashed WashingMachine in Bathroom ||:  21 : 00  --  21 : 30 
+ || Younger sister met Father in Bathroom ||:  21 : 00  --  21 : 30 
+ || Younger sister switched on WashingMachine in Bathroom ||:  21 : 00  --  21 : 30 
+ || Smoke Sensor alarmed in Kitchen ||:  21 : 00  --  21 : 30 
+ || Mother met Father in Kitchen ||:  21 : 00  --  21 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  21 : 00  --  21 : 30 
+ || Mother met Father in Bathroom ||:  21 : 00  --  21 : 30 
+ || Mother switched on Hairdryer in Bathroom ||:  21 : 30  --  22 : 00 
+ || Mother crashed Hairdryer in Bathroom ||:  21 : 30  --  22 : 00 
+ || Mother switched on Hairdryer in Bathroom ||:  21 : 30  --  22 : 00 
+ || Older sister met Grandmother 1 in ChildrenBedroom ||:  21 : 30  --  22 : 00 
+ || Father used Conditioner in Bedroom ||:  21 : 30  --  22 : 00 
+ || Father switched off Conditioner in Bedroom ||:  21 : 30  --  22 : 00 
+ || Grandmother 1 used Router in LivingRoom ||:  21 : 30  --  22 : 00 
+ || Grandmother 1 switched off Router in LivingRoom ||:  21 : 30  --  22 : 00 
+ || Grandmother 1 switched on Conditioner in LivingRoom ||:  21 : 30  --  22 : 00 
+ || Grandmother 1 crashed Conditioner in LivingRoom ||:  21 : 30  --  22 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  21 : 30  --  22 : 00 
+ || Grandmother 1 switched on Conditioner in LivingRoom ||:  21 : 30  --  22 : 00 
+ || Grandmother 2 crashed BlindWindow in Bedroom ||:  21 : 30  --  22 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  21 : 30  --  22 : 00 
+ || Grandmother 2 switched on BlindWindow in Bedroom ||:  21 : 30  --  22 : 00 
+ || Younger sister crashed WashingMachine in Bathroom ||:  21 : 30  --  22 : 00 
+ || Younger sister met Father in Bathroom ||:  21 : 30  --  22 : 00 
+ || Younger sister switched on WashingMachine in Bathroom ||:  21 : 30  --  22 : 00 
+ || Temperature Sensor alarmed in Kitchen ||:  21 : 30  --  22 : 00 
+ || Mother met Father in Kitchen ||:  21 : 30  --  22 : 00 
+ || Smoke Sensor alarmed in LivingRoom ||:  21 : 30  --  22 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  21 : 30  --  22 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  21 : 30  --  22 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  21 : 30  --  22 : 00 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  21 : 30  --  22 : 00 
+ || Older sister met Father in ChildrenBedroom ||:  21 : 30  --  22 : 00 
+ || Mother used BlindWindow in Kitchen ||:  22 : 00  --  22 : 30 
+ || Mother switched off BlindWindow in Kitchen ||:  22 : 00  --  22 : 30 
+ || Older sister met Dog 1 in Bedroom ||:  22 : 00  --  22 : 30 
+ || Grandmother 1 switched on BlindWindow in LivingRoom ||:  22 : 00  --  22 : 30 
+ || Grandmother 1 crashed BlindWindow in LivingRoom ||:  22 : 00  --  22 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  22 : 00  --  22 : 30 
+ || Grandmother 1 switched on BlindWindow in LivingRoom ||:  22 : 00  --  22 : 30 
+ || Smoke Sensor alarmed in Garage ||:  22 : 00  --  22 : 30 
+ || Smoke Sensor alarmed in Kitchen ||:  22 : 00  --  22 : 30 
+ || Mother met Father in Kitchen ||:  22 : 00  --  22 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  22 : 00  --  22 : 30 
+ || Younger sister met Father in Bathroom ||:  22 : 00  --  22 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  22 : 00  --  22 : 30 
+ || Mother met Father in Bathroom ||:  22 : 00  --  22 : 30 
+ || Mother switched on Oven in Kitchen ||:  22 : 30  --  23 : 00 
+ || Mother crashed Oven in Kitchen ||:  22 : 30  --  23 : 00 
+ || Mother met Father in Kitchen ||:  22 : 30  --  23 : 00 
+ || Mother switched on Oven in Kitchen ||:  22 : 30  --  23 : 00 
+ || Younger sister met Older sister in Bathroom ||:  22 : 30  --  23 : 00 
+ || Grandmother 1 switched on Aquarium in LivingRoom ||:  22 : 30  --  23 : 00 
+ || Grandmother 1 crashed Aquarium in LivingRoom ||:  22 : 30  --  23 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  22 : 30  --  23 : 00 
+ || Grandmother 1 switched on Aquarium in LivingRoom ||:  22 : 30  --  23 : 00 
+ || Grandmother 2 used TV in Bedroom ||:  22 : 30  --  23 : 00 
+ || Grandmother 2 switched off TV in Bedroom ||:  22 : 30  --  23 : 00 
+ || Younger sister used WashingMachine in Bathroom ||:  22 : 30  --  23 : 00 
+ || Younger sister switched off WashingMachine in Bathroom ||:  22 : 30  --  23 : 00 
+ || Smoke Sensor alarmed in Kitchen ||:  22 : 30  --  23 : 00 
+ || Mother met Father in Kitchen ||:  22 : 30  --  23 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  22 : 30  --  23 : 00 
+ || Father met Dog 1 in Bedroom ||:  22 : 30  --  23 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  22 : 30  --  23 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  22 : 30  --  23 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  22 : 30  --  23 : 00 
+ || Mother met Father in Bathroom ||:  22 : 30  --  23 : 00 
+ || Mother crashed Oven in Kitchen ||:  23 : 00  --  23 : 30 
+ || Mother met Father in Kitchen ||:  23 : 00  --  23 : 30 
+ || Mother switched on Oven in Kitchen ||:  23 : 00  --  23 : 30 
+ || Younger sister switched on WashingMachine in Bathroom ||:  23 : 00  --  23 : 30 
+ || Younger sister crashed WashingMachine in Bathroom ||:  23 : 00  --  23 : 30 
+ || Younger sister met Father in Bathroom ||:  23 : 00  --  23 : 30 
+ || Younger sister switched on WashingMachine in Bathroom ||:  23 : 00  --  23 : 30 
+ || Father crashed Laptop in Bedroom ||:  23 : 00  --  23 : 30 
+ || Father met Dog 1 in Bedroom ||:  23 : 00  --  23 : 30 
+ || Father switched on Laptop in Bedroom ||:  23 : 00  --  23 : 30 
+ || Younger sister played with Dog 1 in Bathroom ||:  23 : 00  --  23 : 30 
+ || Younger sister used Dryer in Bathroom ||:  23 : 00  --  23 : 30 
+ || Younger sister switched off Dryer in Bathroom ||:  23 : 00  --  23 : 30 
+ || Younger sister played with Cat 2 in Bathroom ||:  23 : 00  --  23 : 30 
+ || Younger sister used WashingMachine in Bathroom ||:  23 : 00  --  23 : 30 
+ || Younger sister switched off WashingMachine in Bathroom ||:  23 : 00  --  23 : 30 
+ || Smoke Sensor alarmed in Kitchen ||:  23 : 00  --  23 : 30 
+ || Mother met Father in Kitchen ||:  23 : 00  --  23 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  23 : 00  --  23 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  23 : 00  --  23 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  23 : 00  --  23 : 30 
+ || Mother met Father in Bathroom ||:  23 : 00  --  23 : 30 
+ || Mother switched on BlindWindow in Kitchen ||:  23 : 30  --  24 : 00 
+ || Mother used BlindWindow in Kitchen ||:  23 : 30  --  24 : 00 
+ || Mother switched off BlindWindow in Kitchen ||:  23 : 30  --  24 : 00 
+ || Older sister crashed BlindWindow in ChildrenBedroom ||:  23 : 30  --  24 : 00 
+ || Older sister met Father in ChildrenBedroom ||:  23 : 30  --  24 : 00 
+ || Older sister switched on BlindWindow in ChildrenBedroom ||:  23 : 30  --  24 : 00 
+ || Father switched on TV in Bedroom ||:  23 : 30  --  24 : 00 
+ || Father used TV in Bedroom ||:  23 : 30  --  24 : 00 
+ || Father switched off TV in Bedroom ||:  23 : 30  --  24 : 00 
+ || Father met Dog 1 in Garage ||:  23 : 30  --  24 : 00 
+ || Younger sister switched on Dryer in Bathroom ||:  23 : 30  --  24 : 00 
+ || Younger sister used Dryer in Bathroom ||:  23 : 30  --  24 : 00 
+ || Younger sister switched off Dryer in Bathroom ||:  23 : 30  --  24 : 00 
+ || Younger sister used Hairdryer in Bathroom ||:  23 : 30  --  24 : 00 
+ || Younger sister switched off Hairdryer in Bathroom ||:  23 : 30  --  24 : 00 
+ || Smoke Sensor alarmed in Garage ||:  23 : 30  --  24 : 00 
+ || Smoke Sensor alarmed in Kitchen ||:  23 : 30  --  24 : 00 
+ || Mother met Father in Kitchen ||:  23 : 30  --  24 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  23 : 30  --  24 : 00 
+ || Father met Dog 1 in Bedroom ||:  23 : 30  --  24 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  23 : 30  --  24 : 00 
+ || Younger sister met Father in Bathroom ||:  23 : 30  --  24 : 00 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  23 : 30  --  24 : 00 
+ || Older sister met Father in ChildrenBedroom ||:  23 : 30  --  24 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  23 : 30  --  24 : 00 
+ || Mother met Father in Bathroom ||:  23 : 30  --  24 : 00 
+ || Mother met Grandmother 1 in Kitchen ||:  00 : 00  --  00 : 30 
+ || Mother used Oven in Kitchen ||:  00 : 00  --  00 : 30 
+ || Mother switched off Oven in Kitchen ||:  00 : 00  --  00 : 30 
+ || Mother crashed CoffeeMachine in Kitchen ||:  00 : 00  --  00 : 30 
+ || Mother met Father in Kitchen ||:  00 : 00  --  00 : 30 
+ || Mother switched on CoffeeMachine in Kitchen ||:  00 : 00  --  00 : 30 
+ || Grandmother 1 met Older sister in LivingRoom ||:  00 : 00  --  00 : 30 
+ || Older sister met Younger sister in ChildrenBedroom ||:  00 : 00  --  00 : 30 
+ || Older sister switched on Conditioner in ChildrenBedroom ||:  00 : 00  --  00 : 30 
+ || Older sister crashed Conditioner in ChildrenBedroom ||:  00 : 00  --  00 : 30 
+ || Older sister met Father in ChildrenBedroom ||:  00 : 00  --  00 : 30 
+ || Older sister switched on Conditioner in ChildrenBedroom ||:  00 : 00  --  00 : 30 
+ || Grandmother 2 played with Dog 1 in Bedroom ||:  00 : 00  --  00 : 30 
+ || Grandmother 2 switched on Laptop in Bedroom ||:  00 : 00  --  00 : 30 
+ || Grandmother 2 used Laptop in Bedroom ||:  00 : 00  --  00 : 30 
+ || Grandmother 2 switched off Laptop in Bedroom ||:  00 : 00  --  00 : 30 
+ || Younger sister switched on Hairdryer in Bathroom ||:  00 : 00  --  00 : 30 
+ || Younger sister used Hairdryer in Bathroom ||:  00 : 00  --  00 : 30 
+ || Younger sister switched off Hairdryer in Bathroom ||:  00 : 00  --  00 : 30 
+ || Younger sister switched on Dryer in Bathroom ||:  00 : 00  --  00 : 30 
+ || Younger sister crashed Dryer in Bathroom ||:  00 : 00  --  00 : 30 
+ || Younger sister met Father in Bathroom ||:  00 : 00  --  00 : 30 
+ || Younger sister switched on Dryer in Bathroom ||:  00 : 00  --  00 : 30 
+ || Smoke Sensor alarmed in LivingRoom ||:  00 : 00  --  00 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  00 : 00  --  00 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  00 : 00  --  00 : 30 
+ || Younger sister met Father in Bathroom ||:  00 : 00  --  00 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  00 : 00  --  00 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  00 : 00  --  00 : 30 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  00 : 00  --  00 : 30 
+ || Older sister met Father in ChildrenBedroom ||:  00 : 00  --  00 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  00 : 00  --  00 : 30 
+ || Mother met Father in Bathroom ||:  00 : 00  --  00 : 30 
+ || Mother switched on Fridge in Kitchen ||:  00 : 30  --  01 : 00 
+ || Mother used Fridge in Kitchen ||:  00 : 30  --  01 : 00 
+ || Mother switched off Fridge in Kitchen ||:  00 : 30  --  01 : 00 
+ || Mother switched on WashingMachine in Bathroom ||:  00 : 30  --  01 : 00 
+ || Mother crashed WashingMachine in Bathroom ||:  00 : 30  --  01 : 00 
+ || Mother switched on WashingMachine in Bathroom ||:  00 : 30  --  01 : 00 
+ || Grandmother 2 met Younger sister in Bedroom ||:  00 : 30  --  01 : 00 
+ || Younger sister switched on WashingMachine in Bathroom ||:  00 : 30  --  01 : 00 
+ || Younger sister used WashingMachine in Bathroom ||:  00 : 30  --  01 : 00 
+ || Younger sister switched off WashingMachine in Bathroom ||:  00 : 30  --  01 : 00 
+ || Smoke Sensor alarmed in Garage ||:  00 : 30  --  01 : 00 
+ || Smoke Sensor alarmed in Kitchen ||:  00 : 30  --  01 : 00 
+ || Mother met Father in Kitchen ||:  00 : 30  --  01 : 00 
+ || Temperature Sensor alarmed in Kitchen ||:  00 : 30  --  01 : 00 
+ || Smoke Sensor alarmed in LivingRoom ||:  00 : 30  --  01 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  00 : 30  --  01 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  00 : 30  --  01 : 00 
+ || Younger sister met Father in Bathroom ||:  00 : 30  --  01 : 00 
+ || Mother switched on Fridge in Kitchen ||:  01 : 00  --  01 : 30 
+ || Mother crashed Fridge in Kitchen ||:  01 : 00  --  01 : 30 
+ || Mother met Father in Kitchen ||:  01 : 00  --  01 : 30 
+ || Mother switched on Fridge in Kitchen ||:  01 : 00  --  01 : 30 
+ || Mother switched on Dishwasher in Kitchen ||:  01 : 00  --  01 : 30 
+ || Mother crashed Dishwasher in Kitchen ||:  01 : 00  --  01 : 30 
+ || Mother switched on Dishwasher in Kitchen ||:  01 : 00  --  01 : 30 
+ || Older sister used BlindWindow in ChildrenBedroom ||:  01 : 00  --  01 : 30 
+ || Older sister switched off BlindWindow in ChildrenBedroom ||:  01 : 00  --  01 : 30 
+ || Grandmother 2 switched on TV in Bedroom ||:  01 : 00  --  01 : 30 
+ || Grandmother 2 crashed TV in Bedroom ||:  01 : 00  --  01 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  01 : 00  --  01 : 30 
+ || Grandmother 2 switched on TV in Bedroom ||:  01 : 00  --  01 : 30 
+ || Smoke Sensor alarmed in Garage ||:  01 : 00  --  01 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  01 : 00  --  01 : 30 
+ || Father met Dog 1 in Bedroom ||:  01 : 00  --  01 : 30 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  01 : 00  --  01 : 30 
+ || Older sister met Father in ChildrenBedroom ||:  01 : 00  --  01 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  01 : 00  --  01 : 30 
+ || Mother met Father in Bathroom ||:  01 : 00  --  01 : 30 
+ || Mother used CoffeeMachine in Kitchen ||:  01 : 30  --  02 : 00 
+ || Mother switched off CoffeeMachine in Kitchen ||:  01 : 30  --  02 : 00 
+ || Mother switched on Feeder in Kitchen ||:  01 : 30  --  02 : 00 
+ || Mother used Feeder in Kitchen ||:  01 : 30  --  02 : 00 
+ || Mother switched off Feeder in Kitchen ||:  01 : 30  --  02 : 00 
+ || Father met Older sister in Garage ||:  01 : 30  --  02 : 00 
+ || Grandmother 2 crashed Conditioner in Bedroom ||:  01 : 30  --  02 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  01 : 30  --  02 : 00 
+ || Grandmother 2 switched on Conditioner in Bedroom ||:  01 : 30  --  02 : 00 
+ || Grandmother 1 switched on PlayStation in LivingRoom ||:  01 : 30  --  02 : 00 
+ || Grandmother 1 crashed PlayStation in LivingRoom ||:  01 : 30  --  02 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  01 : 30  --  02 : 00 
+ || Grandmother 1 switched on PlayStation in LivingRoom ||:  01 : 30  --  02 : 00 
+ || Grandmother 2 used TV in Bedroom ||:  01 : 30  --  02 : 00 
+ || Grandmother 2 switched off TV in Bedroom ||:  01 : 30  --  02 : 00 
+ || Father met Dog 2 in Garage ||:  01 : 30  --  02 : 00 
+ || Smoke Sensor alarmed in Garage ||:  01 : 30  --  02 : 00 
+ || Smoke Sensor alarmed in Kitchen ||:  01 : 30  --  02 : 00 
+ || Mother met Father in Kitchen ||:  01 : 30  --  02 : 00 
+ || Temperature Sensor alarmed in Kitchen ||:  01 : 30  --  02 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  01 : 30  --  02 : 00 
+ || Younger sister met Father in Bathroom ||:  01 : 30  --  02 : 00 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  01 : 30  --  02 : 00 
+ || Older sister met Father in ChildrenBedroom ||:  01 : 30  --  02 : 00 
+ || Mother switched on CoffeeMachine in Kitchen ||:  02 : 00  --  02 : 30 
+ || Mother crashed CoffeeMachine in Kitchen ||:  02 : 00  --  02 : 30 
+ || Mother met Father in Kitchen ||:  02 : 00  --  02 : 30 
+ || Mother switched on CoffeeMachine in Kitchen ||:  02 : 00  --  02 : 30 
+ || Mother crashed Toaster in Kitchen ||:  02 : 00  --  02 : 30 
+ || Mother switched on Toaster in Kitchen ||:  02 : 00  --  02 : 30 
+ || Mother switched on Oven in Kitchen ||:  02 : 00  --  02 : 30 
+ || Mother used Oven in Kitchen ||:  02 : 00  --  02 : 30 
+ || Mother switched off Oven in Kitchen ||:  02 : 00  --  02 : 30 
+ || Father did something with Auto in Garage ||:  02 : 00  --  02 : 30 
+ || Father used Auto in Garage ||:  02 : 00  --  02 : 30 
+ || Father leave Auto in Garage ||:  02 : 00  --  02 : 30 
+ || Grandmother 2 crashed Conditioner in Bedroom ||:  02 : 00  --  02 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  02 : 00  --  02 : 30 
+ || Grandmother 2 switched on Conditioner in Bedroom ||:  02 : 00  --  02 : 30 
+ || Grandmother 2 crashed Conditioner in Bedroom ||:  02 : 00  --  02 : 30 
+ || Grandmother 2 switched on Conditioner in Bedroom ||:  02 : 00  --  02 : 30 
+ || Father switched on TV in Bedroom ||:  02 : 00  --  02 : 30 
+ || Father used TV in Bedroom ||:  02 : 00  --  02 : 30 
+ || Father switched off TV in Bedroom ||:  02 : 00  --  02 : 30 
+ || Father did something with Auto in Garage ||:  02 : 00  --  02 : 30 
+ || Father crashed Auto in Garage ||:  02 : 00  --  02 : 30 
+ || Father did something with Auto in Garage ||:  02 : 00  --  02 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  02 : 00  --  02 : 30 
+ || Father met Dog 1 in Bedroom ||:  02 : 00  --  02 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  02 : 00  --  02 : 30 
+ || Younger sister met Father in Bathroom ||:  02 : 00  --  02 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  02 : 00  --  02 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  02 : 00  --  02 : 30 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  02 : 00  --  02 : 30 
+ || Older sister met Father in ChildrenBedroom ||:  02 : 00  --  02 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  02 : 00  --  02 : 30 
+ || Mother met Father in Bathroom ||:  02 : 00  --  02 : 30 
+ || Mother used Fridge in Kitchen ||:  02 : 30  --  03 : 00 
+ || Mother switched off Fridge in Kitchen ||:  02 : 30  --  03 : 00 
+ || Mother switched on Dryer in Bathroom ||:  02 : 30  --  03 : 00 
+ || Mother crashed Dryer in Bathroom ||:  02 : 30  --  03 : 00 
+ || Mother switched on Dryer in Bathroom ||:  02 : 30  --  03 : 00 
+ || Mother used Dishwasher in Kitchen ||:  02 : 30  --  03 : 00 
+ || Mother switched off Dishwasher in Kitchen ||:  02 : 30  --  03 : 00 
+ || Father switched on TV in Bedroom ||:  02 : 30  --  03 : 00 
+ || Father used TV in Bedroom ||:  02 : 30  --  03 : 00 
+ || Father switched off TV in Bedroom ||:  02 : 30  --  03 : 00 
+ || Smoke Sensor alarmed in Kitchen ||:  02 : 30  --  03 : 00 
+ || Mother met Father in Kitchen ||:  02 : 30  --  03 : 00 
+ || Temperature Sensor alarmed in Kitchen ||:  02 : 30  --  03 : 00 
+ || Smoke Sensor alarmed in LivingRoom ||:  02 : 30  --  03 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  02 : 30  --  03 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  02 : 30  --  03 : 00 
+ || Younger sister met Father in Bathroom ||:  02 : 30  --  03 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  02 : 30  --  03 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  02 : 30  --  03 : 00 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  02 : 30  --  03 : 00 
+ || Older sister met Father in ChildrenBedroom ||:  02 : 30  --  03 : 00 
+ || Father met Dog 1 in Bedroom ||:  03 : 00  --  03 : 30 
+ || Grandmother 1 played with Dog 1 in Bedroom ||:  03 : 00  --  03 : 30 
+ || Father used Auto in Garage ||:  03 : 00  --  03 : 30 
+ || Father leave Auto in Garage ||:  03 : 00  --  03 : 30 
+ || Grandmother 1 used Conditioner in LivingRoom ||:  03 : 00  --  03 : 30 
+ || Grandmother 1 switched off Conditioner in LivingRoom ||:  03 : 00  --  03 : 30 
+ || Grandmother 2 switched on Laptop in Bedroom ||:  03 : 00  --  03 : 30 
+ || Grandmother 2 used Laptop in Bedroom ||:  03 : 00  --  03 : 30 
+ || Grandmother 2 switched off Laptop in Bedroom ||:  03 : 00  --  03 : 30 
+ || Grandmother 1 played with Cat 2 in LivingRoom ||:  03 : 00  --  03 : 30 
+ || Smoke Sensor alarmed in Garage ||:  03 : 00  --  03 : 30 
+ || Smoke Sensor alarmed in Kitchen ||:  03 : 00  --  03 : 30 
+ || Mother met Father in Kitchen ||:  03 : 00  --  03 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  03 : 00  --  03 : 30 
+ || Father met Dog 1 in Bedroom ||:  03 : 00  --  03 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  03 : 00  --  03 : 30 
+ || Younger sister met Father in Bathroom ||:  03 : 00  --  03 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  03 : 00  --  03 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  03 : 00  --  03 : 30 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  03 : 00  --  03 : 30 
+ || Older sister met Father in ChildrenBedroom ||:  03 : 00  --  03 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  03 : 00  --  03 : 30 
+ || Mother met Father in Bathroom ||:  03 : 00  --  03 : 30 
+ || Mother crashed Toaster in Kitchen ||:  03 : 30  --  04 : 00 
+ || Mother met Father in Kitchen ||:  03 : 30  --  04 : 00 
+ || Mother switched on Toaster in Kitchen ||:  03 : 30  --  04 : 00 
+ || Mother crashed CoffeeMachine in Kitchen ||:  03 : 30  --  04 : 00 
+ || Mother switched on CoffeeMachine in Kitchen ||:  03 : 30  --  04 : 00 
+ || Father crashed Laptop in Bedroom ||:  03 : 30  --  04 : 00 
+ || Father met Dog 1 in Bedroom ||:  03 : 30  --  04 : 00 
+ || Father switched on Laptop in Bedroom ||:  03 : 30  --  04 : 00 
+ || Grandmother 2 played with Dog 1 in Bedroom ||:  03 : 30  --  04 : 00 
+ || Father used Laptop in Bedroom ||:  03 : 30  --  04 : 00 
+ || Father switched off Laptop in Bedroom ||:  03 : 30  --  04 : 00 
+ || Younger sister met Older sister in Bathroom ||:  03 : 30  --  04 : 00 
+ || Grandmother 1 switched on Conditioner in LivingRoom ||:  03 : 30  --  04 : 00 
+ || Grandmother 1 crashed Conditioner in LivingRoom ||:  03 : 30  --  04 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  03 : 30  --  04 : 00 
+ || Grandmother 1 switched on Conditioner in LivingRoom ||:  03 : 30  --  04 : 00 
+ || Father switched on Laptop in Bedroom ||:  03 : 30  --  04 : 00 
+ || Father crashed Laptop in Bedroom ||:  03 : 30  --  04 : 00 
+ || Father met Dog 1 in Bedroom ||:  03 : 30  --  04 : 00 
+ || Father switched on Laptop in Bedroom ||:  03 : 30  --  04 : 00 
+ || Younger sister played with Cat 2 in Bathroom ||:  03 : 30  --  04 : 00 
+ || Younger sister switched on Hairdryer in Bathroom ||:  03 : 30  --  04 : 00 
+ || Younger sister crashed Hairdryer in Bathroom ||:  03 : 30  --  04 : 00 
+ || Younger sister met Father in Bathroom ||:  03 : 30  --  04 : 00 
+ || Younger sister switched on Hairdryer in Bathroom ||:  03 : 30  --  04 : 00 
+ || Grandmother 1 played with Dog 2 in LivingRoom ||:  03 : 30  --  04 : 00 
+ || Grandmother 1 crashed BlindWindow in LivingRoom ||:  03 : 30  --  04 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  03 : 30  --  04 : 00 
+ || Grandmother 1 switched on BlindWindow in LivingRoom ||:  03 : 30  --  04 : 00 
+ || Smoke Sensor alarmed in Garage ||:  03 : 30  --  04 : 00 
+ || Temperature Sensor alarmed in Kitchen ||:  03 : 30  --  04 : 00 
+ || Mother met Father in Kitchen ||:  03 : 30  --  04 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  03 : 30  --  04 : 00 
+ || Younger sister met Father in Bathroom ||:  03 : 30  --  04 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  03 : 30  --  04 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  03 : 30  --  04 : 00 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  03 : 30  --  04 : 00 
+ || Older sister met Father in ChildrenBedroom ||:  03 : 30  --  04 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  03 : 30  --  04 : 00 
+ || Mother met Father in Bathroom ||:  03 : 30  --  04 : 00 
+ || Mother switched on Fridge in Kitchen ||:  04 : 00  --  04 : 30 
+ || Mother used Fridge in Kitchen ||:  04 : 00  --  04 : 30 
+ || Mother switched off Fridge in Kitchen ||:  04 : 00  --  04 : 30 
+ || Younger sister met Father in Bathroom ||:  04 : 00  --  04 : 30 
+ || Younger sister crashed Hairdryer in Bathroom ||:  04 : 00  --  04 : 30 
+ || Younger sister switched on Hairdryer in Bathroom ||:  04 : 00  --  04 : 30 
+ || Younger sister switched on WashingMachine in Bathroom ||:  04 : 00  --  04 : 30 
+ || Younger sister used WashingMachine in Bathroom ||:  04 : 00  --  04 : 30 
+ || Younger sister switched off WashingMachine in Bathroom ||:  04 : 00  --  04 : 30 
+ || Father switched on TV in Bedroom ||:  04 : 00  --  04 : 30 
+ || Father crashed TV in Bedroom ||:  04 : 00  --  04 : 30 
+ || Father met Dog 1 in Bedroom ||:  04 : 00  --  04 : 30 
+ || Father switched on TV in Bedroom ||:  04 : 00  --  04 : 30 
+ || Grandmother 2 played with Cat 2 in Bedroom ||:  04 : 00  --  04 : 30 
+ || Grandmother 1 used TV in LivingRoom ||:  04 : 00  --  04 : 30 
+ || Grandmother 1 switched off TV in LivingRoom ||:  04 : 00  --  04 : 30 
+ || Smoke Sensor alarmed in Garage ||:  04 : 00  --  04 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  04 : 00  --  04 : 30 
+ || Father met Dog 1 in Bedroom ||:  04 : 00  --  04 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  04 : 00  --  04 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  04 : 00  --  04 : 30 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  04 : 00  --  04 : 30 
+ || Older sister met Father in ChildrenBedroom ||:  04 : 00  --  04 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  04 : 00  --  04 : 30 
+ || Mother met Father in Bathroom ||:  04 : 00  --  04 : 30 
+ || Mother crashed Dryer in Bathroom ||:  04 : 30  --  05 : 00 
+ || Mother switched on Dryer in Bathroom ||:  04 : 30  --  05 : 00 
+ || Mother crashed WashingMachine in Bathroom ||:  04 : 30  --  05 : 00 
+ || Mother switched on WashingMachine in Bathroom ||:  04 : 30  --  05 : 00 
+ || Father switched on Conditioner in Bedroom ||:  04 : 30  --  05 : 00 
+ || Father crashed Conditioner in Bedroom ||:  04 : 30  --  05 : 00 
+ || Father met Dog 1 in Bedroom ||:  04 : 30  --  05 : 00 
+ || Father switched on Conditioner in Bedroom ||:  04 : 30  --  05 : 00 
+ || Younger sister switched on WashingMachine in Bathroom ||:  04 : 30  --  05 : 00 
+ || Younger sister crashed WashingMachine in Bathroom ||:  04 : 30  --  05 : 00 
+ || Younger sister met Father in Bathroom ||:  04 : 30  --  05 : 00 
+ || Younger sister switched on WashingMachine in Bathroom ||:  04 : 30  --  05 : 00 
+ || Grandmother 1 used Aquarium in LivingRoom ||:  04 : 30  --  05 : 00 
+ || Grandmother 1 switched off Aquarium in LivingRoom ||:  04 : 30  --  05 : 00 
+ || Father crashed BlindWindow in Bedroom ||:  04 : 30  --  05 : 00 
+ || Father met Dog 1 in Bedroom ||:  04 : 30  --  05 : 00 
+ || Father switched on BlindWindow in Bedroom ||:  04 : 30  --  05 : 00 
+ || Grandmother 1 used Conditioner in LivingRoom ||:  04 : 30  --  05 : 00 
+ || Grandmother 1 switched off Conditioner in LivingRoom ||:  04 : 30  --  05 : 00 
+ || Smoke Sensor alarmed in Kitchen ||:  04 : 30  --  05 : 00 
+ || Mother met Father in Kitchen ||:  04 : 30  --  05 : 00 
+ || Temperature Sensor alarmed in Kitchen ||:  04 : 30  --  05 : 00 
+ || Smoke Sensor alarmed in LivingRoom ||:  04 : 30  --  05 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  04 : 30  --  05 : 00 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  04 : 30  --  05 : 00 
+ || Older sister met Father in ChildrenBedroom ||:  04 : 30  --  05 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  04 : 30  --  05 : 00 
+ || Mother met Father in Bathroom ||:  04 : 30  --  05 : 00 
+ || Mother crashed WashingMachine in Bathroom ||:  05 : 00  --  05 : 30 
+ || Mother switched on WashingMachine in Bathroom ||:  05 : 00  --  05 : 30 
+ || Younger sister met Grandmother 1 in Bathroom ||:  05 : 00  --  05 : 30 
+ || Father crashed Laptop in Bedroom ||:  05 : 00  --  05 : 30 
+ || Father met Dog 1 in Bedroom ||:  05 : 00  --  05 : 30 
+ || Father switched on Laptop in Bedroom ||:  05 : 00  --  05 : 30 
+ || Mother met Younger sister in Bathroom ||:  05 : 00  --  05 : 30 
+ || Grandmother 1 crashed PlayStation in LivingRoom ||:  05 : 00  --  05 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  05 : 00  --  05 : 30 
+ || Grandmother 1 switched on PlayStation in LivingRoom ||:  05 : 00  --  05 : 30 
+ || Father used TV in Bedroom ||:  05 : 00  --  05 : 30 
+ || Father switched off TV in Bedroom ||:  05 : 00  --  05 : 30 
+ || Younger sister played with Cat 2 in Bathroom ||:  05 : 00  --  05 : 30 
+ || Younger sister crashed WashingMachine in Bathroom ||:  05 : 00  --  05 : 30 
+ || Younger sister met Father in Bathroom ||:  05 : 00  --  05 : 30 
+ || Younger sister switched on WashingMachine in Bathroom ||:  05 : 00  --  05 : 30 
+ || Younger sister played with Dog 2 in Bathroom ||:  05 : 00  --  05 : 30 
+ || Younger sister used Hairdryer in Bathroom ||:  05 : 00  --  05 : 30 
+ || Younger sister switched off Hairdryer in Bathroom ||:  05 : 00  --  05 : 30 
+ || Smoke Sensor alarmed in Kitchen ||:  05 : 00  --  05 : 30 
+ || Mother met Father in Kitchen ||:  05 : 00  --  05 : 30 
+ || Temperature Sensor alarmed in Kitchen ||:  05 : 00  --  05 : 30 
+ || Smoke Sensor alarmed in LivingRoom ||:  05 : 00  --  05 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  05 : 00  --  05 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  05 : 00  --  05 : 30 
+ || Father met Dog 1 in Bedroom ||:  05 : 00  --  05 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  05 : 00  --  05 : 30 
+ || Younger sister met Father in Bathroom ||:  05 : 00  --  05 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  05 : 00  --  05 : 30 
+ || Mother met Father in Bathroom ||:  05 : 00  --  05 : 30 
+ || Mother used WashingMachine in Bathroom ||:  05 : 30  --  06 : 00 
+ || Mother switched off WashingMachine in Bathroom ||:  05 : 30  --  06 : 00 
+ || Younger sister crashed Dryer in Bathroom ||:  05 : 30  --  06 : 00 
+ || Younger sister met Father in Bathroom ||:  05 : 30  --  06 : 00 
+ || Younger sister switched on Dryer in Bathroom ||:  05 : 30  --  06 : 00 
+ || Grandmother 2 met Older sister in Bedroom ||:  05 : 30  --  06 : 00 
+ || Grandmother 2 crashed Conditioner in Bedroom ||:  05 : 30  --  06 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  05 : 30  --  06 : 00 
+ || Grandmother 2 switched on Conditioner in Bedroom ||:  05 : 30  --  06 : 00 
+ || Mother crashed Dryer in Bathroom ||:  05 : 30  --  06 : 00 
+ || Mother met Father in Bathroom ||:  05 : 30  --  06 : 00 
+ || Mother switched on Dryer in Bathroom ||:  05 : 30  --  06 : 00 
+ || Younger sister switched on Hairdryer in Bathroom ||:  05 : 30  --  06 : 00 
+ || Younger sister used Hairdryer in Bathroom ||:  05 : 30  --  06 : 00 
+ || Younger sister switched off Hairdryer in Bathroom ||:  05 : 30  --  06 : 00 
+ || Younger sister switched on Hairdryer in Bathroom ||:  05 : 30  --  06 : 00 
+ || Younger sister used Hairdryer in Bathroom ||:  05 : 30  --  06 : 00 
+ || Younger sister switched off Hairdryer in Bathroom ||:  05 : 30  --  06 : 00 
+ || Smoke Sensor alarmed in Kitchen ||:  05 : 30  --  06 : 00 
+ || Mother met Father in Kitchen ||:  05 : 30  --  06 : 00 
+ || Temperature Sensor alarmed in Kitchen ||:  05 : 30  --  06 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  05 : 30  --  06 : 00 
+ || Father met Dog 1 in Bedroom ||:  05 : 30  --  06 : 00 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  05 : 30  --  06 : 00 
+ || Older sister met Father in ChildrenBedroom ||:  05 : 30  --  06 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  05 : 30  --  06 : 00 
+ || Mother met Father in Bathroom ||:  05 : 30  --  06 : 00 
+ || Grandmother 2 crashed Conditioner in Bedroom ||:  06 : 00  --  06 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  06 : 00  --  06 : 30 
+ || Grandmother 2 switched on Conditioner in Bedroom ||:  06 : 00  --  06 : 30 
+ || Younger sister played with Dog 1 in Bathroom ||:  06 : 00  --  06 : 30 
+ || Younger sister used Dryer in Bathroom ||:  06 : 00  --  06 : 30 
+ || Younger sister switched off Dryer in Bathroom ||:  06 : 00  --  06 : 30 
+ || Smoke Sensor alarmed in Garage ||:  06 : 00  --  06 : 30 
+ || Smoke Sensor alarmed in Kitchen ||:  06 : 00  --  06 : 30 
+ || Mother met Father in Kitchen ||:  06 : 00  --  06 : 30 
+ || Temperature Sensor alarmed in Kitchen ||:  06 : 00  --  06 : 30 
+ || Smoke Sensor alarmed in LivingRoom ||:  06 : 00  --  06 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  06 : 00  --  06 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  06 : 00  --  06 : 30 
+ || Younger sister met Father in Bathroom ||:  06 : 00  --  06 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  06 : 00  --  06 : 30 
+ || Mother met Father in Bathroom ||:  06 : 00  --  06 : 30 
+ || Father met Dog 1 in Bedroom ||:  06 : 30  --  07 : 00 
+ || Father crashed Conditioner in Bedroom ||:  06 : 30  --  07 : 00 
+ || Father switched on Conditioner in Bedroom ||:  06 : 30  --  07 : 00 
+ || Father met Older sister in Garage ||:  06 : 30  --  07 : 00 
+ || Mother used Hairdryer in Bathroom ||:  06 : 30  --  07 : 00 
+ || Mother switched off Hairdryer in Bathroom ||:  06 : 30  --  07 : 00 
+ || Younger sister used WashingMachine in Bathroom ||:  06 : 30  --  07 : 00 
+ || Younger sister switched off WashingMachine in Bathroom ||:  06 : 30  --  07 : 00 
+ || Mother met Cat 2 in Bathroom ||:  06 : 30  --  07 : 00 
+ || Smoke Sensor alarmed in Garage ||:  06 : 30  --  07 : 00 
+ || Temperature Sensor alarmed in Kitchen ||:  06 : 30  --  07 : 00 
+ || Mother met Father in Kitchen ||:  06 : 30  --  07 : 00 
+ || Smoke Sensor alarmed in LivingRoom ||:  06 : 30  --  07 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  06 : 30  --  07 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  06 : 30  --  07 : 00 
+ || Father met Dog 1 in Bedroom ||:  06 : 30  --  07 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  06 : 30  --  07 : 00 
+ || Younger sister met Father in Bathroom ||:  06 : 30  --  07 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  06 : 30  --  07 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  06 : 30  --  07 : 00 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  06 : 30  --  07 : 00 
+ || Older sister met Father in ChildrenBedroom ||:  06 : 30  --  07 : 00 
+ || Younger sister switched on Dryer in Bathroom ||:  07 : 00  --  07 : 30 
+ || Younger sister used Dryer in Bathroom ||:  07 : 00  --  07 : 30 
+ || Younger sister switched off Dryer in Bathroom ||:  07 : 00  --  07 : 30 
+ || Grandmother 2 switched on TV in Bedroom ||:  07 : 00  --  07 : 30 
+ || Grandmother 2 crashed TV in Bedroom ||:  07 : 00  --  07 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  07 : 00  --  07 : 30 
+ || Grandmother 2 switched on TV in Bedroom ||:  07 : 00  --  07 : 30 
+ || Father crashed Moto in Garage ||:  07 : 00  --  07 : 30 
+ || Father did something with Moto in Garage ||:  07 : 00  --  07 : 30 
+ || Older sister met Younger sister in ChildrenBedroom ||:  07 : 00  --  07 : 30 
+ || Older sister crashed PC in ChildrenBedroom ||:  07 : 00  --  07 : 30 
+ || Older sister met Father in ChildrenBedroom ||:  07 : 00  --  07 : 30 
+ || Older sister switched on PC in ChildrenBedroom ||:  07 : 00  --  07 : 30 
+ || Younger sister switched on WashingMachine in Bathroom ||:  07 : 00  --  07 : 30 
+ || Younger sister crashed WashingMachine in Bathroom ||:  07 : 00  --  07 : 30 
+ || Younger sister met Father in Bathroom ||:  07 : 00  --  07 : 30 
+ || Younger sister switched on WashingMachine in Bathroom ||:  07 : 00  --  07 : 30 
+ || Younger sister played with Cat 2 in Bathroom ||:  07 : 00  --  07 : 30 
+ || Younger sister switched on Hairdryer in Bathroom ||:  07 : 00  --  07 : 30 
+ || Younger sister used Hairdryer in Bathroom ||:  07 : 00  --  07 : 30 
+ || Younger sister switched off Hairdryer in Bathroom ||:  07 : 00  --  07 : 30 
+ || Father crashed BlindWindow in Bedroom ||:  07 : 00  --  07 : 30 
+ || Father met Dog 1 in Bedroom ||:  07 : 00  --  07 : 30 
+ || Father switched on BlindWindow in Bedroom ||:  07 : 00  --  07 : 30 
+ || Smoke Sensor alarmed in Garage ||:  07 : 00  --  07 : 30 
+ || Temperature Sensor alarmed in Kitchen ||:  07 : 00  --  07 : 30 
+ || Mother met Father in Kitchen ||:  07 : 00  --  07 : 30 
+ || Smoke Sensor alarmed in LivingRoom ||:  07 : 00  --  07 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  07 : 00  --  07 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  07 : 00  --  07 : 30 
+ || Father met Dog 1 in Bedroom ||:  07 : 00  --  07 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  07 : 00  --  07 : 30 
+ || Younger sister met Father in Bathroom ||:  07 : 00  --  07 : 30 
+ || Younger sister switched on Hairdryer in Bathroom ||:  07 : 30  --  08 : 00 
+ || Younger sister used Hairdryer in Bathroom ||:  07 : 30  --  08 : 00 
+ || Younger sister switched off Hairdryer in Bathroom ||:  07 : 30  --  08 : 00 
+ || Father used Moto in Garage ||:  07 : 30  --  08 : 00 
+ || Father leave Moto in Garage ||:  07 : 30  --  08 : 00 
+ || Grandmother 1 used PlayStation in LivingRoom ||:  07 : 30  --  08 : 00 
+ || Grandmother 1 switched off PlayStation in LivingRoom ||:  07 : 30  --  08 : 00 
+ || Older sister met Dog 2 in ChildrenBedroom ||:  07 : 30  --  08 : 00 
+ || Smoke Sensor alarmed in Garage ||:  07 : 30  --  08 : 00 
+ || Smoke Sensor alarmed in Kitchen ||:  07 : 30  --  08 : 00 
+ || Mother met Father in Kitchen ||:  07 : 30  --  08 : 00 
+ || Smoke Sensor alarmed in LivingRoom ||:  07 : 30  --  08 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  07 : 30  --  08 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  07 : 30  --  08 : 00 
+ || Father met Dog 1 in Bedroom ||:  07 : 30  --  08 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  07 : 30  --  08 : 00 
+ || Younger sister met Father in Bathroom ||:  07 : 30  --  08 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  07 : 30  --  08 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  07 : 30  --  08 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  07 : 30  --  08 : 00 
+ || Mother met Father in Bathroom ||:  07 : 30  --  08 : 00 
+ || Mother crashed Dryer in Bathroom ||:  08 : 00  --  08 : 30 
+ || Mother switched on Dryer in Bathroom ||:  08 : 00  --  08 : 30 
+ || Mother crashed Dryer in Bathroom ||:  08 : 00  --  08 : 30 
+ || Mother switched on Dryer in Bathroom ||:  08 : 00  --  08 : 30 
+ || Father crashed Bike in Garage ||:  08 : 00  --  08 : 30 
+ || Father did something with Bike in Garage ||:  08 : 00  --  08 : 30 
+ || Older sister crashed Conditioner in ChildrenBedroom ||:  08 : 00  --  08 : 30 
+ || Older sister met Father in ChildrenBedroom ||:  08 : 00  --  08 : 30 
+ || Older sister switched on Conditioner in ChildrenBedroom ||:  08 : 00  --  08 : 30 
+ || Grandmother 1 switched on TV in LivingRoom ||:  08 : 00  --  08 : 30 
+ || Grandmother 1 crashed TV in LivingRoom ||:  08 : 00  --  08 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  08 : 00  --  08 : 30 
+ || Grandmother 1 switched on TV in LivingRoom ||:  08 : 00  --  08 : 30 
+ || Father crashed BlindWindow in Bedroom ||:  08 : 00  --  08 : 30 
+ || Father met Dog 1 in Bedroom ||:  08 : 00  --  08 : 30 
+ || Father switched on BlindWindow in Bedroom ||:  08 : 00  --  08 : 30 
+ || Smoke Sensor alarmed in Garage ||:  08 : 00  --  08 : 30 
+ || Smoke Sensor alarmed in Kitchen ||:  08 : 00  --  08 : 30 
+ || Mother met Father in Kitchen ||:  08 : 00  --  08 : 30 
+ || Smoke Sensor alarmed in LivingRoom ||:  08 : 00  --  08 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  08 : 00  --  08 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  08 : 00  --  08 : 30 
+ || Younger sister met Father in Bathroom ||:  08 : 00  --  08 : 30 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  08 : 00  --  08 : 30 
+ || Older sister met Father in ChildrenBedroom ||:  08 : 00  --  08 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  08 : 00  --  08 : 30 
+ || Mother met Father in Bathroom ||:  08 : 00  --  08 : 30 
+ || Older sister met Father in ChildrenBedroom ||:  08 : 30  --  09 : 00 
+ || Mother met Grandmother 1 in Kitchen ||:  08 : 30  --  09 : 00 
+ || Mother crashed Toaster in Kitchen ||:  08 : 30  --  09 : 00 
+ || Mother met Father in Kitchen ||:  08 : 30  --  09 : 00 
+ || Mother switched on Toaster in Kitchen ||:  08 : 30  --  09 : 00 
+ || Father did something with Auto in Garage ||:  08 : 30  --  09 : 00 
+ || Father crashed Auto in Garage ||:  08 : 30  --  09 : 00 
+ || Father did something with Auto in Garage ||:  08 : 30  --  09 : 00 
+ || Older sister switched on BlindWindow in ChildrenBedroom ||:  08 : 30  --  09 : 00 
+ || Older sister used BlindWindow in ChildrenBedroom ||:  08 : 30  --  09 : 00 
+ || Older sister switched off BlindWindow in ChildrenBedroom ||:  08 : 30  --  09 : 00 
+ || Grandmother 2 played with Cat 1 in Bedroom ||:  08 : 30  --  09 : 00 
+ || Father switched on TV in Bedroom ||:  08 : 30  --  09 : 00 
+ || Father used TV in Bedroom ||:  08 : 30  --  09 : 00 
+ || Father switched off TV in Bedroom ||:  08 : 30  --  09 : 00 
+ || Older sister switched on BlindWindow in ChildrenBedroom ||:  08 : 30  --  09 : 00 
+ || Older sister used BlindWindow in ChildrenBedroom ||:  08 : 30  --  09 : 00 
+ || Older sister switched off BlindWindow in ChildrenBedroom ||:  08 : 30  --  09 : 00 
+ || Smoke Sensor alarmed in Kitchen ||:  08 : 30  --  09 : 00 
+ || Mother met Father in Kitchen ||:  08 : 30  --  09 : 00 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  08 : 30  --  09 : 00 
+ || Older sister met Father in ChildrenBedroom ||:  08 : 30  --  09 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  08 : 30  --  09 : 00 
+ || Mother met Father in Bathroom ||:  08 : 30  --  09 : 00 
+ || Mother switched on WashingMachine in Bathroom ||:  09 : 00  --  09 : 30 
+ || Mother crashed WashingMachine in Bathroom ||:  09 : 00  --  09 : 30 
+ || Mother switched on WashingMachine in Bathroom ||:  09 : 00  --  09 : 30 
+ || Father crashed Bike in Garage ||:  09 : 00  --  09 : 30 
+ || Father did something with Bike in Garage ||:  09 : 00  --  09 : 30 
+ || Grandmother 2 met Younger sister in Bedroom ||:  09 : 00  --  09 : 30 
+ || Grandmother 2 crashed TV in Bedroom ||:  09 : 00  --  09 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  09 : 00  --  09 : 30 
+ || Grandmother 2 switched on TV in Bedroom ||:  09 : 00  --  09 : 30 
+ || Father met Dog 1 in Garage ||:  09 : 00  --  09 : 30 
+ || Father switched on GarageDoors in Garage ||:  09 : 00  --  09 : 30 
+ || Father used GarageDoors in Garage ||:  09 : 00  --  09 : 30 
+ || Father switched off GarageDoors in Garage ||:  09 : 00  --  09 : 30 
+ || Mother met Cat 2 in Bathroom ||:  09 : 00  --  09 : 30 
+ || Mother crashed WashingMachine in Bathroom ||:  09 : 00  --  09 : 30 
+ || Mother met Father in Bathroom ||:  09 : 00  --  09 : 30 
+ || Mother switched on WashingMachine in Bathroom ||:  09 : 00  --  09 : 30 
+ || Older sister used PC in ChildrenBedroom ||:  09 : 00  --  09 : 30 
+ || Older sister switched off PC in ChildrenBedroom ||:  09 : 00  --  09 : 30 
+ || Smoke Sensor alarmed in Garage ||:  09 : 00  --  09 : 30 
+ || Smoke Sensor alarmed in LivingRoom ||:  09 : 00  --  09 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  09 : 00  --  09 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  09 : 00  --  09 : 30 
+ || Father met Dog 1 in Bedroom ||:  09 : 00  --  09 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  09 : 00  --  09 : 30 
+ || Younger sister met Father in Bathroom ||:  09 : 00  --  09 : 30 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  09 : 00  --  09 : 30 
+ || Older sister met Father in ChildrenBedroom ||:  09 : 00  --  09 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  09 : 00  --  09 : 30 
+ || Mother met Father in Bathroom ||:  09 : 00  --  09 : 30 
+ || Younger sister met Father in Bathroom ||:  09 : 30  --  10 : 00 
+ || Mother switched on Fridge in Kitchen ||:  09 : 30  --  10 : 00 
+ || Mother crashed Fridge in Kitchen ||:  09 : 30  --  10 : 00 
+ || Mother met Father in Kitchen ||:  09 : 30  --  10 : 00 
+ || Mother switched on Fridge in Kitchen ||:  09 : 30  --  10 : 00 
+ || Grandmother 2 crashed BlindWindow in Bedroom ||:  09 : 30  --  10 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  09 : 30  --  10 : 00 
+ || Grandmother 2 switched on BlindWindow in Bedroom ||:  09 : 30  --  10 : 00 
+ || Grandmother 2 used TV in Bedroom ||:  09 : 30  --  10 : 00 
+ || Grandmother 2 switched off TV in Bedroom ||:  09 : 30  --  10 : 00 
+ || Father switched on GarageDoors in Garage ||:  09 : 30  --  10 : 00 
+ || Father used GarageDoors in Garage ||:  09 : 30  --  10 : 00 
+ || Father switched off GarageDoors in Garage ||:  09 : 30  --  10 : 00 
+ || Mother used WashingMachine in Bathroom ||:  09 : 30  --  10 : 00 
+ || Mother switched off WashingMachine in Bathroom ||:  09 : 30  --  10 : 00 
+ || Older sister used Conditioner in ChildrenBedroom ||:  09 : 30  --  10 : 00 
+ || Older sister switched off Conditioner in ChildrenBedroom ||:  09 : 30  --  10 : 00 
+ || Smoke Sensor alarmed in Kitchen ||:  09 : 30  --  10 : 00 
+ || Mother met Father in Kitchen ||:  09 : 30  --  10 : 00 
+ || Temperature Sensor alarmed in Kitchen ||:  09 : 30  --  10 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  09 : 30  --  10 : 00 
+ || Younger sister met Father in Bathroom ||:  09 : 30  --  10 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  09 : 30  --  10 : 00 
+ || Mother met Father in Bathroom ||:  09 : 30  --  10 : 00 
+ || Mother used Dryer in Bathroom ||:  10 : 00  --  10 : 30 
+ || Mother switched off Dryer in Bathroom ||:  10 : 00  --  10 : 30 
+ || Mother used CoffeeMachine in Kitchen ||:  10 : 00  --  10 : 30 
+ || Mother switched off CoffeeMachine in Kitchen ||:  10 : 00  --  10 : 30 
+ || Grandmother 2 switched on TV in Bedroom ||:  10 : 00  --  10 : 30 
+ || Grandmother 2 crashed TV in Bedroom ||:  10 : 00  --  10 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  10 : 00  --  10 : 30 
+ || Grandmother 2 switched on TV in Bedroom ||:  10 : 00  --  10 : 30 
+ || Father switched on GarageDoors in Garage ||:  10 : 00  --  10 : 30 
+ || Father used GarageDoors in Garage ||:  10 : 00  --  10 : 30 
+ || Father switched off GarageDoors in Garage ||:  10 : 00  --  10 : 30 
+ || Older sister switched on PC in ChildrenBedroom ||:  10 : 00  --  10 : 30 
+ || Older sister used PC in ChildrenBedroom ||:  10 : 00  --  10 : 30 
+ || Older sister switched off PC in ChildrenBedroom ||:  10 : 00  --  10 : 30 
+ || Smoke Sensor alarmed in Garage ||:  10 : 00  --  10 : 30 
+ || Temperature Sensor alarmed in Kitchen ||:  10 : 00  --  10 : 30 
+ || Mother met Father in Kitchen ||:  10 : 00  --  10 : 30 
+ || Smoke Sensor alarmed in LivingRoom ||:  10 : 00  --  10 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  10 : 00  --  10 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  10 : 00  --  10 : 30 
+ || Younger sister met Father in Bathroom ||:  10 : 00  --  10 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  10 : 00  --  10 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  10 : 00  --  10 : 30 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  10 : 00  --  10 : 30 
+ || Older sister met Father in ChildrenBedroom ||:  10 : 00  --  10 : 30 
+ || Older sister switched on PC in ChildrenBedroom ||:  10 : 30  --  11 : 00 
+ || Older sister used PC in ChildrenBedroom ||:  10 : 30  --  11 : 00 
+ || Older sister switched off PC in ChildrenBedroom ||:  10 : 30  --  11 : 00 
+ || Mother switched on Oven in Kitchen ||:  10 : 30  --  11 : 00 
+ || Mother crashed Oven in Kitchen ||:  10 : 30  --  11 : 00 
+ || Mother met Father in Kitchen ||:  10 : 30  --  11 : 00 
+ || Mother switched on Oven in Kitchen ||:  10 : 30  --  11 : 00 
+ || Grandmother 2 used TV in Bedroom ||:  10 : 30  --  11 : 00 
+ || Grandmother 2 switched off TV in Bedroom ||:  10 : 30  --  11 : 00 
+ || Grandmother 2 crashed Conditioner in Bedroom ||:  10 : 30  --  11 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  10 : 30  --  11 : 00 
+ || Grandmother 2 switched on Conditioner in Bedroom ||:  10 : 30  --  11 : 00 
+ || Grandmother 2 switched on Laptop in Bedroom ||:  10 : 30  --  11 : 00 
+ || Grandmother 2 crashed Laptop in Bedroom ||:  10 : 30  --  11 : 00 
+ || Grandmother 2 switched on Laptop in Bedroom ||:  10 : 30  --  11 : 00 
+ || Mother switched on Dryer in Bathroom ||:  10 : 30  --  11 : 00 
+ || Mother crashed Dryer in Bathroom ||:  10 : 30  --  11 : 00 
+ || Mother met Father in Bathroom ||:  10 : 30  --  11 : 00 
+ || Mother switched on Dryer in Bathroom ||:  10 : 30  --  11 : 00 
+ || Younger sister played with Dog 2 in Bathroom ||:  10 : 30  --  11 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  10 : 30  --  11 : 00 
+ || Younger sister met Father in Bathroom ||:  10 : 30  --  11 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  10 : 30  --  11 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  10 : 30  --  11 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  10 : 30  --  11 : 00 
+ || Mother met Father in Bathroom ||:  10 : 30  --  11 : 00 
+ || Mother used Dryer in Bathroom ||:  11 : 00  --  11 : 30 
+ || Mother switched off Dryer in Bathroom ||:  11 : 00  --  11 : 30 
+ || Mother switched on Dryer in Bathroom ||:  11 : 00  --  11 : 30 
+ || Mother crashed Dryer in Bathroom ||:  11 : 00  --  11 : 30 
+ || Mother switched on Dryer in Bathroom ||:  11 : 00  --  11 : 30 
+ || Grandmother 2 switched on TV in Bedroom ||:  11 : 00  --  11 : 30 
+ || Grandmother 2 used TV in Bedroom ||:  11 : 00  --  11 : 30 
+ || Grandmother 2 switched off TV in Bedroom ||:  11 : 00  --  11 : 30 
+ || Grandmother 2 crashed Laptop in Bedroom ||:  11 : 00  --  11 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  11 : 00  --  11 : 30 
+ || Grandmother 2 switched on Laptop in Bedroom ||:  11 : 00  --  11 : 30 
+ || Grandmother 2 used BlindWindow in Bedroom ||:  11 : 00  --  11 : 30 
+ || Grandmother 2 switched off BlindWindow in Bedroom ||:  11 : 00  --  11 : 30 
+ || Father used BlindWindow in Bedroom ||:  11 : 00  --  11 : 30 
+ || Father switched off BlindWindow in Bedroom ||:  11 : 00  --  11 : 30 
+ || Younger sister used WashingMachine in Bathroom ||:  11 : 00  --  11 : 30 
+ || Younger sister switched off WashingMachine in Bathroom ||:  11 : 00  --  11 : 30 
+ || Smoke Sensor alarmed in Kitchen ||:  11 : 00  --  11 : 30 
+ || Mother met Father in Kitchen ||:  11 : 00  --  11 : 30 
+ || Smoke Sensor alarmed in LivingRoom ||:  11 : 00  --  11 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  11 : 00  --  11 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  11 : 00  --  11 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  11 : 00  --  11 : 30 
+ || Mother used Dryer in Bathroom ||:  11 : 30  --  12 : 00 
+ || Mother switched off Dryer in Bathroom ||:  11 : 30  --  12 : 00 
+ || Mother used Fridge in Kitchen ||:  11 : 30  --  12 : 00 
+ || Mother switched off Fridge in Kitchen ||:  11 : 30  --  12 : 00 
+ || Father crashed Auto in Garage ||:  11 : 30  --  12 : 00 
+ || Father did something with Auto in Garage ||:  11 : 30  --  12 : 00 
+ || Grandmother 2 switched on TV in Bedroom ||:  11 : 30  --  12 : 00 
+ || Grandmother 2 used TV in Bedroom ||:  11 : 30  --  12 : 00 
+ || Grandmother 2 switched off TV in Bedroom ||:  11 : 30  --  12 : 00 
+ || Grandmother 2 used Conditioner in Bedroom ||:  11 : 30  --  12 : 00 
+ || Grandmother 2 switched off Conditioner in Bedroom ||:  11 : 30  --  12 : 00 
+ || Mother switched on Hairdryer in Bathroom ||:  11 : 30  --  12 : 00 
+ || Mother used Hairdryer in Bathroom ||:  11 : 30  --  12 : 00 
+ || Mother switched off Hairdryer in Bathroom ||:  11 : 30  --  12 : 00 
+ || Smoke Sensor alarmed in Kitchen ||:  11 : 30  --  12 : 00 
+ || Mother met Father in Kitchen ||:  11 : 30  --  12 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  11 : 30  --  12 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  11 : 30  --  12 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  11 : 30  --  12 : 00 
+ || Mother met Father in Bathroom ||:  11 : 30  --  12 : 00 
+ || Father met Dog 1 in Bedroom ||:  12 : 00  --  12 : 30 
+ || Grandmother 2 switched on BlindWindow in Bedroom ||:  12 : 00  --  12 : 30 
+ || Grandmother 2 used BlindWindow in Bedroom ||:  12 : 00  --  12 : 30 
+ || Grandmother 2 switched off BlindWindow in Bedroom ||:  12 : 00  --  12 : 30 
+ || Mother met Older sister in Bathroom ||:  12 : 00  --  12 : 30 
+ || Grandmother 1 played with Dog 1 in LivingRoom ||:  12 : 00  --  12 : 30 
+ || Grandmother 1 switched on Aquarium in LivingRoom ||:  12 : 00  --  12 : 30 
+ || Grandmother 1 used Aquarium in LivingRoom ||:  12 : 00  --  12 : 30 
+ || Grandmother 1 switched off Aquarium in LivingRoom ||:  12 : 00  --  12 : 30 
+ || Mother met Cat 2 in Kitchen ||:  12 : 00  --  12 : 30 
+ || Temperature Sensor alarmed in Kitchen ||:  12 : 00  --  12 : 30 
+ || Mother met Father in Kitchen ||:  12 : 00  --  12 : 30 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  12 : 00  --  12 : 30 
+ || Older sister met Father in ChildrenBedroom ||:  12 : 00  --  12 : 30 
+ || Mother switched on WashingMachine in Bathroom ||:  12 : 30  --  13 : 00 
+ || Mother crashed WashingMachine in Bathroom ||:  12 : 30  --  13 : 00 
+ || Mother met Father in Bathroom ||:  12 : 30  --  13 : 00 
+ || Mother switched on WashingMachine in Bathroom ||:  12 : 30  --  13 : 00 
+ || Mother switched on Dryer in Bathroom ||:  12 : 30  --  13 : 00 
+ || Mother crashed Dryer in Bathroom ||:  12 : 30  --  13 : 00 
+ || Mother switched on Dryer in Bathroom ||:  12 : 30  --  13 : 00 
+ || Grandmother 2 switched on Conditioner in Bedroom ||:  12 : 30  --  13 : 00 
+ || Grandmother 2 used Conditioner in Bedroom ||:  12 : 30  --  13 : 00 
+ || Grandmother 2 switched off Conditioner in Bedroom ||:  12 : 30  --  13 : 00 
+ || Mother crashed WashingMachine in Bathroom ||:  12 : 30  --  13 : 00 
+ || Mother switched on WashingMachine in Bathroom ||:  12 : 30  --  13 : 00 
+ || Smoke Sensor alarmed in Garage ||:  12 : 30  --  13 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  12 : 30  --  13 : 00 
+ || Younger sister met Father in Bathroom ||:  12 : 30  --  13 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  12 : 30  --  13 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  12 : 30  --  13 : 00 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  12 : 30  --  13 : 00 
+ || Older sister met Father in ChildrenBedroom ||:  12 : 30  --  13 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  12 : 30  --  13 : 00 
+ || Mother met Father in Bathroom ||:  12 : 30  --  13 : 00 
+ || Mother switched on Hairdryer in Bathroom ||:  13 : 00  --  13 : 30 
+ || Mother crashed Hairdryer in Bathroom ||:  13 : 00  --  13 : 30 
+ || Mother switched on Hairdryer in Bathroom ||:  13 : 00  --  13 : 30 
+ || Mother crashed Oven in Kitchen ||:  13 : 00  --  13 : 30 
+ || Mother met Father in Kitchen ||:  13 : 00  --  13 : 30 
+ || Mother switched on Oven in Kitchen ||:  13 : 00  --  13 : 30 
+ || Grandmother 2 switched on TV in Bedroom ||:  13 : 00  --  13 : 30 
+ || Grandmother 2 used TV in Bedroom ||:  13 : 00  --  13 : 30 
+ || Grandmother 2 switched off TV in Bedroom ||:  13 : 00  --  13 : 30 
+ || Grandmother 2 switched on BlindWindow in Bedroom ||:  13 : 00  --  13 : 30 
+ || Grandmother 2 crashed BlindWindow in Bedroom ||:  13 : 00  --  13 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  13 : 00  --  13 : 30 
+ || Grandmother 2 switched on BlindWindow in Bedroom ||:  13 : 00  --  13 : 30 
+ || Mother switched on BlindWindow in Kitchen ||:  13 : 00  --  13 : 30 
+ || Mother crashed BlindWindow in Kitchen ||:  13 : 00  --  13 : 30 
+ || Mother met Father in Kitchen ||:  13 : 00  --  13 : 30 
+ || Mother switched on BlindWindow in Kitchen ||:  13 : 00  --  13 : 30 
+ || Younger sister switched on WashingMachine in Bathroom ||:  13 : 00  --  13 : 30 
+ || Younger sister crashed WashingMachine in Bathroom ||:  13 : 00  --  13 : 30 
+ || Younger sister met Father in Bathroom ||:  13 : 00  --  13 : 30 
+ || Younger sister switched on WashingMachine in Bathroom ||:  13 : 00  --  13 : 30 
+ || Smoke Sensor alarmed in Garage ||:  13 : 00  --  13 : 30 
+ || Smoke Sensor alarmed in Kitchen ||:  13 : 00  --  13 : 30 
+ || Mother met Father in Kitchen ||:  13 : 00  --  13 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  13 : 00  --  13 : 30 
+ || Father met Dog 1 in Bedroom ||:  13 : 00  --  13 : 30 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  13 : 00  --  13 : 30 
+ || Older sister met Father in ChildrenBedroom ||:  13 : 00  --  13 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  13 : 00  --  13 : 30 
+ || Mother met Father in Bathroom ||:  13 : 00  --  13 : 30 
+ || Grandmother 1 met Mother in LivingRoom ||:  13 : 30  --  14 : 00 
+ || Mother crashed Dryer in Bathroom ||:  13 : 30  --  14 : 00 
+ || Mother switched on Dryer in Bathroom ||:  13 : 30  --  14 : 00 
+ || Mother met Grandmother 2 in Bathroom ||:  13 : 30  --  14 : 00 
+ || Mother crashed Hairdryer in Bathroom ||:  13 : 30  --  14 : 00 
+ || Mother switched on Hairdryer in Bathroom ||:  13 : 30  --  14 : 00 
+ || Grandmother 2 switched on Conditioner in Bedroom ||:  13 : 30  --  14 : 00 
+ || Grandmother 2 used Conditioner in Bedroom ||:  13 : 30  --  14 : 00 
+ || Grandmother 2 switched off Conditioner in Bedroom ||:  13 : 30  --  14 : 00 
+ || Grandmother 2 used BlindWindow in Bedroom ||:  13 : 30  --  14 : 00 
+ || Grandmother 2 switched off BlindWindow in Bedroom ||:  13 : 30  --  14 : 00 
+ || Grandmother 1 switched on PlayStation in LivingRoom ||:  13 : 30  --  14 : 00 
+ || Grandmother 1 used PlayStation in LivingRoom ||:  13 : 30  --  14 : 00 
+ || Grandmother 1 switched off PlayStation in LivingRoom ||:  13 : 30  --  14 : 00 
+ || Smoke Sensor alarmed in Garage ||:  13 : 30  --  14 : 00 
+ || Smoke Sensor alarmed in Kitchen ||:  13 : 30  --  14 : 00 
+ || Mother met Father in Kitchen ||:  13 : 30  --  14 : 00 
+ || Temperature Sensor alarmed in Kitchen ||:  13 : 30  --  14 : 00 
+ || Smoke Sensor alarmed in LivingRoom ||:  13 : 30  --  14 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  13 : 30  --  14 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  13 : 30  --  14 : 00 
+ || Younger sister met Father in Bathroom ||:  13 : 30  --  14 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  13 : 30  --  14 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  13 : 30  --  14 : 00 
+ || Younger sister met Father in Bathroom ||:  14 : 00  --  14 : 30 
+ || Mother used Hairdryer in Bathroom ||:  14 : 00  --  14 : 30 
+ || Mother switched off Hairdryer in Bathroom ||:  14 : 00  --  14 : 30 
+ || Mother crashed WashingMachine in Bathroom ||:  14 : 00  --  14 : 30 
+ || Mother met Father in Bathroom ||:  14 : 00  --  14 : 30 
+ || Mother switched on WashingMachine in Bathroom ||:  14 : 00  --  14 : 30 
+ || Smoke Sensor alarmed in Kitchen ||:  14 : 00  --  14 : 30 
+ || Mother met Father in Kitchen ||:  14 : 00  --  14 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  14 : 00  --  14 : 30 
+ || Father met Dog 1 in Bedroom ||:  14 : 00  --  14 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  14 : 00  --  14 : 30 
+ || Younger sister met Father in Bathroom ||:  14 : 00  --  14 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  14 : 00  --  14 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  14 : 00  --  14 : 30 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  14 : 00  --  14 : 30 
+ || Older sister met Father in ChildrenBedroom ||:  14 : 00  --  14 : 30 
+ || Mother switched on Hairdryer in Bathroom ||:  14 : 30  --  15 : 00 
+ || Mother crashed Hairdryer in Bathroom ||:  14 : 30  --  15 : 00 
+ || Mother met Father in Bathroom ||:  14 : 30  --  15 : 00 
+ || Mother switched on Hairdryer in Bathroom ||:  14 : 30  --  15 : 00 
+ || Mother crashed Dryer in Bathroom ||:  14 : 30  --  15 : 00 
+ || Mother switched on Dryer in Bathroom ||:  14 : 30  --  15 : 00 
+ || Grandmother 2 played with Dog 1 in Bedroom ||:  14 : 30  --  15 : 00 
+ || Mother used WashingMachine in Bathroom ||:  14 : 30  --  15 : 00 
+ || Mother switched off WashingMachine in Bathroom ||:  14 : 30  --  15 : 00 
+ || Grandmother 2 used Laptop in Bedroom ||:  14 : 30  --  15 : 00 
+ || Grandmother 2 switched off Laptop in Bedroom ||:  14 : 30  --  15 : 00 
+ || Smoke Sensor alarmed in LivingRoom ||:  14 : 30  --  15 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  14 : 30  --  15 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  14 : 30  --  15 : 00 
+ || Father met Dog 1 in Bedroom ||:  14 : 30  --  15 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  14 : 30  --  15 : 00 
+ || Mother met Father in Bathroom ||:  14 : 30  --  15 : 00 
+ || Mother used Oven in Kitchen ||:  15 : 00  --  15 : 30 
+ || Mother switched off Oven in Kitchen ||:  15 : 00  --  15 : 30 
+ || Grandmother 1 met Grandmother 2 in LivingRoom ||:  15 : 00  --  15 : 30 
+ || Mother switched on WashingMachine in Bathroom ||:  15 : 00  --  15 : 30 
+ || Mother used WashingMachine in Bathroom ||:  15 : 00  --  15 : 30 
+ || Mother switched off WashingMachine in Bathroom ||:  15 : 00  --  15 : 30 
+ || Grandmother 2 switched on BlindWindow in Bedroom ||:  15 : 00  --  15 : 30 
+ || Grandmother 2 used BlindWindow in Bedroom ||:  15 : 00  --  15 : 30 
+ || Grandmother 2 switched off BlindWindow in Bedroom ||:  15 : 00  --  15 : 30 
+ || Grandmother 2 switched on TV in Bedroom ||:  15 : 00  --  15 : 30 
+ || Grandmother 2 used TV in Bedroom ||:  15 : 00  --  15 : 30 
+ || Grandmother 2 switched off TV in Bedroom ||:  15 : 00  --  15 : 30 
+ || Younger sister crashed WashingMachine in Bathroom ||:  15 : 00  --  15 : 30 
+ || Younger sister met Father in Bathroom ||:  15 : 00  --  15 : 30 
+ || Younger sister switched on WashingMachine in Bathroom ||:  15 : 00  --  15 : 30 
+ || Smoke Sensor alarmed in Garage ||:  15 : 00  --  15 : 30 
+ || Smoke Sensor alarmed in Kitchen ||:  15 : 00  --  15 : 30 
+ || Mother met Father in Kitchen ||:  15 : 00  --  15 : 30 
+ || Temperature Sensor alarmed in Kitchen ||:  15 : 00  --  15 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  15 : 00  --  15 : 30 
+ || Father met Dog 1 in Bedroom ||:  15 : 00  --  15 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  15 : 00  --  15 : 30 
+ || Younger sister met Father in Bathroom ||:  15 : 00  --  15 : 30 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  15 : 00  --  15 : 30 
+ || Older sister met Father in ChildrenBedroom ||:  15 : 00  --  15 : 30 
+ || Mother crashed BlindWindow in Kitchen ||:  15 : 30  --  16 : 00 
+ || Mother met Father in Kitchen ||:  15 : 30  --  16 : 00 
+ || Mother switched on BlindWindow in Kitchen ||:  15 : 30  --  16 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  15 : 30  --  16 : 00 
+ || Mother crashed Toaster in Kitchen ||:  15 : 30  --  16 : 00 
+ || Mother met Father in Kitchen ||:  15 : 30  --  16 : 00 
+ || Mother switched on Toaster in Kitchen ||:  15 : 30  --  16 : 00 
+ || Grandmother 1 used BlindWindow in LivingRoom ||:  15 : 30  --  16 : 00 
+ || Grandmother 1 switched off BlindWindow in LivingRoom ||:  15 : 30  --  16 : 00 
+ || Younger sister switched on Dryer in Bathroom ||:  15 : 30  --  16 : 00 
+ || Younger sister crashed Dryer in Bathroom ||:  15 : 30  --  16 : 00 
+ || Younger sister met Father in Bathroom ||:  15 : 30  --  16 : 00 
+ || Younger sister switched on Dryer in Bathroom ||:  15 : 30  --  16 : 00 
+ || Father switched on BlindWindow in Bedroom ||:  15 : 30  --  16 : 00 
+ || Father used BlindWindow in Bedroom ||:  15 : 30  --  16 : 00 
+ || Father switched off BlindWindow in Bedroom ||:  15 : 30  --  16 : 00 
+ || Younger sister crashed WashingMachine in Bathroom ||:  15 : 30  --  16 : 00 
+ || Younger sister switched on WashingMachine in Bathroom ||:  15 : 30  --  16 : 00 
+ || Smoke Sensor alarmed in Garage ||:  15 : 30  --  16 : 00 
+ || Smoke Sensor alarmed in LivingRoom ||:  15 : 30  --  16 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  15 : 30  --  16 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  15 : 30  --  16 : 00 
+ || Father met Dog 1 in Bedroom ||:  15 : 30  --  16 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  15 : 30  --  16 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  15 : 30  --  16 : 00 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  15 : 30  --  16 : 00 
+ || Older sister met Father in ChildrenBedroom ||:  15 : 30  --  16 : 00 
+ || Mother crashed Toaster in Kitchen ||:  16 : 00  --  16 : 30 
+ || Mother met Father in Kitchen ||:  16 : 00  --  16 : 30 
+ || Mother switched on Toaster in Kitchen ||:  16 : 00  --  16 : 30 
+ || Mother switched on Oven in Kitchen ||:  16 : 00  --  16 : 30 
+ || Mother crashed Oven in Kitchen ||:  16 : 00  --  16 : 30 
+ || Mother switched on Oven in Kitchen ||:  16 : 00  --  16 : 30 
+ || Younger sister met Grandmother 1 in Bathroom ||:  16 : 00  --  16 : 30 
+ || Older sister met Dog 1 in Bedroom ||:  16 : 00  --  16 : 30 
+ || Grandmother 1 met Younger sister in LivingRoom ||:  16 : 00  --  16 : 30 
+ || Grandmother 1 switched on Router in LivingRoom ||:  16 : 00  --  16 : 30 
+ || Grandmother 1 crashed Router in LivingRoom ||:  16 : 00  --  16 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  16 : 00  --  16 : 30 
+ || Grandmother 1 switched on Router in LivingRoom ||:  16 : 00  --  16 : 30 
+ || Father used Laptop in Bedroom ||:  16 : 00  --  16 : 30 
+ || Father switched off Laptop in Bedroom ||:  16 : 00  --  16 : 30 
+ || Smoke Sensor alarmed in Garage ||:  16 : 00  --  16 : 30 
+ || Smoke Sensor alarmed in Kitchen ||:  16 : 00  --  16 : 30 
+ || Mother met Father in Kitchen ||:  16 : 00  --  16 : 30 
+ || Smoke Sensor alarmed in LivingRoom ||:  16 : 00  --  16 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  16 : 00  --  16 : 30 
+ || Mother met Dog 1 in Bedroom ||:  16 : 30  --  17 : 00 
+ || Grandmother 1 switched on RoboVacuumCleaner in LivingRoom ||:  16 : 30  --  17 : 00 
+ || Grandmother 1 crashed RoboVacuumCleaner in LivingRoom ||:  16 : 30  --  17 : 00 
+ || Grandmother 1 switched on RoboVacuumCleaner in LivingRoom ||:  16 : 30  --  17 : 00 
+ || Grandmother 1 switched on PlayStation in LivingRoom ||:  16 : 30  --  17 : 00 
+ || Grandmother 1 crashed PlayStation in LivingRoom ||:  16 : 30  --  17 : 00 
+ || Grandmother 1 switched on PlayStation in LivingRoom ||:  16 : 30  --  17 : 00 
+ || Grandmother 1 met Older sister in LivingRoom ||:  16 : 30  --  17 : 00 
+ || Grandmother 1 crashed PlayStation in LivingRoom ||:  16 : 30  --  17 : 00 
+ || Grandmother 1 switched on PlayStation in LivingRoom ||:  16 : 30  --  17 : 00 
+ || Mother met Younger sister in Bathroom ||:  16 : 30  --  17 : 00 
+ || Father used Conditioner in Bedroom ||:  16 : 30  --  17 : 00 
+ || Father switched off Conditioner in Bedroom ||:  16 : 30  --  17 : 00 
+ || Father switched on TV in Bedroom ||:  16 : 30  --  17 : 00 
+ || Father crashed TV in Bedroom ||:  16 : 30  --  17 : 00 
+ || Father met Dog 1 in Bedroom ||:  16 : 30  --  17 : 00 
+ || Father switched on TV in Bedroom ||:  16 : 30  --  17 : 00 
+ || Younger sister crashed Dryer in Bathroom ||:  16 : 30  --  17 : 00 
+ || Younger sister met Father in Bathroom ||:  16 : 30  --  17 : 00 
+ || Younger sister switched on Dryer in Bathroom ||:  16 : 30  --  17 : 00 
+ || Smoke Sensor alarmed in Garage ||:  16 : 30  --  17 : 00 
+ || Temperature Sensor alarmed in Kitchen ||:  16 : 30  --  17 : 00 
+ || Mother met Father in Kitchen ||:  16 : 30  --  17 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  16 : 30  --  17 : 00 
+ || Father met Dog 1 in Bedroom ||:  16 : 30  --  17 : 00 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  16 : 30  --  17 : 00 
+ || Older sister met Father in ChildrenBedroom ||:  16 : 30  --  17 : 00 
+ || Father met Dog 1 in Bedroom ||:  17 : 00  --  17 : 30 
+ || Mother met Grandmother 1 in Kitchen ||:  17 : 00  --  17 : 30 
+ || Mother switched on Fridge in Kitchen ||:  17 : 00  --  17 : 30 
+ || Mother crashed Fridge in Kitchen ||:  17 : 00  --  17 : 30 
+ || Mother met Father in Kitchen ||:  17 : 00  --  17 : 30 
+ || Mother switched on Fridge in Kitchen ||:  17 : 00  --  17 : 30 
+ || Younger sister met Grandmother 2 in Bathroom ||:  17 : 00  --  17 : 30 
+ || Younger sister switched on Hairdryer in Bathroom ||:  17 : 00  --  17 : 30 
+ || Younger sister crashed Hairdryer in Bathroom ||:  17 : 00  --  17 : 30 
+ || Younger sister met Father in Bathroom ||:  17 : 00  --  17 : 30 
+ || Younger sister switched on Hairdryer in Bathroom ||:  17 : 00  --  17 : 30 
+ || Mother used Dryer in Bathroom ||:  17 : 00  --  17 : 30 
+ || Mother switched off Dryer in Bathroom ||:  17 : 00  --  17 : 30 
+ || Father switched on Laptop in Bedroom ||:  17 : 00  --  17 : 30 
+ || Father crashed Laptop in Bedroom ||:  17 : 00  --  17 : 30 
+ || Father met Dog 1 in Bedroom ||:  17 : 00  --  17 : 30 
+ || Father switched on Laptop in Bedroom ||:  17 : 00  --  17 : 30 
+ || Smoke Sensor alarmed in Kitchen ||:  17 : 00  --  17 : 30 
+ || Mother met Father in Kitchen ||:  17 : 00  --  17 : 30 
+ || Smoke Sensor alarmed in LivingRoom ||:  17 : 00  --  17 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  17 : 00  --  17 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  17 : 00  --  17 : 30 
+ || Younger sister met Father in Bathroom ||:  17 : 00  --  17 : 30 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  17 : 00  --  17 : 30 
+ || Older sister met Father in ChildrenBedroom ||:  17 : 00  --  17 : 30 
+ || Younger sister played with Dog 1 in Bathroom ||:  17 : 30  --  18 : 00 
+ || Father switched on Conditioner in Bedroom ||:  17 : 30  --  18 : 00 
+ || Father used Conditioner in Bedroom ||:  17 : 30  --  18 : 00 
+ || Father switched off Conditioner in Bedroom ||:  17 : 30  --  18 : 00 
+ || Grandmother 1 played with Dog 2 in LivingRoom ||:  17 : 30  --  18 : 00 
+ || Smoke Sensor alarmed in Garage ||:  17 : 30  --  18 : 00 
+ || Temperature Sensor alarmed in Kitchen ||:  17 : 30  --  18 : 00 
+ || Mother met Father in Kitchen ||:  17 : 30  --  18 : 00 
+ || Smoke Sensor alarmed in LivingRoom ||:  17 : 30  --  18 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  17 : 30  --  18 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  17 : 30  --  18 : 00 
+ || Younger sister met Father in Bathroom ||:  17 : 30  --  18 : 00 
+ || Older sister met Father in ChildrenBedroom ||:  18 : 00  --  18 : 30 
+ || Older sister switched on Conditioner in ChildrenBedroom ||:  18 : 00  --  18 : 30 
+ || Older sister crashed Conditioner in ChildrenBedroom ||:  18 : 00  --  18 : 30 
+ || Older sister switched on Conditioner in ChildrenBedroom ||:  18 : 00  --  18 : 30 
+ || Mother used BlindWindow in Kitchen ||:  18 : 00  --  18 : 30 
+ || Mother switched off BlindWindow in Kitchen ||:  18 : 00  --  18 : 30 
+ || Younger sister crashed Hairdryer in Bathroom ||:  18 : 00  --  18 : 30 
+ || Younger sister met Father in Bathroom ||:  18 : 00  --  18 : 30 
+ || Younger sister switched on Hairdryer in Bathroom ||:  18 : 00  --  18 : 30 
+ || Younger sister met Older sister in Bathroom ||:  18 : 00  --  18 : 30 
+ || Younger sister used WashingMachine in Bathroom ||:  18 : 00  --  18 : 30 
+ || Younger sister switched off WashingMachine in Bathroom ||:  18 : 00  --  18 : 30 
+ || Mother switched on WashingMachine in Bathroom ||:  18 : 00  --  18 : 30 
+ || Mother used WashingMachine in Bathroom ||:  18 : 00  --  18 : 30 
+ || Mother switched off WashingMachine in Bathroom ||:  18 : 00  --  18 : 30 
+ || Father crashed TV in Bedroom ||:  18 : 00  --  18 : 30 
+ || Father met Dog 1 in Bedroom ||:  18 : 00  --  18 : 30 
+ || Father switched on TV in Bedroom ||:  18 : 00  --  18 : 30 
+ || Mother met Dog 1 in Bathroom ||:  18 : 00  --  18 : 30 
+ || Mother switched on Dryer in Bathroom ||:  18 : 00  --  18 : 30 
+ || Mother used Dryer in Bathroom ||:  18 : 00  --  18 : 30 
+ || Mother switched off Dryer in Bathroom ||:  18 : 00  --  18 : 30 
+ || Grandmother 1 crashed PlayStation in LivingRoom ||:  18 : 00  --  18 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  18 : 00  --  18 : 30 
+ || Grandmother 1 switched on PlayStation in LivingRoom ||:  18 : 00  --  18 : 30 
+ || Smoke Sensor alarmed in Garage ||:  18 : 00  --  18 : 30 
+ || Smoke Sensor alarmed in Kitchen ||:  18 : 00  --  18 : 30 
+ || Mother met Father in Kitchen ||:  18 : 00  --  18 : 30 
+ || Temperature Sensor alarmed in Kitchen ||:  18 : 00  --  18 : 30 
+ || Smoke Sensor alarmed in LivingRoom ||:  18 : 00  --  18 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  18 : 00  --  18 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  18 : 00  --  18 : 30 
+ || Father met Dog 1 in Bedroom ||:  18 : 00  --  18 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  18 : 00  --  18 : 30 
+ || Younger sister met Father in Bathroom ||:  18 : 00  --  18 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  18 : 00  --  18 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  18 : 00  --  18 : 30 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  18 : 00  --  18 : 30 
+ || Older sister met Father in ChildrenBedroom ||:  18 : 00  --  18 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  18 : 00  --  18 : 30 
+ || Mother met Father in Bathroom ||:  18 : 00  --  18 : 30 
+ || Mother crashed Hairdryer in Bathroom ||:  18 : 30  --  19 : 00 
+ || Mother switched on Hairdryer in Bathroom ||:  18 : 30  --  19 : 00 
+ || Father crashed Laptop in Bedroom ||:  18 : 30  --  19 : 00 
+ || Father met Dog 1 in Bedroom ||:  18 : 30  --  19 : 00 
+ || Father switched on Laptop in Bedroom ||:  18 : 30  --  19 : 00 
+ || Grandmother 2 played with Dog 1 in Bedroom ||:  18 : 30  --  19 : 00 
+ || Grandmother 2 switched on Laptop in Bedroom ||:  18 : 30  --  19 : 00 
+ || Grandmother 2 crashed Laptop in Bedroom ||:  18 : 30  --  19 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  18 : 30  --  19 : 00 
+ || Grandmother 2 switched on Laptop in Bedroom ||:  18 : 30  --  19 : 00 
+ || Younger sister played with Cat 2 in Bathroom ||:  18 : 30  --  19 : 00 
+ || Younger sister used Dryer in Bathroom ||:  18 : 30  --  19 : 00 
+ || Younger sister switched off Dryer in Bathroom ||:  18 : 30  --  19 : 00 
+ || Grandmother 1 switched on BlindWindow in LivingRoom ||:  18 : 30  --  19 : 00 
+ || Grandmother 1 crashed BlindWindow in LivingRoom ||:  18 : 30  --  19 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  18 : 30  --  19 : 00 
+ || Grandmother 1 switched on BlindWindow in LivingRoom ||:  18 : 30  --  19 : 00 
+ || Smoke Sensor alarmed in Kitchen ||:  18 : 30  --  19 : 00 
+ || Mother met Father in Kitchen ||:  18 : 30  --  19 : 00 
+ || Temperature Sensor alarmed in Kitchen ||:  18 : 30  --  19 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  18 : 30  --  19 : 00 
+ || Younger sister met Father in Bathroom ||:  18 : 30  --  19 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  18 : 30  --  19 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  18 : 30  --  19 : 00 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  18 : 30  --  19 : 00 
+ || Older sister met Father in ChildrenBedroom ||:  18 : 30  --  19 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  18 : 30  --  19 : 00 
+ || Mother met Father in Bathroom ||:  18 : 30  --  19 : 00 
+ || Mother crashed Hairdryer in Bathroom ||:  19 : 00  --  19 : 30 
+ || Mother switched on Hairdryer in Bathroom ||:  19 : 00  --  19 : 30 
+ || Grandmother 1 met Older sister in LivingRoom ||:  19 : 00  --  19 : 30 
+ || Grandmother 1 met Younger sister in LivingRoom ||:  19 : 00  --  19 : 30 
+ || Grandmother 1 crashed TV in LivingRoom ||:  19 : 00  --  19 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  19 : 00  --  19 : 30 
+ || Grandmother 1 switched on TV in LivingRoom ||:  19 : 00  --  19 : 30 
+ || Temperature Sensor alarmed in Kitchen ||:  19 : 00  --  19 : 30 
+ || Mother met Father in Kitchen ||:  19 : 00  --  19 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  19 : 00  --  19 : 30 
+ || Father met Dog 1 in Bedroom ||:  19 : 00  --  19 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  19 : 00  --  19 : 30 
+ || Younger sister met Father in Bathroom ||:  19 : 00  --  19 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  19 : 00  --  19 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  19 : 00  --  19 : 30 
+ || Father met Dog 1 in Bedroom ||:  19 : 30  --  20 : 00 
+ || Mother switched on CoffeeMachine in Kitchen ||:  19 : 30  --  20 : 00 
+ || Mother used CoffeeMachine in Kitchen ||:  19 : 30  --  20 : 00 
+ || Mother switched off CoffeeMachine in Kitchen ||:  19 : 30  --  20 : 00 
+ || Grandmother 1 met Grandmother 2 in LivingRoom ||:  19 : 30  --  20 : 00 
+ || Older sister met Dog 1 in Bedroom ||:  19 : 30  --  20 : 00 
+ || Grandmother 2 switched on TV in Bedroom ||:  19 : 30  --  20 : 00 
+ || Grandmother 2 crashed TV in Bedroom ||:  19 : 30  --  20 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  19 : 30  --  20 : 00 
+ || Grandmother 2 switched on TV in Bedroom ||:  19 : 30  --  20 : 00 
+ || Younger sister switched on Dryer in Bathroom ||:  19 : 30  --  20 : 00 
+ || Younger sister used Dryer in Bathroom ||:  19 : 30  --  20 : 00 
+ || Younger sister switched off Dryer in Bathroom ||:  19 : 30  --  20 : 00 
+ || Grandmother 1 switched on Aquarium in LivingRoom ||:  19 : 30  --  20 : 00 
+ || Grandmother 1 used Aquarium in LivingRoom ||:  19 : 30  --  20 : 00 
+ || Grandmother 1 switched off Aquarium in LivingRoom ||:  19 : 30  --  20 : 00 
+ || Smoke Sensor alarmed in Garage ||:  19 : 30  --  20 : 00 
+ || Mother switched on BlindWindow in Kitchen ||:  20 : 00  --  20 : 30 
+ || Mother used BlindWindow in Kitchen ||:  20 : 00  --  20 : 30 
+ || Mother switched off BlindWindow in Kitchen ||:  20 : 00  --  20 : 30 
+ || Father switched on Conditioner in Bedroom ||:  20 : 00  --  20 : 30 
+ || Father used Conditioner in Bedroom ||:  20 : 00  --  20 : 30 
+ || Father switched off Conditioner in Bedroom ||:  20 : 00  --  20 : 30 
+ || Grandmother 1 used PlayStation in LivingRoom ||:  20 : 00  --  20 : 30 
+ || Grandmother 1 switched off PlayStation in LivingRoom ||:  20 : 00  --  20 : 30 
+ || Grandmother 2 crashed TV in Bedroom ||:  20 : 00  --  20 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  20 : 00  --  20 : 30 
+ || Grandmother 2 switched on TV in Bedroom ||:  20 : 00  --  20 : 30 
+ || Younger sister switched on WashingMachine in Bathroom ||:  20 : 00  --  20 : 30 
+ || Younger sister used WashingMachine in Bathroom ||:  20 : 00  --  20 : 30 
+ || Younger sister switched off WashingMachine in Bathroom ||:  20 : 00  --  20 : 30 
+ || Mother met Dog 2 in Kitchen ||:  20 : 00  --  20 : 30 
+ || Mother used Oven in Kitchen ||:  20 : 00  --  20 : 30 
+ || Mother switched off Oven in Kitchen ||:  20 : 00  --  20 : 30 
+ || Temperature Sensor alarmed in Kitchen ||:  20 : 00  --  20 : 30 
+ || Mother met Father in Kitchen ||:  20 : 00  --  20 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  20 : 00  --  20 : 30 
+ || Father met Dog 1 in Bedroom ||:  20 : 00  --  20 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  20 : 00  --  20 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  20 : 00  --  20 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  20 : 00  --  20 : 30 
+ || Mother met Father in Bathroom ||:  20 : 00  --  20 : 30 
+ || Mother switched on Dryer in Bathroom ||:  20 : 30  --  21 : 00 
+ || Mother crashed Dryer in Bathroom ||:  20 : 30  --  21 : 00 
+ || Mother switched on Dryer in Bathroom ||:  20 : 30  --  21 : 00 
+ || Grandmother 2 met Older sister in Bedroom ||:  20 : 30  --  21 : 00 
+ || Grandmother 2 crashed Laptop in Bedroom ||:  20 : 30  --  21 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  20 : 30  --  21 : 00 
+ || Grandmother 2 switched on Laptop in Bedroom ||:  20 : 30  --  21 : 00 
+ || Mother used Fridge in Kitchen ||:  20 : 30  --  21 : 00 
+ || Mother switched off Fridge in Kitchen ||:  20 : 30  --  21 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  20 : 30  --  21 : 00 
+ || Mother met Father in Bathroom ||:  20 : 30  --  21 : 00 
+ || Mother crashed Dryer in Bathroom ||:  21 : 00  --  21 : 30 
+ || Mother switched on Dryer in Bathroom ||:  21 : 00  --  21 : 30 
+ || Mother crashed Dryer in Bathroom ||:  21 : 00  --  21 : 30 
+ || Mother switched on Dryer in Bathroom ||:  21 : 00  --  21 : 30 
+ || Mother crashed Toaster in Kitchen ||:  21 : 00  --  21 : 30 
+ || Mother met Father in Kitchen ||:  21 : 00  --  21 : 30 
+ || Mother switched on Toaster in Kitchen ||:  21 : 00  --  21 : 30 
+ || Grandmother 2 crashed TV in Bedroom ||:  21 : 00  --  21 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  21 : 00  --  21 : 30 
+ || Grandmother 2 switched on TV in Bedroom ||:  21 : 00  --  21 : 30 
+ || Grandmother 2 played with Cat 1 in Bedroom ||:  21 : 00  --  21 : 30 
+ || Grandmother 2 switched on BlindWindow in Bedroom ||:  21 : 00  --  21 : 30 
+ || Grandmother 2 used BlindWindow in Bedroom ||:  21 : 00  --  21 : 30 
+ || Grandmother 2 switched off BlindWindow in Bedroom ||:  21 : 00  --  21 : 30 
+ || Younger sister switched on Dryer in Bathroom ||:  21 : 00  --  21 : 30 
+ || Younger sister crashed Dryer in Bathroom ||:  21 : 00  --  21 : 30 
+ || Younger sister met Father in Bathroom ||:  21 : 00  --  21 : 30 
+ || Younger sister switched on Dryer in Bathroom ||:  21 : 00  --  21 : 30 
+ || Smoke Sensor alarmed in Garage ||:  21 : 00  --  21 : 30 
+ || Smoke Sensor alarmed in Kitchen ||:  21 : 00  --  21 : 30 
+ || Mother met Father in Kitchen ||:  21 : 00  --  21 : 30 
+ || Smoke Sensor alarmed in LivingRoom ||:  21 : 00  --  21 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  21 : 00  --  21 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  21 : 00  --  21 : 30 
+ || Younger sister met Father in Bathroom ||:  21 : 00  --  21 : 30 
+ || Smoke Sensor alarmed in Bedroom ||:  21 : 00  --  21 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  21 : 00  --  21 : 30 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  21 : 00  --  21 : 30 
+ || Older sister met Father in ChildrenBedroom ||:  21 : 00  --  21 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  21 : 00  --  21 : 30 
+ || Mother met Father in Bathroom ||:  21 : 00  --  21 : 30 
+ || Older sister met Mother in ChildrenBedroom ||:  21 : 30  --  22 : 00 
+ || Older sister switched on BlindWindow in ChildrenBedroom ||:  21 : 30  --  22 : 00 
+ || Older sister used BlindWindow in ChildrenBedroom ||:  21 : 30  --  22 : 00 
+ || Older sister switched off BlindWindow in ChildrenBedroom ||:  21 : 30  --  22 : 00 
+ || Mother switched on Oven in Kitchen ||:  21 : 30  --  22 : 00 
+ || Mother used Oven in Kitchen ||:  21 : 30  --  22 : 00 
+ || Mother switched off Oven in Kitchen ||:  21 : 30  --  22 : 00 
+ || Grandmother 1 switched on Aquarium in LivingRoom ||:  21 : 30  --  22 : 00 
+ || Grandmother 1 crashed Aquarium in LivingRoom ||:  21 : 30  --  22 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  21 : 30  --  22 : 00 
+ || Grandmother 1 switched on Aquarium in LivingRoom ||:  21 : 30  --  22 : 00 
+ || Grandmother 1 used BlindWindow in LivingRoom ||:  21 : 30  --  22 : 00 
+ || Grandmother 1 switched off BlindWindow in LivingRoom ||:  21 : 30  --  22 : 00 
+ || Mother met Cat 2 in Kitchen ||:  21 : 30  --  22 : 00 
+ || Mother switched on Feeder in Kitchen ||:  21 : 30  --  22 : 00 
+ || Mother crashed Feeder in Kitchen ||:  21 : 30  --  22 : 00 
+ || Mother met Father in Kitchen ||:  21 : 30  --  22 : 00 
+ || Mother switched on Feeder in Kitchen ||:  21 : 30  --  22 : 00 
+ || Smoke Sensor alarmed in Garage ||:  21 : 30  --  22 : 00 
+ || Smoke Sensor alarmed in LivingRoom ||:  21 : 30  --  22 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  21 : 30  --  22 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  21 : 30  --  22 : 00 
+ || Younger sister met Father in Bathroom ||:  21 : 30  --  22 : 00 
+ || Smoke Sensor alarmed in Bedroom ||:  21 : 30  --  22 : 00 
+ || Grandmother 2 met Father in Bedroom ||:  21 : 30  --  22 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  21 : 30  --  22 : 00 
+ || Mother met Father in Bathroom ||:  21 : 30  --  22 : 00 
+ || Older sister switched on PC in ChildrenBedroom ||:  22 : 00  --  22 : 30 
+ || Older sister used PC in ChildrenBedroom ||:  22 : 00  --  22 : 30 
+ || Older sister switched off PC in ChildrenBedroom ||:  22 : 00  --  22 : 30 
+ || Grandmother 1 used RoboVacuumCleaner in LivingRoom ||:  22 : 00  --  22 : 30 
+ || Grandmother 1 switched off RoboVacuumCleaner in LivingRoom ||:  22 : 00  --  22 : 30 
+ || Grandmother 2 used Laptop in Bedroom ||:  22 : 00  --  22 : 30 
+ || Grandmother 2 switched off Laptop in Bedroom ||:  22 : 00  --  22 : 30 
+ || Mother met Dog 1 in Kitchen ||:  22 : 00  --  22 : 30 
+ || Mother switched on CoffeeMachine in Kitchen ||:  22 : 00  --  22 : 30 
+ || Mother crashed CoffeeMachine in Kitchen ||:  22 : 00  --  22 : 30 
+ || Mother met Father in Kitchen ||:  22 : 00  --  22 : 30 
+ || Mother switched on CoffeeMachine in Kitchen ||:  22 : 00  --  22 : 30 
+ || Smoke Sensor alarmed in Garage ||:  22 : 00  --  22 : 30 
+ || Smoke Sensor alarmed in Kitchen ||:  22 : 00  --  22 : 30 
+ || Mother met Father in Kitchen ||:  22 : 00  --  22 : 30 
+ || Temperature Sensor alarmed in Kitchen ||:  22 : 00  --  22 : 30 
+ || Smoke Sensor alarmed in LivingRoom ||:  22 : 00  --  22 : 30 
+ || Grandmother 1 met Father in LivingRoom ||:  22 : 00  --  22 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  22 : 00  --  22 : 30 
+ || Younger sister met Father in Bathroom ||:  22 : 00  --  22 : 30 
+ || Smoke Sensor alarmed in ChildrenBedroom ||:  22 : 00  --  22 : 30 
+ || Older sister met Father in ChildrenBedroom ||:  22 : 00  --  22 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  22 : 00  --  22 : 30 
+ || Mother met Father in Bathroom ||:  22 : 00  --  22 : 30 
+ || Mother switched on BlindWindow in Kitchen ||:  22 : 30  --  23 : 00 
+ || Mother crashed BlindWindow in Kitchen ||:  22 : 30  --  23 : 00 
+ || Mother met Father in Kitchen ||:  22 : 30  --  23 : 00 
+ || Mother switched on BlindWindow in Kitchen ||:  22 : 30  --  23 : 00 
+ || Grandmother 2 played with Dog 1 in Bedroom ||:  22 : 30  --  23 : 00 
+ || Grandmother 2 met Younger sister in Bedroom ||:  22 : 30  --  23 : 00 
+ || Grandmother 2 switched on Conditioner in Bedroom ||:  22 : 30  --  23 : 00 
+ || Grandmother 2 used Conditioner in Bedroom ||:  22 : 30  --  23 : 00 
+ || Grandmother 2 switched off Conditioner in Bedroom ||:  22 : 30  --  23 : 00 
+ || Mother switched on Dishwasher in Kitchen ||:  22 : 30  --  23 : 00 
+ || Mother crashed Dishwasher in Kitchen ||:  22 : 30  --  23 : 00 
+ || Mother switched on Dishwasher in Kitchen ||:  22 : 30  --  23 : 00 
+ || Mother switched on Oven in Kitchen ||:  22 : 30  --  23 : 00 
+ || Mother crashed Oven in Kitchen ||:  22 : 30  --  23 : 00 
+ || Mother switched on Oven in Kitchen ||:  22 : 30  --  23 : 00 
+ || Mother used BlindWindow in Kitchen ||:  22 : 30  --  23 : 00 
+ || Mother switched off BlindWindow in Kitchen ||:  22 : 30  --  23 : 00 
+ || Smoke Sensor alarmed in Garage ||:  22 : 30  --  23 : 00 
+ || Smoke Sensor alarmed in Kitchen ||:  22 : 30  --  23 : 00 
+ || Mother met Father in Kitchen ||:  22 : 30  --  23 : 00 
+ || Temperature Sensor alarmed in Kitchen ||:  22 : 30  --  23 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  22 : 30  --  23 : 00 
+ || Mother met Father in Bathroom ||:  22 : 30  --  23 : 00 
+ || Older sister switched on PC in ChildrenBedroom ||:  23 : 00  --  23 : 30 
+ || Older sister used PC in ChildrenBedroom ||:  23 : 00  --  23 : 30 
+ || Older sister switched off PC in ChildrenBedroom ||:  23 : 00  --  23 : 30 
+ || Mother used Hairdryer in Bathroom ||:  23 : 00  --  23 : 30 
+ || Mother switched off Hairdryer in Bathroom ||:  23 : 00  --  23 : 30 
+ || Father used Laptop in Bedroom ||:  23 : 00  --  23 : 30 
+ || Father switched off Laptop in Bedroom ||:  23 : 00  --  23 : 30 
+ || Grandmother 2 used TV in Bedroom ||:  23 : 00  --  23 : 30 
+ || Grandmother 2 switched off TV in Bedroom ||:  23 : 00  --  23 : 30 
+ || Younger sister played with Dog 1 in Bedroom ||:  23 : 00  --  23 : 30 
+ || Grandmother 2 switched on BlindWindow in Bedroom ||:  23 : 00  --  23 : 30 
+ || Grandmother 2 crashed BlindWindow in Bedroom ||:  23 : 00  --  23 : 30 
+ || Grandmother 2 met Father in Bedroom ||:  23 : 00  --  23 : 30 
+ || Grandmother 2 switched on BlindWindow in Bedroom ||:  23 : 00  --  23 : 30 
+ || Mother crashed Toaster in Kitchen ||:  23 : 00  --  23 : 30 
+ || Mother met Father in Kitchen ||:  23 : 00  --  23 : 30 
+ || Mother switched on Toaster in Kitchen ||:  23 : 00  --  23 : 30 
+ || Mother switched on BlindWindow in Kitchen ||:  23 : 00  --  23 : 30 
+ || Mother crashed BlindWindow in Kitchen ||:  23 : 00  --  23 : 30 
+ || Mother switched on BlindWindow in Kitchen ||:  23 : 00  --  23 : 30 
+ || Mother crashed Dishwasher in Kitchen ||:  23 : 00  --  23 : 30 
+ || Mother switched on Dishwasher in Kitchen ||:  23 : 00  --  23 : 30 
+ || Smoke Sensor alarmed in Garage ||:  23 : 00  --  23 : 30 
+ || Humidity Sensor alarmed in Bathroom ||:  23 : 00  --  23 : 30 
+ || Younger sister met Father in Bathroom ||:  23 : 00  --  23 : 30 
+ || Mother met Dog 1 in Bedroom ||:  23 : 30  --  24 : 00 
+ || Younger sister crashed Dryer in Bathroom ||:  23 : 30  --  24 : 00 
+ || Younger sister switched on Dryer in Bathroom ||:  23 : 30  --  24 : 00 
+ || Grandmother 2 switched on Laptop in Bedroom ||:  23 : 30  --  24 : 00 
+ || Grandmother 2 used Laptop in Bedroom ||:  23 : 30  --  24 : 00 
+ || Grandmother 2 switched off Laptop in Bedroom ||:  23 : 30  --  24 : 00 
+ || Grandmother 2 switched on Conditioner in Bedroom ||:  23 : 30  --  24 : 00 
+ || Grandmother 2 used Conditioner in Bedroom ||:  23 : 30  --  24 : 00 
+ || Grandmother 2 switched off Conditioner in Bedroom ||:  23 : 30  --  24 : 00 
+ || Smoke Sensor alarmed in LivingRoom ||:  23 : 30  --  24 : 00 
+ || Grandmother 1 met Father in LivingRoom ||:  23 : 30  --  24 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  23 : 30  --  24 : 00 
+ || Younger sister met Father in Bathroom ||:  23 : 30  --  24 : 00 
+ || Humidity Sensor alarmed in Bathroom ||:  23 : 30  --  24 : 00 
+ || Mother met Father in Bathroom ||:  23 : 30  --  24 : 00 
+===========================================================================
+
+

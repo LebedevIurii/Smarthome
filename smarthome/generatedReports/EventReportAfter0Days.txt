@@ -1,0 +1,10 @@
+SmartHome Event Report:
+===========================================================================
+ || Older sister met Younger sister in ChildrenBedroom ||:  00 : 00  --  00 : 00 
+ || Grandmother 1 played with Fish in LivingRoom ||:  00 : 00  --  00 : 00 
+ || Grandmother 1 played with Cat 1 in LivingRoom ||:  00 : 00  --  00 : 00 
+ || Grandmother 2 played with Cat 2 in Bedroom ||:  00 : 00  --  00 : 00 
+ || Older sister met Dog 2 in ChildrenBedroom ||:  00 : 00  --  00 : 00 
+===========================================================================
+
+

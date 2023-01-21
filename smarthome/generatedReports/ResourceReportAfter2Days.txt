@@ -1,0 +1,37 @@
+SmartHome Electricity Consumption Report:
+===========================================================================
+GarageDoors in Garage used 210 unit(s) of electricity which cost 1703Kč;
+BlindWindow in Kitchen used 360 unit(s) of electricity which cost 2920Kč;
+Fridge in Kitchen used 270 unit(s) of electricity which cost 2190Kč;
+Dishwasher in Kitchen used 150 unit(s) of electricity which cost 1217Kč;
+Oven in Kitchen used 390 unit(s) of electricity which cost 3163Kč;
+Feeder in Kitchen used 150 unit(s) of electricity which cost 1217Kč;
+Toaster in Kitchen used 270 unit(s) of electricity which cost 2190Kč;
+CoffeeMachine in Kitchen used 210 unit(s) of electricity which cost 1703Kč;
+Aquarium in LivingRoom used 240 unit(s) of electricity which cost 1947Kč;
+Router in LivingRoom used 210 unit(s) of electricity which cost 1703Kč;
+BlindWindow in LivingRoom used 330 unit(s) of electricity which cost 2677Kč;
+TV in LivingRoom used 210 unit(s) of electricity which cost 1703Kč;
+RoboVacuumCleaner in LivingRoom used 240 unit(s) of electricity which cost 1947Kč;
+PlayStation in LivingRoom used 450 unit(s) of electricity which cost 3650Kč;
+Conditioner in LivingRoom used 300 unit(s) of electricity which cost 2433Kč;
+BlindWindow in Bedroom used 300 unit(s) of electricity which cost 2433Kč;
+TV in Bedroom used 390 unit(s) of electricity which cost 3163Kč;
+Laptop in Bedroom used 540 unit(s) of electricity which cost 4380Kč;
+Conditioner in Bedroom used 540 unit(s) of electricity which cost 4380Kč;
+WashingMachine in Bathroom used 690 unit(s) of electricity which cost 5597Kč;
+Dryer in Bathroom used 510 unit(s) of electricity which cost 4137Kč;
+Hairdryer in Bathroom used 600 unit(s) of electricity which cost 4867Kč;
+BlindWindow in Bedroom used 540 unit(s) of electricity which cost 4380Kč;
+TV in Bedroom used 690 unit(s) of electricity which cost 5597Kč;
+Laptop in Bedroom used 540 unit(s) of electricity which cost 4380Kč;
+Conditioner in Bedroom used 660 unit(s) of electricity which cost 5353Kč;
+BlindWindow in ChildrenBedroom used 420 unit(s) of electricity which cost 3407Kč;
+PC in ChildrenBedroom used 450 unit(s) of electricity which cost 3650Kč;
+Conditioner in ChildrenBedroom used 540 unit(s) of electricity which cost 4380Kč;
+WashingMachine in Bathroom used 780 unit(s) of electricity which cost 6327Kč;
+Dryer in Bathroom used 750 unit(s) of electricity which cost 6083Kč;
+Hairdryer in Bathroom used 540 unit(s) of electricity which cost 4380Kč;
+===========================================================================
+
+

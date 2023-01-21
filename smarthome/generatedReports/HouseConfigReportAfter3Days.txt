@@ -1,0 +1,64 @@
+SmartHome House Config Report:
+===========================================================================
+Smart home 
+  Floor number 1
+      Garage on the floor number 0
+          Auto
+          Bike
+          Moto
+          GarageDoors
+          Smoke Sensor
+      Kitchen on the floor number 0
+          BlindWindow
+          Fridge
+          Dishwasher
+          Oven
+          Feeder
+          Toaster
+          CoffeeMachine
+          Smoke Sensor
+          Temperature Sensor
+      LivingRoom on the floor number 0
+          Aquarium
+          Router
+          BlindWindow
+          TV
+          RoboVacuumCleaner
+          PlayStation
+          Conditioner
+          Smoke Sensor
+      Bedroom on the floor number 0
+          BlindWindow
+          TV
+          Conditioner
+          Smoke Sensor
+  Floor number 2
+      Bedroom on the floor number 1
+          BlindWindow
+          TV
+          Laptop
+          Conditioner
+          Smoke Sensor
+      ChildrenBedroom on the floor number 1
+          BlindWindow
+          PC
+          Conditioner
+          Smoke Sensor
+      Bathroom on the floor number 1
+          WashingMachine
+          Dryer
+          Hairdryer
+          Humidity Sensor
+===========================================================================
+          Mother
+          Father
+          Grandfather
+          Grandmother
+          Older sister
+          Younger sister
+          Fish
+          Cat
+          Dog
+===========================================================================
+
+

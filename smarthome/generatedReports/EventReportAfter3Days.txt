@@ -1,0 +1,23 @@
+SmartHome Event Report:
+===========================================================================
+ || Older sister met Younger sister in ChildrenBedroom ||:  00 : 00  --  00 : 00 
+ || Grandfather met Fish in LivingRoom ||:  00 : 00  --  00 : 00 
+ || Grandfather met Cat in LivingRoom ||:  00 : 00  --  00 : 00 
+ || Grandfather met Mother in LivingRoom ||:  00 : 00  --  00 : 30 
+ || Grandfather switched on Router in LivingRoom ||:  00 : 00  --  00 : 30 
+ || Grandfather used Router in LivingRoom ||:  00 : 00  --  00 : 30 
+ || Grandfather switched off Router in LivingRoom ||:  00 : 00  --  00 : 30 
+ || Grandfather switched on BlindWindow in LivingRoom ||:  00 : 00  --  00 : 30 
+ || Grandfather crashed BlindWindow in LivingRoom ||:  00 : 00  --  00 : 30 
+ || Grandfather met Father in LivingRoom ||:  00 : 00  --  00 : 30 
+ || Grandfather switched on BlindWindow in LivingRoom ||:  00 : 00  --  00 : 30 
+ || Grandmother switched on Conditioner in Bedroom ||:  00 : 00  --  00 : 30 
+ || Grandmother used Conditioner in Bedroom ||:  00 : 00  --  00 : 30 
+ || Grandmother switched off Conditioner in Bedroom ||:  00 : 00  --  00 : 30 
+ || Older sister switched on BlindWindow in ChildrenBedroom ||:  00 : 00  --  00 : 30 
+ || Older sister used BlindWindow in ChildrenBedroom ||:  00 : 00  --  00 : 30 
+ || Older sister switched off BlindWindow in ChildrenBedroom ||:  00 : 00  --  00 : 30 
+ || Older sister switched on BlindWindow in ChildrenBedroom ||:  00 : 00  --  00 : 30 
+ || Older sister used BlindWindow in ChildrenBedroom ||:  00 : 00  --  00 : 30 
+ || Older sister switched off BlindWindow in ChildrenBedroom ||:  00 : 00  --  00 : 30 
+ || Mother met Cat in Kitchen ||:  00 : 00  --  00 : 30 

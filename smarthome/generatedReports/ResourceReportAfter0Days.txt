@@ -1,0 +1,37 @@
+SmartHome Electricity Consumption Report:
+===========================================================================
+GarageDoors in Garage used 0 unit(s) of electricity which cost 0Kč;
+BlindWindow in Kitchen used 0 unit(s) of electricity which cost 0Kč;
+Fridge in Kitchen used 0 unit(s) of electricity which cost 0Kč;
+Dishwasher in Kitchen used 0 unit(s) of electricity which cost 0Kč;
+Oven in Kitchen used 0 unit(s) of electricity which cost 0Kč;
+Feeder in Kitchen used 0 unit(s) of electricity which cost 0Kč;
+Toaster in Kitchen used 0 unit(s) of electricity which cost 0Kč;
+CoffeeMachine in Kitchen used 0 unit(s) of electricity which cost 0Kč;
+Aquarium in LivingRoom used 0 unit(s) of electricity which cost 0Kč;
+Router in LivingRoom used 0 unit(s) of electricity which cost 0Kč;
+BlindWindow in LivingRoom used 0 unit(s) of electricity which cost 0Kč;
+TV in LivingRoom used 0 unit(s) of electricity which cost 0Kč;
+RoboVacuumCleaner in LivingRoom used 0 unit(s) of electricity which cost 0Kč;
+PlayStation in LivingRoom used 0 unit(s) of electricity which cost 0Kč;
+Conditioner in LivingRoom used 0 unit(s) of electricity which cost 0Kč;
+BlindWindow in Bedroom used 0 unit(s) of electricity which cost 0Kč;
+TV in Bedroom used 0 unit(s) of electricity which cost 0Kč;
+Laptop in Bedroom used 0 unit(s) of electricity which cost 0Kč;
+Conditioner in Bedroom used 0 unit(s) of electricity which cost 0Kč;
+WashingMachine in Bathroom used 0 unit(s) of electricity which cost 0Kč;
+Dryer in Bathroom used 0 unit(s) of electricity which cost 0Kč;
+Hairdryer in Bathroom used 0 unit(s) of electricity which cost 0Kč;
+BlindWindow in Bedroom used 0 unit(s) of electricity which cost 0Kč;
+TV in Bedroom used 0 unit(s) of electricity which cost 0Kč;
+Laptop in Bedroom used 0 unit(s) of electricity which cost 0Kč;
+Conditioner in Bedroom used 0 unit(s) of electricity which cost 0Kč;
+BlindWindow in ChildrenBedroom used 0 unit(s) of electricity which cost 0Kč;
+PC in ChildrenBedroom used 0 unit(s) of electricity which cost 0Kč;
+Conditioner in ChildrenBedroom used 0 unit(s) of electricity which cost 0Kč;
+WashingMachine in Bathroom used 0 unit(s) of electricity which cost 0Kč;
+Dryer in Bathroom used 0 unit(s) of electricity which cost 0Kč;
+Hairdryer in Bathroom used 0 unit(s) of electricity which cost 0Kč;
+===========================================================================
+
+
