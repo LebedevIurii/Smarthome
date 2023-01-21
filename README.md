@@ -2,8 +2,8 @@
 
 
 ## Autoři 
-* Ekaterina Gulina ([gulineka@fel.cvut.cz](mailto:gulineka@fel.cvut.cz))
-* Iurii Lebedev ([lebediur@fel.cvut.cz](mailto:lebediur@fel.cvut.cz))
+* Ekaterina Gulina
+* Iurii Lebedev
 
 ## Zadání práce
 
